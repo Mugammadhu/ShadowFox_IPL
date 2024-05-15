@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "occupation":"Owner",
+        "name":"Preity Zinta",
+        "imgSrc":"about/pkOwner.png",
+        "content":"Preity Zinta, a versatile Bollywood actress and entrepreneur, embodies charisma and resilience in the Indian entertainment industry. With her debut in \"Dil Se..\" and subsequent impactful performances in films like \"Kal Ho Naa Ho\" and \"Veer-Zaara,\" Zinta established herself as a beloved figure known for her vivacity and charm on screen. Beyond acting, she ventured into business, co-owning the Indian Premier League cricket team Kings XI Punjab, showcasing her astute entrepreneurial acumen. Zinta's philanthropic endeavors, coupled with her unwavering spirit, make her a multifaceted personality admired by audiences worldwide.",
+        "link":"https://en.wikipedia.org/wiki/Preity_Zinta",
+        "linkData":"Preity Zinta"
+    },
+    {
+        "id":2,
+        "occupation":"Coach",
+        "name":"Trevor Bayliss",
+        "imgSrc":"about/pkcoach.png",
+        "content":"Trevor Bayliss, a highly respected figure in the cricketing world, is renowned for his astute coaching abilities and calm demeanor. Hailing from Australia, Bayliss has left an indelible mark on the sport, particularly for his successful stints as head coach of the Sri Lankan and England cricket teams. Under his guidance, Sri Lanka achieved remarkable success, including winning the ICC World Twenty20 in 2014. Bayliss further solidified his coaching legacy by steering England to their maiden ICC Cricket World Cup triumph in 2019. His emphasis on player empowerment and strategic acumen have earned him accolades, establishing him as one of the most sought-after cricket coaches globally.",
+        "link":"https://en.wikipedia.org/wiki/Trevor_Bayliss",
+        "linkData":"Trevor Bayliss"
+    },
+    {
+        "id":3,
+        "occupation":"Venue",
+        "name":"PCA New Stadium, Mullanpur",
+        "imgSrc":"about/pk1ground.jpg",
+        "content":"The PCA New Stadium in Mullanpur, Punjab, stands as a state-of-the-art cricketing venue in India's sporting landscape. As the latest addition to the Punjab Cricket Association's infrastructure, this stadium boasts modern facilities and a picturesque setting, making it a hub for domestic and international cricket matches. With a seating capacity of over 38,000 spectators, the PCA New Stadium offers a vibrant atmosphere for cricket enthusiasts, ensuring memorable experiences for players and fans alike.",
+        "link":"https://en.wikipedia.org/wiki/Maharaja_Yadavindra_Singh_International_Cricket_Stadium",
+        "linkData":"PCA New Stadium"
+    },
+    {
+        "id":4,
+        "occupation":"Captain",
+        "name":"Shikhar Dhawan",
+        "imgSrc":"about/pkcaptain.png",
+        "content":"Shikhar Dhawan, a prolific left-handed opening batsman for the Indian cricket team, embodies flair and consistency in the sport. Known for his aggressive stroke play and ability to anchor innings, Dhawan has carved a niche for himself in all formats of the game. With a knack for delivering impactful performances in crucial matches, including ICC tournaments, he has earned the moniker of 'Gabbar' among fans. Dhawan's infectious energy on the field, coupled with his leadership qualities, makes him a valuable asset to the team, inspiring generations of aspiring cricketers with his journey from domestic cricket to international stardom.",
+        "link":"https://en.wikipedia.org/wiki/Shikhar_Dhawan",
+        "linkData":"Shikhar Dhawan"
+    }
+]

@@ -1,0 +1,85 @@
+@import '../../variable.css';
+
+.playerContainer{
+background-image: url(../../assets/Team/playersbg.webp);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+position: relative;
+scroll-behavior: smooth;
+width:100%;
+min-height: 100vh;
+}
+
+.playerMenu{
+    width: 50px;
+    position: fixed;
+    top: 70px;
+    right: 30px;
+    cursor: pointer; 
+}
+
+.batter-title,.allRounder-title,.bowler-title{
+    color: var(--bg-color);
+    font-weight: 600;
+    padding-top: 10px;
+   
+}
+.batter,.allRounder,.bowler{
+    margin-top: 20px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-left: 10px;
+}
+.playersList{
+    display: none;
+    position: fixed;
+    top: 130px;
+    right: 10px;
+    z-index: 1;
+    list-style: none;
+    background-color: var(--bg-color);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px #fff;
+    border: 2px solid #000;
+    
+
+}
+.playersList li {
+    margin-top: 10px;
+    display: block;
+    width: 100%;
+    cursor: pointer;
+}
+.playersList li a{
+    text-decoration: none;
+    font-size: 18px;
+    color: var(--black);
+    display: block;
+    width: 100%;
+    background: var(--linear-bg);
+    padding: 5px;
+    border-radius: 5px;   
+    text-align: center;
+    font-weight: 500;
+    transition: all 0.5s;
+}
+.playersList li a:hover{
+    background:rgb(0, 0, 0);
+    color: #fff !important;    border: 1px solid var(--bg-color);
+}  
+.openList{
+    display: block;
+}
+@media screen and (max-width:830px){
+    .batter{
+        margin-left: auto;
+    }
+    .playerMenu{
+        z-index: 1;
+        right: 10px;
+    }
+    
+}

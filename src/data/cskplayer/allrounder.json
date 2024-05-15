@@ -1,0 +1,60 @@
+[
+    {
+        "id":8,
+        "name":"RAVINDRA JADEJA",
+        "Specialization":"ALL-ROUNDER",
+        "imgSrc":"Players/csk/allRounder/jadeja.jpg"
+    },
+    {
+        "id":9,
+        "name":"MITCHELL SANTNER",
+        "Specialization":"ALL-ROUNDER",
+        "imgSrc":"Players/csk/allRounder/santner.jpg",
+        "logo":"Players/logo/foreignplayer.svg"
+    },
+    {
+        "id":10,
+        "name":"MOEEN ALI",
+        "Specialization":"ALL-ROUNDER",
+        "imgSrc":"Players/csk/allRounder/ali.jpg",
+        "logo":"Players/logo/foreignplayer.svg"
+    },
+    {
+        "id":11,
+        "name":"SHIVAM DUBE",
+        "Specialization":"ALL-ROUNDER",
+        "imgSrc":"Players/csk/allRounder/dube.jpg" 
+    },
+    {
+        "id":12,
+        "name":"NISHANT SINDHU",
+        "Specialization":"ALL-ROUNDER",
+        "imgSrc":"Players/csk/allRounder/sindhu.jpg" 
+    },
+    {
+        "id":13,
+        "name":"AJAY MANDAL",
+        "Specialization":"ALL-ROUNDER",
+        "imgSrc":"Players/csk/allRounder/ajay.jpg" 
+    },
+    {
+        "id":14,
+        "name":"RACHIN RAVINDRA",
+        "Specialization":"ALL-ROUNDER",
+        "imgSrc":"Players/csk/allRounder/rachin.jpg" ,
+        "logo":"Players/logo/foreignplayer.svg"
+    },
+    {
+        "id":15,
+        "name":"DARYL MITCHELL",
+        "Specialization":"ALL-ROUNDER",
+        "imgSrc":"Players/csk/allRounder/mitchell.jpg" ,
+        "logo":"Players/logo/foreignplayer.svg"
+    },
+    {
+        "id":16,
+        "name":"SHARDUL THAKUR",
+        "Specialization":"ALL-ROUNDER",
+        "imgSrc":"Players/csk/allRounder/thakur.jpg"
+    }
+]

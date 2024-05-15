@@ -1,0 +1,166 @@
+@import '../../variable.css';
+.teamCard{
+    width: 280px;
+    height: 280px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: #000;
+    position: relative;
+    border: none;
+    z-index: 2;
+}
+a{
+    text-decoration: none;
+}
+
+.teamlogo{
+    
+    border-radius: 10px 10px 40% 40%;
+    background-color: var(--white-color);
+    width: 100%;
+    height: 180px;
+    position: absolute;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+
+.CSK-top{
+    background: var(--csk-top);
+}
+.CSK-bottom{
+    background: var(--csk-bottom);
+}
+.DC-top{
+    background: var(--dc-top);
+}
+.DC-bottom{
+    background: var(--dc-bottom);
+}
+.GT-top{
+    background: var(--gt-top);
+}
+.GT-bottom{
+    background: var(--gt-bottom);
+}
+.KKR-top{
+    background: var(--kkr-top);
+}
+.KKR-bottom{
+    background: var(--kkr-bottom);
+}
+.LSG-top{
+    background: var(--lsg-top);
+}
+.LSG-bottom{
+    background: var(--lsg-bottom);
+}
+.MI-top{
+    background: var(--mi-top);
+}
+.MI-bottom{
+    background: var(--mi-bottom);
+}
+.PK-top{
+    background: var(--pk-top);
+}
+.PK-bottom{
+    background: var(--pk-bottom);
+}
+.RR-top{
+    background: var(--rr-top);
+}
+.RR-bottom{
+    background: var(--rr-bottom);
+}
+.RCB-top{
+    background: var(--rcb-top);
+}
+.RCB-bottom{
+    background: var(--rcb-bottom);
+}
+.SRH-top{
+    background: var(--srh-top);
+}
+.SRH-bottom{
+    background: var(--srh-bottom);
+}
+
+
+.teamCard img {
+    height: 150px;
+    width: 150px;
+}
+
+.teamname{
+    position: absolute;
+    bottom: 15px;
+    
+}
+.teamname h1{
+    color: var(--white-color);
+    font-size: 20px;
+}
+.head-RCB{
+   text-align: center;
+}
+.teambox{
+    background-color: white;
+    border-radius: 12px;
+    width: 260px;
+    height: 260px;
+    
+}
+.nodisplay:hover{
+    transition: all 0.5s;
+    opacity: 0;
+    
+}
+.years{
+    position: relative;
+   top: -107.7%;
+   z-index: 1;
+   background-color: #f1f1f1;
+   width: 280px;
+   height: 280px;
+   border-radius: 12px;
+
+    
+}
+.teamInfo{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    gap: 5px;
+    margin-left: 10px;
+    padding-top: 10px;
+ 
+   
+}
+.teamInfo h4{
+    font-size: 18px;
+    padding-top: 10px;
+    color:#000;
+}
+.teamInfo img{
+    width: 40px;
+}
+.years h1{
+    font-size: 18px;
+    text-align: center;
+}
+.cup{
+    width: 140px;
+    margin-left: 23%;
+}
+.years h1{
+    font-weight: 600;
+    font-size: 17px;
+    color: #000;
+    margin-top: 10px;
+}

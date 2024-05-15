@@ -1,0 +1,66 @@
+[
+  {
+    "id": 17,
+    "name": "RICHARD GLEESON",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/csk/bowl/gleeson.jpg",
+    "logo": "Players/logo/foreignplayer.svg"
+  },
+  {
+    "id": 18,
+    "name": "RAJVARDHAN HANGARGEKAR",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/csk/bowl/rajvardhan.jpg"
+  },
+  {
+    "id": 19,
+    "name": "DEEPAK CHAHAR",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/csk/bowl/chakar.png"
+  },
+  {
+    "id": 20,
+    "name": "MAHEESH THEEKSHANA",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/csk/bowl/theekshana.jpg",
+    "logo": "Players/logo/foreignplayer.svg"
+  },
+  {
+    "id": 21,
+    "name": "MUKESH CHOUDHARY",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/csk/bowl/mukesh.jpg"
+  },
+  {
+    "id": 22,
+    "name": "MUSTAFIZUR RAHMAN",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/csk/bowl/mustafizur.jpg",
+    "logo": "Players/logo/foreignplayer.svg"
+  },
+  {
+    "id": 23,
+    "name": "PRASHANT SOLANKI",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/csk/bowl/prashanth.jpg"
+  },
+  {
+    "id": 24,
+    "name": "SIMARJEET SINGH",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/csk/bowl/simarjeet.jpg"
+  },
+  {
+    "id": 25,
+    "name": "TUSHAR DESHPANDE",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/csk/bowl/deshpande.jpg"
+  },
+  {
+    "id": 26,
+    "name": "MATHEESHA PATHIRANA",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/csk/bowl/patheerana.jpg",
+    "logo": "Players/logo/foreignplayer.svg"
+  }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":"RUTURAJ GAIKWAD",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/csk/batter/ruturaj.jpg",
+        "logo":"Players/logo/captain.svg"
+    },
+    {
+        "id":2,
+        "name":"DEVON CONWAY",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/csk/batter/conway.jpg",
+        "logo":"Players/logo/foreignplayer.svg"
+
+    },
+    {
+        "id":3,
+        "name":"MS DHONI",
+        "Specialization":"WK KEEPER-BATTER",
+        "imgSrc":"Players/csk/batter/msd.jpg",
+        "logo":"Players/logo/WicketKeeper.png"
+    },
+    {
+        "id":4,
+        "name":"AJINKYA RAHANE",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/csk/batter/rahane.jpg"
+        
+    },
+    {
+        "id":5,
+        "name":"SHAIK RASHEED",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/csk/batter/rashid.jpg"
+    },
+    {
+        "id":6,
+        "name":"SHAMEER RIZVI",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/csk/batter/risvi.jpg"
+    },
+    {
+        "id":7,
+        "name":"AVANISH RAO ARAVELLY",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/csk/batter/avanish.jpg"
+    }
+    
+]

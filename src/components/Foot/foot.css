@@ -1,0 +1,108 @@
+.footer{
+    color: #fff;
+    background-color: #19398a;
+    width: 100%;
+}
+.social{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+.contact_us{
+    margin-left:5%;
+}
+.ipl_social{
+    margin-right: 25%;
+}
+.contact_us--title{
+    margin-left: -10px;
+    color: #4fd6f7;
+    font-weight: 800;
+}
+.ipl_social--title{
+    margin-left: 40%;
+    color: #4fd6f7;
+    font-weight: 800;
+}
+.contact_us a{
+    margin-left: 10px;
+}
+.ipl_social a{
+    margin-left: 10px;
+}
+/*icon colors */
+.iconsection{
+    display: flex;
+    gap: 10px;
+}
+.iconsection div{
+    height: 50px;
+    width: 50px;
+   background-color: #fff;
+   padding-top: 5px;
+   border-radius: 50%;
+   transition: all 0.6s ease;
+}
+.iconsection div:nth-child(1){
+    padding-left: 4px;
+}
+.iconsection div:hover{
+    background-color: #000;
+}
+i{
+    color: #fff;
+    margin-top: 5px;
+}
+.fa-twitter {
+    color:#1da1f2;
+}
+.fa-linkedin{
+    color: #0077b5;
+}
+.fa-facebook{
+    color: #3b5998;
+}
+.fa-envelope{
+    color: #bb001b;
+}
+.fa-youtube-play{
+    color: #ff0000;
+}
+.fa-instagram {
+    color: #dd2a7b;
+}
+.fa-globe{
+color: #7cac4c;
+}
+
+.copyright{
+    font-size: 20px;
+    text-align: center;
+    word-spacing: 4px;
+    border-top: 2px dashed #fff;
+    padding-top: 15px;
+}
+.name{
+    color: yellow;
+}
+@media screen and (max-width:830px){
+    .social{
+        flex-direction: column;
+        justify-content: center;
+    }
+    .contact_us{
+        margin-left:0%;
+        margin-bottom: 0px;
+        margin-top: 10px;
+    }
+    .ipl_social{
+        margin-right: 0%;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    .contact_us--title{
+        margin-left: 10px;
+    }
+    
+}

@@ -1,0 +1,46 @@
+@import '../../variable.css';
+.playerCard{
+    background-color:var(--text-color) ;
+    margin-bottom: 20px;
+   width: 300px;
+   height: 300px;
+   margin-right: 10px;
+   display: flex;
+   align-items: center;
+   cursor: pointer;
+   text-decoration: none;
+}
+.playerimg{
+    width: 200px;
+    margin-top: 10px;
+    border-radius: 10px; 
+}
+.playertitle{
+    font-size: 20px;
+}
+.typeIcon{
+    position: absolute;
+    right: 50px;
+    top: 20px;
+    height: 22px;
+    width: 22px;
+}
+.positionIcon{
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    height: 22px;
+    width: 22px;
+}
+.tLogo{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 55px;
+    top: 18px
+}
+.playertext{
+    font-style: 19px;
+    font-weight: 500;
+}
+

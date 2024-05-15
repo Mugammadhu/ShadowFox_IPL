@@ -1,0 +1,79 @@
+[
+    {
+        "id":1,
+        "stadium":"M.A. Chidambaram Chepauk Stadium",
+        "place":"Chennai",
+        "imgSrc":["grounds/cskground1.jpg","grounds/cskground2.jpg","grounds/cskground3.jpg"],
+        "location":"https://maps.app.goo.gl/D8T1UjtAqF3pujpH7"
+    },
+    {
+        "id":2,
+        "stadium":"Arun Jaitley Stadium",
+        "place":"Delhi",
+        "imgSrc":["grounds/dcground1.jpg","grounds/dcground2.jpg","grounds/dcground3.jpg"],
+        "location":"https://maps.app.goo.gl/yagT7UqjVz17Hzs8A"
+    },
+    {
+        "id":3,
+        "stadium":"Narendra Modi Stadium",
+        "place":"Gujarat",
+        "imgSrc":["grounds/gtground1.jpg","grounds/gtground2.jpg","grounds/gtground3.jpg"],
+        "location":"https://maps.app.goo.gl/dBP2BQkTDL3Vx1o76"
+    },
+    {
+        "id":4,
+        "stadium":"Eden Garden",
+        "place":"Kolkata",
+        "imgSrc":["grounds/kkrground1.jpg","grounds/kkrground2.jpg","grounds/kkrground3.jpg"],
+        "location":"https://maps.app.goo.gl/5JznWowUUArVfPEk6"
+    },
+    {
+        "id":5,
+        "stadium":"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+        "place":"Lucknow",
+        "imgSrc":["grounds/lsgground1.jpg","grounds/lsgground2.jpg","grounds/lsgground3.jpg"],
+        "location":"https://maps.app.goo.gl/w8fpVRCYm5ZvnSny7"
+    },
+    {
+        "id":6,
+        "stadium":"Wankhede Stadium",
+        "place":"Mumbai",
+        "imgSrc":["grounds/miground1.jpg","grounds/miground2.jpg","grounds/miground3.jpg"],
+        "location":"https://maps.app.goo.gl/6sUmkCQS31vxWDiV7"
+    },
+    {
+        "id":7,
+        "stadium":"PunjabCricket Association's Bindra Stadium",
+        "place":"Mohali,Punjab",
+        "imgSrc":["grounds/pk1ground1.jpg","grounds/pk1ground2.jpg","grounds/pk1ground3.jpg"],
+        "location":"https://maps.app.goo.gl/R3cicXkGi5R2XJnb6"
+    },
+    {
+        "id":8,
+        "stadium":"Himachal Pradesh Cricket Association Stadium",
+        "place":"Dharamsala,Himachal Pradesh",
+        "imgSrc":["grounds/pk2ground1.jpg","grounds/pk2ground2.jpg","grounds/pk2ground3.jpg"],
+        "location":"https://maps.app.goo.gl/igXxtPKFnmKnsTFR8"
+    },
+    {
+        "id":9,
+        "stadium":"M. Chinnaswamy Stadium",
+        "place":"Bangalore",
+        "imgSrc":["grounds/rcbground1.jpg","grounds/rcbground2.jpg","grounds/rcbground3.jpg"],
+        "location":"https://maps.app.goo.gl/ZB6HrLFPnRueZY7G9"
+    },
+    {
+        "id":10,
+        "stadium":"Sawai Mansingh Stadium",
+        "place":"Jaipur,Rajasthan",
+        "imgSrc":["grounds/rrground1.jpg","grounds/rrground2.jpg","grounds/rrground3.jpg"],
+        "location":"https://maps.app.goo.gl/F99yAwCzDBxws6dB7"
+    },
+    {
+        "id":11,
+        "stadium":"Rajiv Gandhi International Cricket Stadium",
+        "place":"Hyderabad",
+        "imgSrc":["grounds/srhground1.jpg","grounds/srhground2.jpg","grounds/srhground3.jpg"],
+        "location":"https://maps.app.goo.gl/HfvW4A6Wq7syabz29"
+    }
+]

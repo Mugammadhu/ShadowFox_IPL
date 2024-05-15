@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "occupation": "Owner",
+    "name": "Parth Jindal",
+    "imgSrc": "about/dcOwner.png",
+    "content": "Parth Jindal, scion of the prominent Jindal family and Managing Director of JSW Cement, serves as one of the co-owners of the Delhi Capitals franchise in the Indian Premier League (IPL). Bringing his astute business acumen and strategic vision to the table, Jindal plays a pivotal role in shaping the franchise's direction and operations. Under his stewardship, the Delhi Capitals have undergone significant transformations, focusing on nurturing talent and building a competitive team that consistently contends for the IPL title. Jindal's leadership embodies a blend of business innovation and a passion for cricket, reflecting his commitment to elevating the franchise's stature in the IPL and contributing to the growth of Indian cricket overall.",
+    "link": "https://en.wikipedia.org/wiki/Parth_Jindal",
+    "linkData":"Parth Jindal"
+  },
+  {
+    "id": 2,
+    "occupation": "Coach",
+    "name": "Ricky Ponting",
+    "imgSrc": "about/dccoach.png",
+    "content": "Ricky Ponting, the legendary Australian cricketer, is widely regarded as one of the greatest batsmen of all time and a visionary cricketing mind. Known for his aggressive yet technically sound batting style, Ponting's illustrious career saw him amass numerous records and accolades, including being the highest run-scorer for Australia in both Test and One Day International (ODI) cricket. Beyond his exploits as a player, Ponting has transitioned seamlessly into coaching and leadership roles, notably serving as the head coach of the Delhi Capitals franchise in the Indian Premier League (IPL). Under his guidance, the Delhi Capitals have experienced a resurgence, with Ponting's tactical acumen and mentorship playing a pivotal role in shaping the team's success. With a keen eye for talent and a wealth of experience, Ponting continues to leave an indelible mark on the cricketing world, both on and off the field.",
+    "link": "https://en.wikipedia.org/wiki/Ricky_Ponting",
+    "linkData":"Ricky Ponting"
+  },
+  {
+    "id": 3,
+    "occupation": "Venue",
+    "name": "Arun Jaitley Stadium",
+    "imgSrc": "about/dcground.jpg",
+    "content": "The Arun Jaitley Cricket Stadium, formerly known as the Feroz Shah Kotla Stadium, stands as a historic venue in the heart of Delhi, India. Named in honor of the late Arun Jaitley, a prominent politician and former president of the Delhi District Cricket Association (DDCA), the stadium has witnessed numerous iconic cricketing moments over the years. With a capacity to hold thousands of passionate fans, the stadium has hosted a plethora of domestic and international matches, including memorable encounters in the Indian Premier League (IPL). Renowned for its electrifying atmosphere and iconic stands, the Arun Jaitley Cricket Stadium remains a cherished symbol of cricketing excellence in the Indian capital, embodying the spirit of the sport and serving as a beacon for cricket enthusiasts across the nation.",
+    "link": "https://en.wikipedia.org/wiki/Arun_Jaitley_Cricket_Stadium",
+    "linkData":"Arun Jaitley Stadium"
+  },
+  {
+    "id": 4,
+    "occupation": "Captain",
+    "name": "Rishabh Pant",
+    "imgSrc": "about/dccaptain.png",
+    "content": "Rishabh Pant, the dynamic wicketkeeper-batsman from India, has emerged as a potent force in international cricket with his aggressive batting style and sharp glovework behind the stumps. Known for his fearless approach, Pant has the ability to change the course of a game with his explosive batting, often turning tight situations in favor of his team. With his youth, talent, and promising potential, Pant is seen as a key asset for Indian cricket, continuing to captivate fans with his thrilling performances on the field.",
+    "link": "https://en.wikipedia.org/wiki/Rishabh_Pant",
+    "linkData":"Rishabh Pant"
+  }
+]

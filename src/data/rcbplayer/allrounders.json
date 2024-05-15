@@ -1,0 +1,47 @@
+[
+    {
+      "id": 210,
+      "name": "GLENN MAXWELL",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/rcb/allRounder/maxwell.png",
+      "logo":"Players/logo/foreignplayer.svg"
+    },
+    {
+      "id": 211,
+      "name": "TMAHIPAL LOMROR",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/rcb/allRounder/mahipal.png"
+    },
+    {
+      "id": 212,
+      "name": "KARN SHARMA",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/rcb/allRounder/karn.png"
+    },
+    {
+        "id": 213,
+        "name": "CAMERON GREEN",
+        "Specialization": "ALL-ROUNDER",
+        "imgSrc": "Players/rcb/allRounder/cameron.png",
+        "logo":"Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 214,
+        "name": "SWAPNIL SINGH",
+        "Specialization": "ALL-ROUNDER",
+        "imgSrc": "Players/rcb/allRounder/swapnil.png"
+      },
+      {
+        "id": 215,
+        "name": "MAYANK DAGAR",
+        "Specialization": "ALL-ROUNDER",
+        "imgSrc": "Players/rcb/allRounder/dagar.png"
+      },
+      {
+        "id": 216,
+        "name": "MANOJ BHANDAGE",
+        "Specialization": "ALL-ROUNDER",
+        "imgSrc": "Players/rcb/allRounder/manoj.png"
+      }
+  ]
+  

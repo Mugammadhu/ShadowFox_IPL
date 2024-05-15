@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "occupation":"Owner",
+        "name":"N. Srinivasan",
+        "imgSrc":"about/cskOwner.png",
+        "content":"N. Srinivasan, the former president of the Board of Control for Cricket in India (BCCI), is the influential owner of the Chennai Super Kings (CSK) franchise in the Indian Premier League (IPL). Known for his astute business acumen and strong ties in cricket administration, Srinivasan has been a pivotal figure in shaping the trajectory of CSK, guiding it to several IPL victories. Despite occasional controversies surrounding his dual roles in cricket governance and team ownership, Srinivasan remains a prominent and influential figure in Indian cricket circles, with CSK under his stewardship continuing to be a formidable force in the IPL.",
+        "link":"https://en.wikipedia.org/wiki/N._Srinivasan",
+        "linkData":"N.Srinivasan"
+    },
+    {
+        "id":2,
+        "occupation":"Coach",
+        "name":"Stephen Fleming",
+        "imgSrc":"about/cskcoach.png",
+        "content":"Stephen Fleming, the former New Zealand cricket captain, is renowned for his strategic acumen and calm demeanor, attributes that have seamlessly transitioned into his coaching role with the Chennai Super Kings (CSK) in the Indian Premier League (IPL). Under his leadership, CSK has established itself as one of the most successful franchises in IPL history, with multiple title victories. Fleming's emphasis on nurturing talent, tactical brilliance, and ability to maintain a cohesive team culture have been instrumental in CSK's consistent performances over the years. His deep understanding of the game and nurturing approach make him a highly respected figure in the cricketing world, and his partnership with CSK has been pivotal in the franchise's sustained success.",
+        "link":"https://en.wikipedia.org/wiki/Stephen_Fleming",
+        "linkData":"Stephen Fleming"
+    },
+    {
+        "id":3,
+        "occupation":"Venue",
+        "name":"M. A. Chidambaram Stadium",
+        "imgSrc":"about/cskground.jpg",
+        "content":"The M. A. Chidambaram Stadium, commonly known as the Chepauk Stadium, is a historic cricket venue located in Chennai, India. With a rich legacy dating back to its inauguration in 1916, the stadium has witnessed numerous memorable cricketing moments, both domestic and international. Renowned for its lively atmosphere and passionate cricket fans, the stadium holds a special place in the hearts of cricket enthusiasts. Home to the Chennai Super Kings franchise in the Indian Premier League (IPL), the stadium has seen its fair share of thrilling matches and has earned a reputation as a fortress for the home team. With its iconic red and yellow seats, the M. A. Chidambaram Stadium continues to be a cherished symbol of cricketing excellence in India.",
+        "link":"https://en.wikipedia.org/wiki/M._A._Chidambaram_Stadium",
+        "linkData":"Chidambaram Stadium"
+    },
+    {
+        "id":4,
+        "occupation":"Captain",
+        "name":"Ruturaj Gaikwad",
+        "imgSrc":"about/cskcaptain.png",
+        "content":"Ruturaj Gaikwad is a promising Indian cricketer known for his elegant batting style and impressive performances in domestic cricket. Hailing from Maharashtra, Gaikwad gained recognition for his prolific run-scoring ability in age-group cricket before making his debut for the Maharashtra cricket team. His breakthrough came in the Indian Premier League (IPL) when he was signed by the Chennai Super Kings (CSK). Gaikwad showcased his talent with notable innings, demonstrating a composed approach and the ability to anchor an innings. Despite facing initial challenges, he earned praise for his resilience and determination. Gaikwad is seen as a player with immense potential and has garnered attention as a future prospect for Indian cricket.",
+        "link":"https://en.wikipedia.org/wiki/Ruturaj_Gaikwad",
+        "linkData":"Ruturaj Gaikwad"
+    }
+]

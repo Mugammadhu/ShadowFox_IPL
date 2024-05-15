@@ -1,0 +1,68 @@
+[
+    {
+        "id":1,
+        "ImgSrc":"Team/cskteam.png",
+        "team":"CSK",
+        "fullname":"CHENNAI SUPER KINGS",
+        "years":"2010 | 2011 | 2018 | 2021 | 2023"
+    },
+    {
+        "id":2,
+        "ImgSrc":"Team/dcteam.png",
+        "team":"DC",
+        "fullname":"DELHI CAPITALS"
+    },
+    {
+        "id":3,
+        "ImgSrc":"Team/gtteam.png",
+        "team":"GT",
+        "fullname":"GUJARAT TITANS",
+        "years":"2022"
+    },
+    {
+        "id":4,
+        "ImgSrc":"Team/kkrteam.png",
+        "team":"KKR",
+        "fullname":"KOLKATA KNIGHT RIDERS",
+        "years":"2012 | 2014"
+    },
+    {
+        "id":5,
+        "ImgSrc":"Team/lsgteam.jpg",
+        "team":"LSG",
+        "fullname":"LUCKNOW SUPER GIANTS"
+    },
+    {
+        "id":6,
+        "ImgSrc":"Team/miteam.png",
+        "team":"MI",
+        "fullname":"MUMBAI INDIANS",
+        "years":"2013 | 2015 | 2017 | 2019 | 2020"
+    },
+    {
+        "id":7,
+        "ImgSrc":"Team/pkteam.png",
+        "team":"PK",
+        "fullname":"PUNJAB KINGS"
+    },
+    {
+        "id":8,
+        "ImgSrc":"Team/rrteam.png",
+        "team":"RR",
+        "fullname":"RAJASTHAN ROYALS",
+        "years":"2008"
+    },
+    {
+        "id":9,
+        "ImgSrc":"Team/rcbteam.jpg",
+        "team":"RCB",
+        "fullname":"ROYAL CHALLENGERS BANGALURU"
+    },
+    {
+        "id":10,
+        "ImgSrc":"Team/srhteam.png",
+        "team":"SRH",
+        "fullname":"SUNRISERS HYDERABAD",
+        "years":"2016"
+    }
+]

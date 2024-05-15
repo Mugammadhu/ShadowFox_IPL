@@ -1,0 +1,68 @@
+[
+    {
+        "id":79,
+        "name":"SHREYAS IYER",
+        "Specialization":"Batter",
+        "imgSrc":"Players/kkr/batter/shreyas.png",
+        "logo":"Players/logo/captain.svg"
+    },
+    {
+        "id":80,
+        "name":"RINKU SINGH",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/kkr/batter/rinku.png"
+
+    },
+    {
+        "id":81,
+        "name":"RAHMANULLAH GURBAZ",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/kkr/batter/rahmanullah.png",
+        "logo":"Players/logo/foreignplayer.svg"
+    },
+    {
+        "id":82,
+        "name":"NITISH RANA",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/kkr/batter/rana.png"
+        
+    },
+    {
+        "id":83,
+        "name":"SHERFANE RUTHERFORD",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/kkr/batter/rutherford.png",
+        "logo":"Players/logo/foreignplayer.svg",
+        "tlogo":"Players/logo/WicketKeeper.png"
+    },
+    {
+        "id":84,
+        "name":"PHIL SALT",
+        "Specialization":"Wk KEEPER-BATTER",
+        "imgSrc":"Players/kkr/batter/salt.png",
+        "logo":"Players/logo/foreignplayer.svg",
+        "tlogo":"Players/logo/WicketKeeper.png"
+    },
+    {
+        "id":85,
+        "name":"K.S BHARAT",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/kkr/batter/bharat.png"
+        
+    },
+    {
+        "id":86,
+        "name":"MANISH PANDEY",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/kkr/batter/MPandey.png"
+        
+    },
+    {
+        "id":87,
+        "name":"ANGKRISH RAGHUVANSHI",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/kkr/batter/raghuvanshi.png"
+        
+    }
+    
+]

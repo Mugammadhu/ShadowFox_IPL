@@ -1,0 +1,39 @@
+[
+    {
+        "id":60,
+        "name":"ABHINAV MANOHAR",
+        "Specialization":"ALL-ROUNDER",
+        "imgSrc":"Players/gt/allRounder/abhinav.png"
+    },
+    {
+        "id":61,
+        "name":"B.SAI SUDHARSAN",
+        "Specialization":"ALL-ROUNDER",
+        "imgSrc":"Players/gt/allRounder/sai.png"
+    },
+    {
+        "id":62,
+        "name":"DARSHAN NALKANDE",
+        "Specialization":"ALL-ROUNDER",
+        "imgSrc":"Players/gt/allRounder/nalkande.png"
+    },
+    {
+        "id":63,
+        "name":"VIJAY SHANKAR",
+        "Specialization":"ALL-ROUNDER",
+        "imgSrc":"Players/gt/allRounder/Vshankar.png"
+    },
+    {
+        "id":64,
+        "name":"AZMATULLAH OMARZAI",
+        "Specialization":"ALL-ROUNDER",
+        "imgSrc":"Players/gt/allRounder/azmatullah.png" ,
+        "logo":"Players/logo/foreignplayer.svg" 
+    },
+    {
+        "id":65,
+        "name":"SHAHRUKH KHAN",
+        "Specialization":"ALL-ROUNDER",
+        "imgSrc":"Players/gt/allRounder/shahrukhkhan.png"
+    }
+]

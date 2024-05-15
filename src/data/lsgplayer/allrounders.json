@@ -1,0 +1,71 @@
+[
+  {
+    "id": 107,
+    "name": "AYUSH BADONI",
+    "Specialization": "ALL-ROUNDER",
+    "imgSrc": "Players/lsg/allRounder/badoni.png"
+  },
+  {
+    "id": 108,
+    "name": "DEEPAK HOODA",
+    "Specialization": "ALL-ROUNDER",
+    "imgSrc": "Players/lsg/allRounder/hooda.png"
+  },
+  {
+    "id": 109,
+    "name": "KRISHNAPPA GOWTHAM",
+    "Specialization": "ALL-ROUNDER",
+    "imgSrc": "Players/lsg/allRounder/krishnappa.png"
+  },
+  {
+    "id": 110,
+    "name": "KRUNAL PANDYA",
+    "Specialization": "ALL-ROUNDER",
+    "imgSrc": "Players/lsg/allRounder/krunal.png"
+  },
+  {
+    "id": 111,
+    "name": "KYLE MAYERS",
+    "Specialization": "ALL-ROUNDER",
+    "imgSrc": "Players/lsg/allRounder/mayers.png",
+    "logo": "Players/logo/foreignplayer.svg"
+  },
+  {
+    "id": 112,
+    "name": "MARCUS STOINIS",
+    "Specialization": "ALL-ROUNDER",
+    "imgSrc": "Players/lsg/allRounder/stoinis.png",
+    "logo": "Players/logo/foreignplayer.svg"
+  },
+  {
+    "id": 113,
+    "name": "MOHD. ARSHAD KHAN",
+    "Specialization": "ALL-ROUNDER",
+    "imgSrc": "Players/lsg/allRounder/arshadkhan.png"
+  },
+  {
+    "id": 114,
+    "name": "PRERAK MANKAD",
+    "Specialization": "ALL-ROUNDER",
+    "imgSrc": "Players/lsg/allRounder/mankad.png"
+  },
+  {
+    "id": 115,
+    "name": "YUDHVIR SINGH",
+    "Specialization": "ALL-ROUNDER",
+    "imgSrc": "Players/lsg/allRounder/yudhvir.png"
+  },
+  {
+    "id": 116,
+    "name": "ARSHIN KULKARNI",
+    "Specialization": "ALL-ROUNDER",
+    "imgSrc": "Players/lsg/allRounder/kulkarni.png"
+  },
+  {
+    "id": 117,
+    "name": "DAVID WILLEY",
+    "Specialization": "ALL-ROUNDER",
+    "imgSrc": "Players/lsg/allRounder/willey.png",
+    "logo": "Players/logo/foreignplayer.svg"
+  }
+]

@@ -1,0 +1,21 @@
+.abtCardImg{
+    height: 320px;
+    width: 335px;
+    object-fit:cover;
+}
+.abtCard{
+    width: 336px;
+}
+.abtCardSubTitle{
+    font-size: 20px;
+}
+.abtCardTitle{
+    font-size: 19px;
+}
+@media screen and (max-width:830px){
+    
+    .abtCardImg{
+        height: 250px;
+    }
+    
+}

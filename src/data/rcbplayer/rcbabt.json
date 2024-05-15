@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "occupation":"Owner",
+        "name":"United Spirits Limited",
+        "imgSrc":"about/rcbOwner.png",
+        "content":"United Spirits Limited (USL) stands as one of the leading spirits companies in India, renowned for its diverse portfolio of iconic brands and a rich heritage spanning centuries. A subsidiary of Diageo, the global beverage giant, USL commands a significant presence in the Indian alcohol market, offering a wide range of spirits, including whiskey, vodka, rum, and brandy. With a commitment to quality, innovation, and responsible drinking, USL continues to shape the Indian alcohol industry while upholding its corporate values of integrity and sustainability.",
+        "link":"https://en.wikipedia.org/wiki/United_Spirits",
+        "linkData":"United Spirits Limited"
+    },
+    {
+        "id":2,
+        "occupation":"Coach",
+        "name":"Andy Flower",
+        "imgSrc":"about/rcbcoach.png",
+        "content":"Andy Flower, a Zimbabwean cricketing legend turned esteemed coach, has left an indelible mark on the sport with his exceptional skills and strategic acumen. Renowned for his stoic batting technique and astute cricketing intellect, Flower played a pivotal role in Zimbabwean cricket during his illustrious playing career. Following his retirement, he transitioned seamlessly into coaching, notably serving as the head coach of the England cricket team, where he guided them to numerous successes, including Ashes victories. Flower's coaching prowess, coupled with his deep understanding of the game, has earned him respect and admiration across the cricketing fraternity, solidifying his status as one of the most influential figures in modern cricket.",
+        "link":"https://en.wikipedia.org/wiki/Andy_Flower",
+        "linkData":"Andy Flower"
+    },
+    {
+        "id":3,
+        "occupation":"Venue",
+        "name":"M. Chinnaswamy Stadium",
+        "imgSrc":"about/rcbground.jpg",
+        "content":"M. Chinnaswamy Stadium, situated in the heart of Bengaluru, India, stands as a testament to the city's fervent cricketing culture. Named after M. Chinnaswamy, who served as the president of the Karnataka State Cricket Association, the stadium boasts a vibrant history and a capacity to host over 40,000 spectators. Its lively atmosphere and the enthusiastic crowd make it a cherished venue for both domestic and international cricket matches. Renowned for its batting-friendly pitches and electric ambiance, the stadium has witnessed countless iconic moments in cricket history, further cementing its status as one of India's premier cricketing arenas.",
+        "link":"https://en.wikipedia.org/wiki/M._Chinnaswamy_Stadium",
+        "linkData":"M.Chinnaswamy Stadium"
+    },
+    {
+        "id":4,
+        "occupation":"Captain",
+        "name":"Faf du Plessis",
+        "imgSrc":"about/rcbcaptain.png",
+        "content":"Faf du Plessis, the esteemed South African cricketer, epitomizes excellence both on and off the field with his exemplary leadership and remarkable batting prowess. Known for his gritty temperament and elegant stroke play, du Plessis has been a linchpin in the South African cricket team across all formats. His journey in international cricket has been studded with memorable performances, including his tenure as captain, where he led with distinction. Beyond his cricketing prowess, du Plessis is revered for his sportsmanship and commitment to the game, making him a respected figure in the cricketing world.",
+        "link":"https://en.wikipedia.org/wiki/Faf_du_Plessis",
+        "linkData":"Faf du Plessis"
+    }
+]

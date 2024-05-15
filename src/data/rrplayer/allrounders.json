@@ -1,0 +1,21 @@
+[
+    {
+      "id": 191,
+      "name": "RAVICHANDRAN ASHWIN",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/rr/allRounder/ashwin.png"
+    },
+    {
+      "id": 192,
+      "name": "TANUSH KOTIAN",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/rr/allRounder/tanush.png"
+    },
+    {
+      "id": 193,
+      "name": "ABID MUSHTAQ",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/rr/allRounder/mushtaq.png"
+    }
+  ]
+  

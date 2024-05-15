@@ -1,0 +1,59 @@
+[
+    {
+        "id":155,
+        "name":"SHIKHAR DHAWAN",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/pk/batter/dhawan.png",
+        "logo":"Players/logo/captain.svg"
+    },
+    {
+        "id":156,
+        "name":"JITESH SHARMA",
+        "Specialization":"Wk KEEPER-BATTER",
+        "imgSrc":"Players/pk/batter/jitesh.png",
+        "logo":"Players/logo/WicketKeeper.png"
+
+    },
+    {
+        "id":157,
+        "name":"JONNY BAIRSTOW",
+        "Specialization":"Wk KEEPER-BATTER",
+        "imgSrc":"Players/pk/batter/bairstow.png",
+        "logo":"Players/logo/foreignplayer.svg",
+        "tlogo":"Players/logo/WicketKeeper.png"
+    },
+    {
+        "id":158,
+        "name":"PRABHSIMRAN SINGH",
+        "Specialization":"Wk KEEPER-BATTER",
+        "imgSrc":"Players/pk/batter/prabhsimran.png",
+        "logo":"Players/logo/WicketKeeper.png"
+        
+    },
+    {
+        "id":159,
+        "name":"LIAM LIVINGSTONE",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/pk/batter/livingston.png",
+        "logo":"Players/logo/foreignplayer.svg"
+    },
+    {
+        "id":160,
+        "name":"HARPREET BHATIA",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/pk/batter/bhatia.png"
+    },
+    {
+        "id":161,
+        "name":"RILEE ROSSOUW",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/pk/batter/rilee.png",
+        "logo":"Players/logo/foreignplayer.svg"
+    },
+    {
+        "id":162,
+        "name":"SHASHANK SINGH",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/pk/batter/shashank.png"
+    }
+]

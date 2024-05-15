@@ -1,0 +1,48 @@
+[
+    {
+        "id":54,
+        "name":"SHUBMAN GILL",
+        "Specialization":"Batter",
+        "imgSrc":"Players/gt/batter/gill.png",
+        "logo":"Players/logo/captain.svg"
+    },
+    {
+        "id":55,
+        "name":"DAVID MILLER",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/gt/batter/miller.png",
+        "logo":"Players/logo/foreignplayer.svg"
+
+    },
+    {
+        "id":56,
+        "name":"MATTHEW WADE",
+        "Specialization":"WK KEEPER-BATTER",
+        "imgSrc":"Players/gt/batter/matthew.png",
+        "logo":"Players/logo/foreignplayer.svg",
+        "tlogo":"Players/logo/WicketKeeper.png"
+    },
+    {
+        "id":57,
+        "name":"WRIDDHIMAN SAHA",
+        "Specialization":"WK KEEPER-BATTER",
+        "imgSrc":"Players/gt/batter/saha.png",
+        "logo":"Players/logo/WicketKeeper.png"
+        
+    },
+    {
+        "id":58,
+        "name":"BR SHARATH",
+        "Specialization":"WK KEEPER-BATTER",
+        "imgSrc":"Players/gt/batter/sarath.png",
+        "logo":"Players/logo/WicketKeeper.png"
+    },
+    {
+        "id":59,
+        "name":"KANE WILLIAMSIN",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/gt/batter/kane.png",
+        "logo":"Players/logo/foreignplayer.svg"
+    }
+    
+]

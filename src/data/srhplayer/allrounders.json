@@ -1,0 +1,40 @@
+[
+    {
+      "id": 236,
+      "name": "ABHISHEK SHARMA",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/srh/allRounder/abhishek.png"
+    },
+    {
+      "id": 237,
+      "name": "MARCO JANSEN",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/srh/allRounder/marco.png",
+      "logo":"Players/logo/foreignplayer.svg"
+    },
+    {
+      "id": 238,
+      "name": "WASHINGTON SUNDAR",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/srh/allRounder/washington.png"
+    },
+    {
+        "id": 239,
+        "name": "SANVIR SINGH",
+        "Specialization": "ALL-ROUNDER",
+        "imgSrc": "Players/srh/allRounder/sanvir.png"
+      },
+      {
+        "id": 240,
+        "name": "NITISH KUMAR REDDY",
+        "Specialization": "ALL-ROUNDER",
+        "imgSrc": "Players/srh/allRounder/nitish.png"
+      },
+      {
+        "id": 241,
+        "name": "WANINDU HASARANGA",
+        "Specialization": "ALL-ROUNDER",
+        "imgSrc": "Players/srh/allRounder/hasaranga.png"
+      }
+  ]
+  

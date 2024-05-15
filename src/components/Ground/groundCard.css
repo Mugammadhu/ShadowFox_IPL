@@ -1,0 +1,28 @@
+.groundCard{
+    width: 330px;
+    height: 350px;
+    margin-bottom: 20px;
+}
+.groundCardBody{
+    background-color: #20525c;
+    color: #fff;
+    align-items: center;
+    
+}
+.groundCardBody card-title{
+    font-weight: bold;
+}
+.card-img-top{
+    object-fit: cover;
+}
+.groundCardBody p{
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(0, 255, 234);
+}
+@media screen and (max-width:830px){
+    .groundCard{
+        width: 400px;
+        height: 400px;
+    }   
+}

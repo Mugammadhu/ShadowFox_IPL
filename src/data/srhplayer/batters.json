@@ -1,0 +1,64 @@
+[
+  {
+    "id": 227,
+    "name": "ABDUL SAMAD",
+    "Specialization": "BATTER",
+    "imgSrc": "Players/srh/batter/samad.png"
+  },
+  {
+    "id": 228,
+    "name": "AIDEN MARKRAM",
+    "Specialization": "BATTER",
+    "imgSrc": "Players/srh/batter/markram.png",
+    "logo": "Players/logo/foreignplayer.svg"
+  },
+  {
+    "id": 229,
+    "name": "RAHUL TRIPATHI",
+    "Specialization": "BATTER",
+    "imgSrc": "Players/srh/batter/tripathi.png"
+  },
+  {
+    "id": 230,
+    "name": "GLENN PHILLIPS",
+    "Specialization": "Wk KEEPER-BATTER",
+    "imgSrc": "Players/srh/batter/glenn.png",
+    "logo": "Players/logo/foreignplayer.svg",
+    "tlogo": "Players/logo/WicketKeeper.png"
+  },
+  {
+    "id": 231,
+    "name": "MAYANK AGARWAL",
+    "Specialization": "BATTER",
+    "imgSrc": "Players/srh/batter/mayank.png"
+  },
+  {
+    "id": 232,
+    "name": "HEINRICH KLAASEN",
+    "Specialization": "Wk KEEPER-BATTER",
+    "imgSrc": "Players/srh/batter/klaasen.png",
+    "logo": "Players/logo/foreignplayer.svg",
+    "tlogo": "Players/logo/WicketKeeper.png"
+  },
+  {
+    "id": 233,
+    "name": "ANMOLPREET SINGH",
+    "Specialization": "BATTER",
+    "imgSrc": "Players/srh/batter/anmolpreet.png",
+    "logo": "Players/logo/WicketKeeper.png"
+  },
+  {
+    "id": 234,
+    "name": "UPENDRA SINGH YADAV",
+    "Specialization": "Wk KEEPER-BATTER",
+    "imgSrc": "Players/srh/batter/upendra.png",
+    "logo": "Players/logo/WicketKeeper.png"
+  },
+  {
+    "id": 235,
+    "name": "TRAVIS HEAD",
+    "Specialization": "BATTER",
+    "imgSrc": "Players/srh/batter/travis.png",
+    "logo": "Players/logo/foreignplayer.svg"
+  }
+]

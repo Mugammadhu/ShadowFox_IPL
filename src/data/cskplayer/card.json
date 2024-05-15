@@ -1,0 +1,47 @@
+[
+    {
+        "id":1,
+        "SrcImage":["Home/csk/csk2010-1.png","Home/csk/csk2010-3.png","Home/csk/csk2010-2.png"],
+        "alt":"CSK 2010 Trophy",
+        "title": "CSK 2010 Trophy",
+        "description":"In 2010, Chennai Super Kings, led by Mahendra Singh Dhoni, clinched the IPL title by defeating Mumbai Indians in the final, winning by 22 runs. This victory established CSK as a dominant force in cricket.",
+        "link":"https://youtu.be/2iyhOKp-byM?si=dmjNiQ82en5D0ylwhttps://youtu.be/wNnIW5NCWhE?si=jZu57_E8r9mZ-DnF",
+        "more":"https://en.wikipedia.org/wiki/Chennai_Super_Kings_in_2010#:~:text=Chennai%20Super%20Kings%20were%20one,22%20runs%20in%20the%20finals."
+    },
+    {
+        "id":2,
+        "SrcImage":["Home/csk/csk2011-1.png","Home/csk/csk2011-2.png","Home/csk/csk2011-3.png"],
+        "alt":"CSK 2011 Trophy",
+        "title": "CSK 2011 Trophy",
+        "description":"Chennai Super Kings in 2011 became the first team to win back-to-back IPL titles.they became a two-time IPL winner as Chennai Super Kings defeated Royal Challengers Bangalore in the final",
+        "link":"https://youtu.be/nrlsPbQrDq8?si=Be-V147J4X9SP2lD",
+        "more":"https://en.wikipedia.org/wiki/Chennai_Super_Kings_in_2011"
+    },
+    {
+        "id":3,
+        "SrcImage":["Home/csk/csk2018-1.png","Home/csk/csk2018-2.png","Home/csk/csk2018-3.png"],
+        "alt":"CSK 2018 Trophy",
+        "title": "CSK 2018 Trophy",
+        "description":"Chennai secured their third league title by beating Sunrisers Hyderabad twice in a row. They made history by defeating the same opponent four times in one season.",
+        "link":"https://youtu.be/xRUREYmb_dE?si=W0cahGH_Ejv8HXXm",
+        "more":"https://en.wikipedia.org/wiki/Chennai_Super_Kings_in_2018"
+    },
+    {
+        "id":4,
+        "SrcImage":["Home/csk/csk2021-1.png","Home/csk/csk2021-2.png","Home/csk/csk2021-3.png"],
+        "alt":"CSK 2021 Trophy",
+        "title":"CSK 2021 Trophy",
+        "description": "On this historic day in 2021, the Chennai Super Kings, led by the iconic MS Dhoni, claimed their fourth Indian Premier League Trophy. With unmatched skill and determination, they overcame the Kolkata Knight Riders in a commanding 27-run victory, solidifying their status as cricketing giants. This triumph echoes their unwavering commitment to excellence, forever etching their name in the annals of cricketing greatness.",
+        "link":"https://youtu.be/wh09kf1-krA?si=kqQYcCB3JkWEnhM-",
+        "more":"https://en.wikipedia.org/wiki/Chennai_Super_Kings_in_2021"
+    },
+    {
+        "id":5,
+        "SrcImage":["Home/csk/csk2023-1.png","Home/csk/csk2023-2.png","Home/csk/csk2023-3.png"],
+        "title":"CSK 2023 Trophy",
+        "alt":"CSK 2023 Trophy",
+        "description": "In 2023, CSK won their fifth IPL title, overcoming a rain-interrupted final against Gujarat Titans. Devon Conway's pivotal innings and MS Dhoni's leadership were instrumental in guiding them to victory.",
+        "link":"https://youtu.be/k0IU4YZ8_zk?si=jfYvDwZP4COa4KOE",
+        "more":"https://en.wikipedia.org/wiki/Chennai_Super_Kings_in_2023"
+    }
+]

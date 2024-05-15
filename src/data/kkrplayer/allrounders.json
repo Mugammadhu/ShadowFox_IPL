@@ -1,0 +1,27 @@
+[
+    {
+        "id":88,
+        "name":"ABUKUL ROY",
+        "Specialization":"ALL-ROUNDER",
+        "imgSrc":"Players/kkr/allRounder/anukul.png"
+    },
+    {
+        "id":89,
+        "name":"GHRAMANDEEP SIN",
+        "Specialization":"ALL-ROUNDER",
+        "imgSrc":"Players/kkr/allRounder/ramandeep.png"
+    },
+    {
+        "id":90,
+        "name":"ANDRE RUSSELL",
+        "Specialization":"ALL-ROUNDER",
+        "imgSrc":"Players/kkr/allRounder/russell.png",
+        "logo":"Players/logo/foreignplayer.svg"
+    },
+    {
+        "id":91,
+        "name":"VENKATESH IYER",
+        "Specialization":"ALL-ROUNDER",
+        "imgSrc":"Players/kkr/allRounder/venkatesh.png"
+    }
+]

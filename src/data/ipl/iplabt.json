@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "occupation": " Chairman",
+    "name": "Mr. Arun Singh Dhumal",
+    "imgSrc": "about/chairman.jpg",
+    "content": "Arun Singh Dhumal, a prominent figure in Indian cricket administration, serves as the Treasurer of the Board of Control for Cricket in India (BCCI) and the Himachal Pradesh Cricket Association (HPCA). With a background in finance and a deep passion for cricket, Dhumal brings a wealth of expertise to his role, overseeing the financial affairs of one of the world's most influential cricketing bodies. His tenure has been marked by a commitment to transparency, accountability, and the continued growth of cricket at both grassroots and elite levels, solidifying his reputation as a key architect of India's cricketing success.",
+    "link": "https://www.dnaindia.com/cricket/report-meet-ipl-chairman-arun-dhumal-former-bcci-treasurer-and-brother-of-sports-minister-anurag-thakur-ipl-2023-3035982",
+    "linkData":"Mr.Arun Singh"
+  },
+  {
+    "id": 2,
+    "occupation": "Honorary Secretary",
+    "name": "Mr. Jay Shah",
+    "imgSrc": "about/secretary.jpg",
+    "content": "Jay Shah, a prominent figure in Indian cricket administration, serves as the Secretary of the Board of Control for Cricket in India (BCCI), one of the most influential bodies in global cricket. Son of Amit Shah, the former President of the BJP, Jay Shah brings a combination of administrative acumen and a deep-rooted passion for the sport to his role. Under his leadership, the BCCI has embarked on various initiatives aimed at enhancing the development of cricket across India, ensuring the organization remains at the forefront of cricketing excellence globally. His tenure has been marked by a proactive approach towards modernizing cricket administration and fostering a culture of inclusivity and transparency within the BCCI.",
+    "link": "https://en.wikipedia.org/wiki/Jay_Shah#:~:text=Jay%20Amitbhai%20Shah%20(born%2022,India's%20Minister%20of%20Home%20Affairs.",
+    "linkData":"Mr.Jay Shah"
+  },
+  {
+    "id": 3,
+    "occupation": "President",
+    "name": "Roger Binny",
+    "imgSrc": "about/roger.jpg",
+    "content": "Roger Binny, a former Indian cricketer, remains etched in cricketing history for his all-round prowess during the 1983 World Cup, where his exceptional bowling performances played a pivotal role in India's triumph. Known for his brisk seam bowling and lower-order batting, Binny was a valuable asset to the Indian team during his career. Post-retirement, he has been actively involved in cricket administration and coaching, leaving an indelible mark on the sport in India.",
+    "link": "https://en.wikipedia.org/wiki/Roger_Binny",
+    "linkData":"Roger Binny"
+  },
+  {
+    "id": 4,
+    "occupation": "Honorary Treasurer",
+    "name": "Mr. Ashish Shelar",
+    "imgSrc": "about/treasurer.jpg",
+    "content": "Ashish Shelar, a prominent Indian politician and former president of the Mumbai Cricket Association (MCA), has been an influential figure in both political and cricketing circles. Known for his dynamic leadership and commitment to public service, Shelar has played a pivotal role in shaping policies and initiatives aimed at the welfare and development of Mumbai and its cricketing infrastructure. With a background in law and a deep passion for sports, particularly cricket, he has garnered respect for his efforts to promote sportsmanship and excellence at all levels. Shelar's multifaceted contributions continue to make a significant impact on the socio-political landscape of Maharashtra, while his association with cricket administration underscores his dedication to advancing the sport's interests in the region.",
+    "link": "https://en.wikipedia.org/wiki/Ashish_Shelar",
+    "linkData":"Mr.Ashish"
+  },
+  {
+    "id": 5,
+    "occupation": "Member",
+    "name": "Mr. Avishek Dalmiya",
+    "imgSrc": "about/avishek.jpg",
+    "content": "Avishek Dalmiya, a prominent cricket administrator, serves as a key member of the Board of Control for Cricket in India (BCCI), representing the Cricket Association of Bengal (CAB). Following in the footsteps of his illustrious father, Jagmohan Dalmiya, Avishek brings a blend of experience, vision, and a deep-rooted passion for the game to his role. His tenure has been marked by a commitment to modernizing cricket administration, fostering grassroots development, and promoting transparency within the BCCI. Avishek's leadership continues to play a crucial role in shaping the future of Indian cricket, ensuring its continued success both on and off the field.",
+    "link": "https://gulfnews.com/sport/cricket/icc/meet-avishek-dalmiya-man-at-the-helm-of-eden-of-cricket-with-a-big-legacy-to-follow-1.85867225#:~:text=Exclusive-,Meet%20Avishek%20Dalmiya%2C%20man%20at%20the%20helm%20of%20Eden%20of,a%20big%20legacy%20to%20follow&text=Kolkata%3A%20Avishek%20Dalmiya%2C%20who%20took,to%20perform%20was%20no%20less.",
+    "linkData":"Mr.Avishek"
+  },
+  {
+    "id": 6,
+    "occupation": "Member",
+    "name": "Mr. Vankina Chamundeswara Nath",
+    "imgSrc": "about/vankina.jpg",
+    "content": "Mr. Vankina Chamundeswara Nath, as a member of the Board of Control for Cricket in India (BCCI), brings a wealth of experience and dedication to the administration of cricket in the country. With a keen understanding of the sport's intricacies and a commitment to its growth, Nath plays a significant role in shaping policies and decisions that steer Indian cricket forward. His contributions to the development of the game at both grassroots and professional levels underscore his passion for cricket and its enduring legacy in India.",
+    "link": "https://en.wikipedia.org/wiki/V._Chamundeswaranath",
+    "linkData":"Mr.Vankina"
+  }
+]

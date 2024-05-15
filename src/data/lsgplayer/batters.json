@@ -1,0 +1,41 @@
+[
+    {
+        "id":102,
+        "name":"KL RAHUL",
+        "Specialization":"Wk KEEPER-BATTER",
+        "imgSrc":"Players/lsg/batter/KLRahul.png",
+        "logo":"Players/logo/captain.svg",
+        "tlogo":"Players/logo/WicketKeeper.png"
+    },
+    {
+        "id":103,
+        "name":"DEVDUTT PADIKKAL",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/lsg/batter/padikkal.png"
+
+    },
+    {
+        "id":104,
+        "name":"QUINTON DE KOCK",
+        "Specialization":"Wk KEEPER-BATTER",
+        "imgSrc":"Players/lsg/batter/kock.png",
+        "logo":"Players/logo/foreignplayer.svg",
+        "tlogo":"Players/logo/WicketKeeper.png"
+    },
+    {
+        "id":105,
+        "name":"NICHOLAS POORAN",
+        "Specialization":"Wk KEEPER-BATTER",
+        "imgSrc":"Players/lsg/batter/pooran.png",
+        "logo":"Players/logo/foreignplayer.svg",
+        "tlogo":"Players/logo/WicketKeeper.png"
+        
+    },
+    {
+        "id":106,
+        "name":"ASHTON TURNER",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/lsg/batter/turner.png",
+        "logo":"Players/logo/foreignplayer.svg"
+    }
+]

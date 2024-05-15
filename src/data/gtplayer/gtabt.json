@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "occupation":"Owner",
+        "name":"CVC Capital Partners",
+        "imgSrc":"about/gtOwner.png",
+        "content":"CVC Capital Partners is a leading global private equity and investment advisory firm renowned for its strategic investments and value creation across various industries. With a distinguished track record spanning decades, CVC has established itself as a powerhouse in the financial landscape, adept at identifying and nurturing promising businesses to reach their full potential. Leveraging a deep understanding of markets and a hands-on approach, CVC consistently delivers exceptional results, driving growth and innovation while fostering long-term success for its portfolio companies.",
+        "link":"https://en.wikipedia.org/wiki/CVC_Capital_Partners",
+        "linkData":"CVC Capital Partners"
+    },
+    {
+        "id":2,
+        "occupation":"Coach",
+        "name":"Ashish Nehra",
+        "imgSrc":"about/gtcoach.png",
+        "content":"Ashish Nehra is a former Indian cricketer whose left-arm fast bowling prowess left an indelible mark on the game. Renowned for his ability to swing the ball and his deceptive variations, Nehra's career spanned over a decade, during which he played a pivotal role in India's bowling attack across all formats. His resilience in overcoming numerous injuries showcased his determination and passion for the sport. Nehra's contributions, both on and off the field, have earned him admiration and respect from fans and peers alike, solidifying his legacy as one of India's finest fast bowlers.",
+        "link":"https://en.wikipedia.org/wiki/Ashish_Nehra",
+        "linkData":"Ashish Nehra"
+    },
+    {
+        "id":3,
+        "occupation":"Venue",
+        "name":"Narendra Modi Stadium",
+        "imgSrc":"about/gtground.jpg",
+        "content":"The Narendra Modi Stadium, formerly known as the Sardar Patel Stadium, is a colossal cricket stadium located in Ahmedabad, India. Renovated in 2020, it stands as the largest cricket stadium globally, boasting a seating capacity of over 100,000 spectators. Named after India's Prime Minister, Narendra Modi, the stadium is not only a symbol of architectural marvel but also a hub for cricketing excellence, hosting international matches and marquee events. Its state-of-the-art facilities and iconic design make it a beacon of India's passion for cricket and its commitment to sporting infrastructure development.",
+        "link":"https://en.wikipedia.org/wiki/Narendra_Modi_Stadium",
+        "linkData":"Narendra Modi Stadium"
+    },
+    {
+        "id":4,
+        "occupation":"Captain",
+        "name":"Shubman Gil",
+        "imgSrc":"about/gtcaptain.png",
+        "content":"Shubman Gill is a highly talented Indian cricketer known for his elegant batting style and promising potential. Hailing from Punjab, Gill made waves in the cricketing world with his stellar performances at the youth level, including leading India to victory in the 2018 Under-19 Cricket World Cup. Since his debut in international cricket, Gill has showcased his maturity and technique, earning praise for his ability to play both pace and spin with finesse. With his assured presence at the crease and remarkable shot-making ability, Gill is poised to be a vital asset for the Indian cricket team in the years to come.",
+        "link":"https://en.wikipedia.org/wiki/Shubman_Gill",
+        "linkData":"Shubman Gil"
+    }
+]

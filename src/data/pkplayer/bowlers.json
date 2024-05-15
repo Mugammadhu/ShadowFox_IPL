@@ -1,0 +1,52 @@
+[
+  {
+    "id": 172,
+    "name": "PRINCE CHOUDHARY",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/pk/bowl/prince.png"
+  },
+  {
+    "id": 173,
+    "name": "HARPREET BRAR",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/pk/bowl/brar.png"
+  },
+  {
+    "id": 174,
+    "name": "ARSHDEEP SINGH",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/pk/bowl/arshdeep.png"
+  },
+  {
+    "id": 175,
+    "name": "KAGISO RABADA",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/pk/bowl/rabada.png",
+    "logo": "Players/logo/foreignplayer.svg"
+  },
+  {
+    "id": 176,
+    "name": "NATHAN ELLIS",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/pk/bowl/ellis.png",
+    "logo": "Players/logo/foreignplayer.svg"
+  },
+  {
+    "id": 177,
+    "name": "RAHUL CHAHAR",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/pk/bowl/rahul.png"
+  },
+  {
+    "id": 178,
+    "name": "VIDWATH KAVERAPPA",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/pk/bowl/vidwath.png"
+  },
+  {
+    "id": 179,
+    "name": "HARSHAL PATEL",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/pk/bowl/harshal.png"
+  }
+]

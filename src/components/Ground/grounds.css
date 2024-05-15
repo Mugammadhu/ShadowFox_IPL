@@ -1,0 +1,23 @@
+.groundContainer{
+    width: 100%;
+    min-height: 100vh;
+    background-image:url("../../assets//grounds//bg.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.groundTitle{
+    text-align: center;
+    font-size: 60px;
+    font-weight:700;
+    padding-top: 10px;
+    color: #20525c;
+    padding-bottom: 5px;
+}
+.cardList1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+}

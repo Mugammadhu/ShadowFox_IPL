@@ -1,0 +1,91 @@
+[
+    {
+      "id": 66,
+      "name": "SUNDEEP WARRIER",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/gt/bowl/warrier.png"
+    },
+    {
+      "id": 67,
+      "name": "JAYANT YADAV",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/gt/bowl/jayant.png"
+    },
+    {
+      "id": 253,
+      "name": "RAHUL TEWATIA",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/gt/bowl/tewatia.png"
+    },
+    {
+      "id": 68,
+      "name": "MOHAMMAD SHAMI",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/gt/bowl/shami.png"
+    },
+    {
+      "id": 69,
+      "name": "KARTIK TYAGI",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/gt/bowl/tyagi.png"
+    },
+    {
+      "id": 70,
+      "name": "SUSHANT MISHRA",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/gt/bowl/SMishra.png"
+    },
+    {
+      "id": 71,
+      "name": "SPENCER JOHNSON",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/gt/bowl/johnson.png",
+      "logo": "Players/logo/foreignplayer.svg"
+    },
+    {
+      "id": 72,
+      "name": "NOOR AHMAD",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/gt/bowl/noor.png",
+      "logo": "Players/logo/foreignplayer.svg"
+    },
+    {
+      "id": 73,
+      "name": "SAI KISHORE",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/gt/bowl/sai.png"
+    },
+    {
+      "id": 74,
+      "name": "UMESH YADAV",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/gt/bowl/umesh.png"
+    },
+    {
+      "id": 75,
+      "name": "RASHID KHAN",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/gt/bowl/rashid.png",
+      "logo": "Players/logo/foreignplayer.svg"
+    },
+    {
+      "id": 76,
+      "name": "JOSHUA LITTLE",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/gt/bowl/little.png",
+      "logo": "Players/logo/foreignplayer.svg"
+    },
+    {
+        "id": 77,
+        "name": "MOHIT SHARMA",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/gt/bowl/mohit.png"
+      },
+      {
+        "id": 78,
+        "name": "MANAV SUTHAR",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/gt/bowl/manav.png"
+      }
+  ]
+  

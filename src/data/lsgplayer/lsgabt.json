@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "occupation": "Owner",
+    "name": "Sanjeev Goenka",
+    "imgSrc": "about/lsgOwner.png",
+    "content": "Sanjeev Goenka is a prominent Indian industrialist and entrepreneur, known for his diverse business ventures across various sectors. As the Chairman of the RP-Sanjiv Goenka Group, he oversees a conglomerate with interests in power, retail, FMCG, infrastructure, and more. Under his leadership, the group has expanded its footprint globally while maintaining a strong commitment to corporate social responsibility. Beyond business, Goenka is actively involved in philanthropy and is recognized for his contributions to education, healthcare, and community development. His visionary leadership and innovative approach have solidified his position as a key player in India's corporate landscape.",
+    "link": "https://en.wikipedia.org/wiki/Sanjiv_Goenka",
+    "linkData":"Sanjeev Goenka"
+  },
+  {
+    "id": 2,
+    "occupation": "Coach",
+    "name": "Justin Langer",
+    "imgSrc": "about/lsgcoach.png",
+    "content": "Justin Langer is a revered figure in cricket, renowned for his distinguished career as a player and coach. As a gritty left-handed opening batsman for Australia, he played a pivotal role in the team's success during the late 1990s and 2000s, contributing to multiple Ashes victories and World Cup triumphs. Langer's resilience and determination earned him respect from teammates and opponents alike. Transitioning to coaching after retirement, he has brought a strong work ethic and a keen understanding of the game to his role as the head coach of the Australian cricket team. Under his guidance, the team has experienced notable successes, emphasizing a culture of discipline and professionalism. Langer's passion for the sport and commitment to excellence continue to shape Australia's cricketing legacy.",
+    "link": "https://en.wikipedia.org/wiki/Justin_Langer",
+    "linkData":"Justin Langer"
+  },
+  {
+    "id": 3,
+    "occupation": "Venue",
+    "name": "BRSABV Ekana Cricket Stadium",
+    "imgSrc": "about/lsgground.jpg",
+    "content": "BRSABV Ekana Cricket Stadium, situated in Lucknow, India, stands as a modern cricketing venue known for its world-class facilities and capacity to host international matches. Named after Atal Bihari Vajpayee, the former Prime Minister of India, and Bharat Ratna Sachin Tendulkar, the legendary cricketer, the stadium holds a special place in Indian cricketing lore. With its state-of-the-art amenities and spectator-friendly design, Ekana Stadium has become a vibrant hub for cricketing action, fostering the growth of the sport in the region and contributing to India's rich cricketing heritage.",
+    "link": "https://en.wikipedia.org/wiki/Ekana_Cricket_Stadium",
+    "linkData":"Ekana Stadium"
+  },
+  {
+    "id": 4,
+    "occupation": "Captain",
+    "name": "KL Rahul",
+    "imgSrc": "about/lsgcaptain.png",
+    "content": "KL Rahul, an immensely talented Indian cricketer, has made his mark with elegant stroke play and versatility across formats. Hailing from Karnataka, Rahul's journey from the domestic circuit to the national team has been defined by his consistent run-scoring and adaptability in various roles, including opening the innings, keeping wicket, and anchoring the middle order. Known for his pristine technique and ability to accelerate when needed, he has emerged as a key player in India's batting lineup. Rahul's leadership skills were recognized when he was appointed captain of the Punjab Kings in the Indian Premier League, showcasing his maturity and tactical nous. With his immense potential and dedication to the game, Rahul remains a pivotal figure in Indian cricket's future endeavors.",
+    "link": "https://en.wikipedia.org/wiki/KL_Rahul",
+    "linkData":"KL Rahul"
+  }
+]

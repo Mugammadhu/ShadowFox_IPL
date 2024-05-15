@@ -1,0 +1,53 @@
+[
+    {
+      "id": 194,
+      "name": "AVESH KHAN",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/rr/bowl/avesh.png"
+    },
+    {
+      "id": 195,
+      "name": "KULDEEP SEN",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/rr/bowl/sen.png"
+    },
+    {
+      "id": 196,
+      "name": "NAVDEEP SAINI",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/rr/bowl/saini.png"
+    },
+    {
+      "id": 197,
+      "name": "KESHAV MAHARAJ",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/rr/bowl/maharaj.png"
+    },
+    {
+      "id": 198,
+      "name": "SANDEEP SHARMA",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/rr/bowl/sandeep.png"
+    },
+    {
+      "id": 199,
+      "name": "TRENT BOULT",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/rr/bowl/boult.png",
+      "logo": "Players/logo/foreignplayer.svg"
+    },
+    {
+      "id": 200,
+      "name": "YUZVENDRA CHAHAL",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/rr/bowl/chahal.png"
+    },
+    {
+      "id": 201,
+      "name": "NANDRE BURGER",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/rr/bowl/burger.png",
+      "logo": "Players/logo/foreignplayer.svg"
+    }
+  ]
+  

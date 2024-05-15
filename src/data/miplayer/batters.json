@@ -1,0 +1,56 @@
+[
+    {
+        "id":128,
+        "name":"ROHIT SHARMA",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/mi/batter/rohit.png"
+    },
+    {
+        "id":129,
+        "name":"DEWALD BREVIS",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/mi/batter/brevis.png",
+        "logo":"Players/logo/foreignplayer.svg"
+
+    },
+    {
+        "id":130,
+        "name":"SURYAKUMAR YADAV",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/mi/batter/suryakumar.png"
+    },
+    {
+        "id":131,
+        "name":"ISHAN KISHAN",
+        "Specialization":"Wk KEEPER-BATTER",
+        "imgSrc":"Players/mi/batter/ishan.png",
+        "logo":"Players/logo/WicketKeeper.png"
+        
+    },
+    {
+        "id":132,
+        "name":"HARVIK DESAI",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/mi/batter/harvik.png"
+    },
+    {
+        "id":133,
+        "name":"N. TILAK VARMA",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/mi/batter/tilak.png"
+    },
+    {
+        "id":134,
+        "name":"TIM DAVID",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/mi/batter/tim.png",
+        "logo":"Players/logo/foreignplayer.svg"
+    },
+    {
+        "id":135,
+        "name":"VISHNU VINOD",
+        "Specialization":"Wk KEEPER-BATTER",
+        "imgSrc":"Players/mi/batter/vishnu.png",
+        "logo":"Players/logo/WicketKeeper.png"
+    }
+]

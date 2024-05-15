@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "occupation":"Owner",
+        "name":"Manoj Badale",
+        "imgSrc":"about/rrOwner.png",
+        "content":"Manoj Badale is a prominent figure in the world of business and sports, known for his multifaceted expertise and entrepreneurial acumen. As the co-founder of Blenheim Chalcot, one of the UK's leading venture builders, Badale has played a pivotal role in nurturing and scaling numerous technology-driven businesses across various sectors. Beyond his ventures in the corporate realm, he has also made significant contributions to cricket as the owner of the Rajasthan Royals, a franchise in the Indian Premier League. Badale's diverse portfolio underscores his commitment to innovation and excellence, positioning him as a notable figure at the intersection of business and sports.",
+        "link":"https://en.wikipedia.org/wiki/Manoj_Badale",
+        "linkData":"Manoj Badale"
+    },
+    {
+        "id":2,
+        "occupation":"Coach",
+        "name":"Kumar Sangakkara",
+        "imgSrc":"about/rrcoach.png",
+        "content":"Kumar Sangakkara, a cricketing legend hailing from Sri Lanka, is celebrated for his elegant batting style and astute leadership on the field. Renowned as one of the finest wicketkeeper-batsmen in the history of the sport, Sangakkara's illustrious career spanned decades, marked by numerous records and accolades. His graceful strokeplay, coupled with a remarkable ability to read the game, earned him admiration from fans and peers alike. Beyond his on-field exploits, Sangakkara's articulate demeanor and commitment to the spirit of cricket have made him a revered ambassador for the sport globally. Post-retirement, he continues to contribute to cricket as an administrator, commentator, and mentor, leaving an indelible mark on the sport's legacy.",
+        "link":"https://en.wikipedia.org/wiki/Kumar_Sangakkara",
+        "linkData":"Kumar Sangakkara"
+    },
+    {
+        "id":3,
+        "occupation":"Venue",
+        "name":"Sawai Mansingh Stadium",
+        "imgSrc":"about/rrground.jpg",
+        "content":"The Sawai Mansingh Stadium, located in Jaipur, India, stands as a proud emblem of the city's sporting heritage. With a seating capacity of over 30,000, it serves as the home ground for the Rajasthan Royals cricket team in the Indian Premier League. Named after the erstwhile Maharaja of Jaipur, Sawai Mansingh II, the stadium has witnessed countless thrilling cricket matches and other sporting events, igniting the passion of fans and fostering memorable moments in the annals of Indian sports history.",
+        "link":"https://en.wikipedia.org/wiki/Sawai_Mansingh_Stadium",
+        "linkData":"Sawai Mansingh Stadium"
+    },
+    {
+        "id":4,
+        "occupation":"Captain",
+        "name":"Sanju Samson",
+        "imgSrc":"about/rrcaptain.png",
+        "content":"Sanju Samson, an Indian cricketer hailing from Kerala, is a dynamic wicketkeeper-batsman whose elegant stroke play and remarkable athleticism have captivated fans and pundits alike. Known for his fluent batting style and ability to anchor innings across formats, Samson burst onto the scene with his precocious talent and has since become a pivotal figure in Indian cricket. His leadership skills were recognized when he was appointed as the captain of the Rajasthan Royals in the Indian Premier League, showcasing his potential to excel not just as a player but also as a leader on the cricketing stage.",
+        "link":"https://en.wikipedia.org/wiki/Sanju_Samson",
+        "linkData":"Sanju Samson"
+    }
+]

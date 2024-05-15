@@ -1,0 +1,66 @@
+[
+  {
+    "id": 92,
+    "name": "SUYASH SHARMA",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/kkr/bowl/suyash.png"
+  },
+  {
+    "id": 93,
+    "name": "ALLAH GHAZANFAR",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/kkr/bowl/allah.png",
+    "logo": "Players/logo/foreignplayer.svg"
+  },
+  {
+    "id": 94,
+    "name": "DUSHMANTHA CHAMEERA",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/kkr/bowl/dushmantha.png",
+    "logo": "Players/logo/foreignplayer.svg"
+  },
+  {
+    "id": 95,
+    "name": "SAKIB HUSSAIN",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/kkr/bowl/sakib.png"
+  },
+  {
+    "id": 96,
+    "name": "HARSHIT RANA",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/kkr/bowl/harshit.png"
+  },
+  {
+    "id": 97,
+    "name": "SUNIL NARINE",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/kkr/bowl/sunil.png",
+    "logo": "Players/logo/foreignplayer.svg"
+  },
+  {
+    "id": 98,
+    "name": "VAIBHAV ARORA",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/kkr/bowl/arora.png"
+  },
+  {
+    "id": 99,
+    "name": "VARUN CHAKARAVARTHY",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/kkr/bowl/varun.png"
+  },
+  {
+    "id": 100,
+    "name": "MITCHELL STARC",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/kkr/bowl/starc.png",
+    "logo": "Players/logo/foreignplayer.svg"
+  },
+  {
+    "id": 101,
+    "name": "CHETAN SAKARIYA",
+    "Specialization": "BOWLER",
+    "imgSrc": "Players/kkr/bowl/sakariya.png"
+  }
+]

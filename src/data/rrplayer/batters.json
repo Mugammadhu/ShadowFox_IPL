@@ -1,0 +1,77 @@
+[
+    {
+        "id":180,
+        "name":"SANJU SAMSON",
+        "Specialization":"Wk KEEPER-BATTER",
+        "imgSrc":"Players/rr/batter/sanju.png",
+        "logo":"Players/logo/captain.svg",
+        "tlogo":"Players/logo/WicketKeeper.png"
+    },
+    {
+        "id":181,
+        "name":"JOS BUTTLER",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/rr/batter/buttler.png",
+        "logo":"Players/logo/foreignplayer.svg"
+
+    },
+    {
+        "id":182,
+        "name":"SHIMRON HETMYER",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/rr/batter/hetmyer.png",
+        "logo":"Players/logo/foreignplayer.svg"
+    },
+    {
+        "id":183,
+        "name":"YASHASVI JAISWAL",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/rr/batter/jaiswal.png"
+        
+    },
+    {
+        "id":184,
+        "name":"DHRUV JUREL",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/rr/batter/jurel.png"
+    },
+    {
+        "id":185,
+        "name":"RIYAN PARAG",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/rr/batter/riyan.png"
+    },
+    {
+        "id":186,
+        "name":"KUNAL RATHORE",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/rr/batter/rathore.png"
+    },
+    {
+        "id":187,
+        "name":"DONOVAN FERREIRA",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/rr/batter/ferreira.png",
+        "logo":"Players/logo/foreignplayer.svg"
+    },
+    {
+        "id":188,
+        "name":"ROVMAN POWELL",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/rr/batter/rovman.png",
+        "logo":"Players/logo/foreignplayer.svg"
+    },
+    {
+        "id":189,
+        "name":"SHUBHAM DUBEY",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/rr/batter/shubham.png"
+    },
+    {
+        "id":190,
+        "name":"TOM KOHLER-CADMORE",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/rr/batter/kohler.png",
+        "logo":"Players/logo/foreignplayer.svg"
+    }
+]

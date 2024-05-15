@@ -1,0 +1,629 @@
+[
+    {
+        "id": 17,
+        "name": "RICHARD GLEESON",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/csk/bowl/gleeson.jpg",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 18,
+        "name": "RAJVARDHAN HANGARGEKAR",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/csk/bowl/rajvardhan.jpg"
+      },
+      {
+        "id": 19,
+        "name": "DEEPAK CHAHAR",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/csk/bowl/chakar.png"
+      },
+      {
+        "id": 20,
+        "name": "MAHEESH THEEKSHANA",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/csk/bowl/theekshana.jpg",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 21,
+        "name": "MUKESH CHOUDHARY",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/csk/bowl/mukesh.jpg"
+      },
+      {
+        "id": 22,
+        "name": "MUSTAFIZUR RAHMAN",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/csk/bowl/mustafizur.jpg",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 23,
+        "name": "PRASHANT SOLANKI",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/csk/bowl/prashanth.jpg"
+      },
+      {
+        "id": 24,
+        "name": "SIMARJEET SINGH",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/csk/bowl/simarjeet.jpg"
+      },{
+        "id": 44,
+        "name": "PRAVIN DUBEY",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/dc/bowl/pravin.png"
+      },
+      {
+        "id": 45,
+        "name": "VICKY OSTWAL",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/dc/bowl/ostwal.png"
+      },
+      {
+        "id": 46,
+        "name": "ANRICH NORTJE",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/dc/bowl/anrich.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 47,
+        "name": "KULDEEP YADAV",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/dc/bowl/kuldeep.png"
+      },
+      {
+        "id": 48,
+        "name": "KHALEEL AHMED",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/dc/bowl/khaleel.png"
+      },
+      {
+        "id": 49,
+        "name": "ISHANT SHARMA",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/dc/bowl/ishant.png"
+      },{
+        "id": 66,
+        "name": "SUNDEEP WARRIER",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/gt/bowl/warrier.png"
+      },
+      {
+        "id": 67,
+        "name": "JAYANT YADAV",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/gt/bowl/jayant.png"
+      },
+      {
+        "id": 253,
+        "name": "RAHUL TEWATIA",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/gt/bowl/tewatia.png"
+      },
+      {
+        "id": 68,
+        "name": "MOHAMMAD SHAMI",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/gt/bowl/shami.png"
+      },
+      {
+        "id": 69,
+        "name": "KARTIK TYAGI",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/gt/bowl/tyagi.png"
+      },
+      {
+        "id": 70,
+        "name": "SUSHANT MISHRA",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/gt/bowl/SMishra.png"
+      },
+      {
+        "id": 71,
+        "name": "SPENCER JOHNSON",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/gt/bowl/johnson.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },{
+        "id": 92,
+        "name": "SUYASH SHARMA",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/kkr/bowl/suyash.png"
+      },
+      {
+        "id": 93,
+        "name": "ALLAH GHAZANFAR",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/kkr/bowl/allah.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 94,
+        "name": "DUSHMANTHA CHAMEERA",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/kkr/bowl/dushmantha.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 95,
+        "name": "SAKIB HUSSAIN",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/kkr/bowl/sakib.png"
+      },
+      {
+        "id": 96,
+        "name": "HARSHIT RANA",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/kkr/bowl/harshit.png"
+      },
+      {
+        "id": 97,
+        "name": "SUNIL NARINE",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/kkr/bowl/sunil.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      }, {
+        "id": 118,
+        "name": "SHIVAM MAVI",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/lsg/bowl/mavi.png"
+      },
+      {
+        "id": 119,
+        "name": "SHAMAR JOSEPH",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/lsg/bowl/joseph.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      }, {
+        "id": 194,
+        "name": "AVESH KHAN",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/rr/bowl/avesh.png"
+      },{
+        "id": 242,
+        "name": "PAT CUMMINS",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/srh/bowl/pat.png",
+        "logo":"Players/logo/captain.svg",
+        "tlogo":"Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 243,
+        "name": "AKASH SINGH",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/srh/bowl/akash.png"
+      },
+      {
+        "id": 244,
+        "name": "SHAHBAZ AHAMAD",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/srh/bowl/shahbaz.png"
+      },
+      {
+        "id": 245,
+        "name": "BHUVNESHWAR KUMAR",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/srh/bowl/bhuvneshwar.png"
+      },
+      {
+        "id": 246,
+        "name": "FAZALHAQ FAROOQI",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/srh/bowl/fazalhaq.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 247,
+        "name": "JAYDEV UNADKAT",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/srh/bowl/jaydev.png"
+      },
+      {
+        "id": 248,
+        "name": "T NATARAJAN",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/srh/bowl/natarajan.png"
+      },
+      {
+        "id": 249,
+        "name": "UMRAN MALIK",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/srh/bowl/umran.png"
+      },
+      {
+        "id": 250,
+        "name": "MAYANK MARKANDE",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/srh/bowl/markande.png"
+      },
+      {
+        "id": 251,
+        "name": "JHATHAVEDH SUBRAMANYAN",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/srh/bowl/jhathavedh.png"
+      },
+      {
+        "id": 252,
+        "name": "VIJAYAKANTH VIYASKANTH",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/srh/bowl/vijayakanth.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 195,
+        "name": "KULDEEP SEN",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/rr/bowl/sen.png"
+      },
+      {
+        "id": 196,
+        "name": "NAVDEEP SAINI",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/rr/bowl/saini.png"
+      },
+      {
+        "id": 197,
+        "name": "KESHAV MAHARAJ",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/rr/bowl/maharaj.png"
+      },
+      {
+        "id": 198,
+        "name": "SANDEEP SHARMA",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/rr/bowl/sandeep.png"
+      },
+      {
+        "id": 199,
+        "name": "TRENT BOULT",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/rr/bowl/boult.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 200,
+        "name": "YUZVENDRA CHAHAL",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/rr/bowl/chahal.png"
+      },
+      {
+        "id": 201,
+        "name": "NANDRE BURGER",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/rr/bowl/burger.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 120,
+        "name": "MATT HENRY",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/lsg/bowl/henry.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 121,
+        "name": "MAYANK YADAV",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/lsg/bowl/mayank.png"
+      },
+      {
+        "id": 146,
+        "name": "KWENA MAPHAKA",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/mi/bowl/maphaka.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },{
+        "id": 172,
+        "name": "PRINCE CHOUDHARY",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/pk/bowl/prince.png"
+      },
+      {
+        "id": 173,
+        "name": "HARPREET BRAR",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/pk/bowl/brar.png"
+      },
+      {
+        "id": 174,
+        "name": "ARSHDEEP SINGH",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/pk/bowl/arshdeep.png"
+      },
+      {
+        "id": 175,
+        "name": "KAGISO RABADA",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/pk/bowl/rabada.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 217,
+        "name": "AKASH DEEP",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/rcb/bowl/akash.png"
+      },
+      {
+        "id": 218,
+        "name": "ALZARRI JOSEPH",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/rcb/bowl/alzarri.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 219,
+        "name": "LOCKIE FERGUSON",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/rcb/bowl/lockie.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 220,
+        "name": "MOHAMMED SIRAJ",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/rcb/bowl/siraj.png"
+      },
+      {
+        "id": 221,
+        "name": "YASH DAYAL",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/rcb/bowl/yash.png"
+      },
+      {
+        "id": 222,
+        "name": "TOM CURRAN",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/rcb/bowl/tom.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 223,
+        "name": "REECE TOPLEY",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/rcb/bowl/topley.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 224,
+        "name": "HIMANSHU SHARMA",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/rcb/bowl/himanshu.png"
+      },
+      {
+        "id": 225,
+        "name": "RAJAN KUMAR",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/rcb/bowl/rajan.png"
+      },
+      {
+        "id": 226,
+        "name": "VYSHAK VIJAY KUMAR",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/rcb/bowl/vyshak.png"
+      },
+      {
+        "id": 176,
+        "name": "NATHAN ELLIS",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/pk/bowl/ellis.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 177,
+        "name": "RAHUL CHAHAR",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/pk/bowl/rahul.png"
+      },
+      {
+        "id": 178,
+        "name": "VIDWATH KAVERAPPA",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/pk/bowl/vidwath.png"
+      },
+      {
+        "id": 179,
+        "name": "HARSHAL PATEL",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/pk/bowl/harshal.png"
+      },
+      {
+        "id": 147,
+        "name": "JASPRIT BUMRAH",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/mi/bowl/bumrah.png"
+      },
+      {
+        "id": 148,
+        "name": "PIYUSH CHAWLA",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/mi/bowl/chawla.png"
+      },
+      {
+        "id": 149,
+        "name": "KUMAR KARTIKEYA SINGH",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/mi/bowl/kumarKartikeya.png"
+      },
+      {
+        "id": 150,
+        "name": "AKASH MADHWAL",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/mi/bowl/akash.png"
+      },
+      {
+        "id": 151,
+        "name": "LUKE WOOD",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/mi/bowl/luke.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 152,
+        "name": "DILSHAN MADUSHANKA",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/mi/bowl/dilshan.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 153,
+        "name": "SHREYAS GOPAL",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/mi/bowl/gopal.png"
+      },
+      {
+        "id": 154,
+        "name": "NUWAN THUSHARA",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/mi/bowl/thushara.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 122,
+        "name": "MOHSIN KHAN",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/lsg/bowl/mohsin.png"
+      },
+      {
+        "id": 123,
+        "name": "RAVI BISHNOI",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/lsg/bowl/bishnoi.png"
+      },
+      {
+        "id": 124,
+        "name": "YASH THAKUR",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/lsg/bowl/yashThakur.png"
+      },
+      {
+        "id": 125,
+        "name": "AMIT MISHRA",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/lsg/bowl/AmitMishra.png"
+      },
+      {
+        "id": 126,
+        "name": "NAVEEN UL HAQ",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/lsg/bowl/naveen.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 127,
+        "name": "M SIDDHARTH",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/lsg/bowl/siddharth.png"
+      },
+      {
+        "id": 98,
+        "name": "VAIBHAV ARORA",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/kkr/bowl/arora.png"
+      },
+      {
+        "id": 99,
+        "name": "VARUN CHAKARAVARTHY",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/kkr/bowl/varun.png"
+      },
+      {
+        "id": 100,
+        "name": "MITCHELL STARC",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/kkr/bowl/starc.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 101,
+        "name": "CHETAN SAKARIYA",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/kkr/bowl/sakariya.png"
+      },
+      {
+        "id": 72,
+        "name": "NOOR AHMAD",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/gt/bowl/noor.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 73,
+        "name": "SAI KISHORE",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/gt/bowl/sai.png"
+      },
+      {
+        "id": 74,
+        "name": "UMESH YADAV",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/gt/bowl/umesh.png"
+      },
+      {
+        "id": 75,
+        "name": "RASHID KHAN",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/gt/bowl/rashid.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 76,
+        "name": "JOSHUA LITTLE",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/gt/bowl/little.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+          "id": 77,
+          "name": "MOHIT SHARMA",
+          "Specialization": "BOWLER",
+          "imgSrc": "Players/gt/bowl/mohit.png"
+        },
+        {
+          "id": 78,
+          "name": "MANAV SUTHAR",
+          "Specialization": "BOWLER",
+          "imgSrc": "Players/gt/bowl/manav.png"
+        },
+      {
+        "id": 50,
+        "name": "JHYE RICHARDSON",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/dc/bowl/jhye.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 51,
+        "name": "LIZAAD WILLIAMS",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/dc/bowl/lizaad.png",
+        "logo": "Players/logo/foreignplayer.svg"
+      },
+      {
+        "id": 52,
+        "name": "MUKESH KUMAR",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/dc/bowl/mukesh.png"
+      },
+      {
+        "id": 53,
+        "name": "RASIKH DAR",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/dc/bowl/rasikh.png"
+      },
+      {
+        "id": 25,
+        "name": "TUSHAR DESHPANDE",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/csk/bowl/deshpande.jpg"
+      },
+      {
+        "id": 26,
+        "name": "MATHEESHA PATHIRANA",
+        "Specialization": "BOWLER",
+        "imgSrc": "Players/csk/bowl/patheerana.jpg",
+        "logo": "Players/logo/foreignplayer.svg"
+      }
+]

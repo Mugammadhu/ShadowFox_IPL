@@ -1,0 +1,56 @@
+[
+    {
+        "id":202,
+        "name":"FAF DU PLESSIS",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/rcb/batter/faf.png",
+        "logo":"Players/logo/captain.svg",
+        "tlogo":"Players/logo/foreignplayer.svg"
+    },
+    {
+        "id":203,
+        "name":"RAJAT PATIDAR",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/rcb/batter/patidar.png"
+
+    },
+    {
+        "id":204,
+        "name":"VIRAT KOHLI",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/rcb/batter/virat.png"
+    },
+    {
+        "id":205,
+        "name":"ANUJ RAWAT",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/rcb/batter/rawat.png"
+        
+    },
+    {
+        "id":206,
+        "name":"DINESH KARTHIK",
+        "Specialization":"Wk KEEPER-BATTER",
+        "imgSrc":"Players/rcb/batter/dinesh.png",
+        "logo":"Players/logo/WicketKeeper.png"
+    },
+    {
+        "id":207,
+        "name":"SUYASH S PRABHUDESSAI",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/rcb/batter/prabhudessai.png"
+    },
+    {
+        "id":208,
+        "name":"WILL JACKS",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/rcb/batter/will.png",
+        "logo":"Players/logo/foreignplayer.svg"
+    },
+    {
+        "id":209,
+        "name":"SAURAV CHUAHAN",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/rcb/batter/saurav.png"
+    }
+]

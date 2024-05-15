@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "occupation":"Owner",
+        "name":"Shah Rukh Khan",
+        "imgSrc":"about/kkrOwner.png",
+        "content":"Shah Rukh Khan, often referred to as the \"King of Bollywood,\" is an iconic figure in Indian cinema and a global cultural phenomenon. With a career spanning decades, Khan has captivated audiences with his charismatic performances, versatility, and magnetic screen presence. From romantic leads to intense dramas, he has portrayed a wide range of characters with unparalleled finesse, earning him numerous accolades and a massive fan following worldwide. Beyond acting, Khan is a visionary entrepreneur, philanthropist, and a prominent advocate for social causes, demonstrating his multifaceted influence and commitment to making a positive impact beyond the silver screen.",
+        "link":"https://en.wikipedia.org/wiki/Shah_Rukh_Khan",
+        "linkData":"Shah Rukh Khan"
+    },
+    {
+        "id":2,
+        "occupation":"Coach",
+        "name":"Chandrakant Pandit",
+        "imgSrc":"about/kkrcoach.png",
+        "content":"Chandrakant Pandit is a respected figure in Indian cricket, renowned for his contributions as a player and coach. As a wicketkeeper-batsman, he represented India in both Tests and ODIs during the 1980s. However, it is his astute coaching acumen that has earned him widespread acclaim. Pandit has played pivotal roles in guiding domestic teams to success, including Mumbai and Vidarbha, with his emphasis on discipline, meticulous planning, and nurturing young talent. His achievements as a coach have solidified his reputation as one of the foremost cricketing minds in India, revered for his dedication and strategic approach to the game.",
+        "link":"https://en.wikipedia.org/wiki/Chandrakant_Pandit#:~:text=His%20ODI%20debut%20was%20against,England%20at%20his%20hometown%2C%20Mumbai.",
+        "linkData":"Chandrakant"
+    },
+    {
+        "id":3,
+        "occupation":"Venue",
+        "name":"Eden Gardens",
+        "imgSrc":"about/kkrground.png",
+        "content":"Eden Gardens stands as one of cricket's most iconic venues, steeped in history and passion. Located in Kolkata, India, it is the country's oldest cricket stadium and has witnessed numerous historic moments in the sport. With a capacity exceeding 60,000 spectators, Eden Gardens is renowned for its electric atmosphere during matches, particularly when India plays against major rivals. Beyond cricket, the stadium has also hosted various cultural and political events, reflecting its significance beyond sports. As a symbol of Kolkata's rich heritage and love for cricket, Eden Gardens continues to be a revered destination for players and fans alike.",
+        "link":"https://en.wikipedia.org/wiki/Eden_Gardens",
+        "linkData":"Eden Gardens"
+    },
+    {
+        "id":4,
+        "occupation":"Captain",
+        "name":"Shreyas Iyer",
+        "imgSrc":"about/kkrcaptain.png",
+        "content":"Shreyas Iyer is a dynamic Indian cricketer recognized for his elegant batting style and leadership qualities. Hailing from Mumbai, he rose through the ranks of domestic cricket with consistent performances, earning him a spot in the national team. Known for his ability to anchor an innings and accelerate when needed, Iyer has become a crucial middle-order batsman for India in limited-overs cricket. His tactical acumen was further highlighted when he captained the Delhi Capitals in the Indian Premier League, leading the team to the playoffs with his astute decision-making and calm demeanor. With his talent and potential, Iyer is poised to make significant contributions to Indian cricket in the years to come.",
+        "link":"https://en.wikipedia.org/wiki/Shreyas_Iyer",
+        "linkData":"Shreyas Iyer"
+    }
+]

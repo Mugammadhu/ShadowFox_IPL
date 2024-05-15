@@ -1,0 +1,61 @@
+[
+    {
+      "id": 146,
+      "name": "KWENA MAPHAKA",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/mi/bowl/maphaka.png",
+      "logo": "Players/logo/foreignplayer.svg"
+    },
+    {
+      "id": 147,
+      "name": "JASPRIT BUMRAH",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/mi/bowl/bumrah.png"
+    },
+    {
+      "id": 148,
+      "name": "PIYUSH CHAWLA",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/mi/bowl/chawla.png"
+    },
+    {
+      "id": 149,
+      "name": "KUMAR KARTIKEYA SINGH",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/mi/bowl/kumarKartikeya.png"
+    },
+    {
+      "id": 150,
+      "name": "AKASH MADHWAL",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/mi/bowl/akash.png"
+    },
+    {
+      "id": 151,
+      "name": "LUKE WOOD",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/mi/bowl/luke.png",
+      "logo": "Players/logo/foreignplayer.svg"
+    },
+    {
+      "id": 152,
+      "name": "DILSHAN MADUSHANKA",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/mi/bowl/dilshan.png",
+      "logo": "Players/logo/foreignplayer.svg"
+    },
+    {
+      "id": 153,
+      "name": "SHREYAS GOPAL",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/mi/bowl/gopal.png"
+    },
+    {
+      "id": 154,
+      "name": "NUWAN THUSHARA",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/mi/bowl/thushara.png",
+      "logo": "Players/logo/foreignplayer.svg"
+    }
+  ]
+  

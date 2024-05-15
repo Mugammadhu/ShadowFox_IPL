@@ -1,0 +1,34 @@
+[
+    {
+        "id":39,
+        "name":"AXAR PATEL",
+        "Specialization":"ALL-ROUNDER",
+        "imgSrc":"Players/dc/allRounder/patel.png"
+    },
+    {
+        "id":40,
+        "name":"LALIT YaDAV",
+        "Specialization":"ALL-ROUNDER",
+        "imgSrc":"Players/dc/allRounder/lalit.png"
+    },
+    {
+        "id":41,
+        "name":"MITCHELL MARSH",
+        "Specialization":"ALL-ROUNDER",
+        "imgSrc":"Players/dc/allRounder/marsh.png",
+        "logo":"Players/logo/foreignplayer.svg"
+    },
+    {
+        "id":42,
+        "name":"GULBADIN NAIB",
+        "Specialization":"ALL-ROUNDER",
+        "imgSrc":"Players/dc/allRounder/naib.png",
+        "logo":"Players/logo/foreignplayer.svg" 
+    },
+    {
+        "id":43,
+        "name":"SUMIT KUMAR",
+        "Specialization":"ALL-ROUNDER",
+        "imgSrc":"Players/dc/allRounder/sumit_kumar.png" 
+    }
+]

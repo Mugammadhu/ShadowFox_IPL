@@ -1,0 +1,67 @@
+[
+    {
+      "id": 217,
+      "name": "AKASH DEEP",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/rcb/bowl/akash.png"
+    },
+    {
+      "id": 218,
+      "name": "ALZARRI JOSEPH",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/rcb/bowl/alzarri.png",
+      "logo": "Players/logo/foreignplayer.svg"
+    },
+    {
+      "id": 219,
+      "name": "LOCKIE FERGUSON",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/rcb/bowl/lockie.png",
+      "logo": "Players/logo/foreignplayer.svg"
+    },
+    {
+      "id": 220,
+      "name": "MOHAMMED SIRAJ",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/rcb/bowl/siraj.png"
+    },
+    {
+      "id": 221,
+      "name": "YASH DAYAL",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/rcb/bowl/yash.png"
+    },
+    {
+      "id": 222,
+      "name": "TOM CURRAN",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/rcb/bowl/tom.png",
+      "logo": "Players/logo/foreignplayer.svg"
+    },
+    {
+      "id": 223,
+      "name": "REECE TOPLEY",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/rcb/bowl/topley.png",
+      "logo": "Players/logo/foreignplayer.svg"
+    },
+    {
+      "id": 224,
+      "name": "HIMANSHU SHARMA",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/rcb/bowl/himanshu.png"
+    },
+    {
+      "id": 225,
+      "name": "RAJAN KUMAR",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/rcb/bowl/rajan.png"
+    },
+    {
+      "id": 226,
+      "name": "VYSHAK VIJAY KUMAR",
+      "Specialization": "BOWLER",
+      "imgSrc": "Players/rcb/bowl/vyshak.png"
+    }
+  ]
+  

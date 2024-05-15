@@ -1,0 +1,84 @@
+[
+    {
+        "id":27,
+        "name":"RISHABH PANT",
+        "Specialization":"WK KEEPER-BATTER",
+        "imgSrc":"Players/dc/batter/rishabh.png",
+        "logo":"Players/logo/captain.svg",
+        "tlogo":"Players/logo/WicketKeeper.png"
+    },
+    {
+        "id":28,
+        "name":"DAVID WARNER",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/dc/batter/warner.png",
+        "logo":"Players/logo/foreignplayer.svg"
+
+    },
+    {
+        "id":29,
+        "name":"PRITHVI SHAW",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/dc/batter/shaw.png"
+    },
+    {
+        "id":30,
+        "name":"YASH DHULL",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/dc/batter/yash.png"
+        
+    },
+    {
+        "id":31,
+        "name":"JAKE FRASER_MCGURK",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/dc/batter/jake.png",
+        "logo":"Players/logo/foreignplayer.svg"
+    },
+    {
+        "id":32,
+        "name":"SHAI HOPE",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/dc/batter/hope.png",
+        "logo":"Players/logo/foreignplayer.svg"
+    },
+    {
+        "id":33,
+        "name":"SWASTIK CHHIKARA",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/dc/batter/chhikara.png"
+    },
+    {
+        "id":34,
+        "name":"ABISHEK POREL",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/dc/batter/abishek.png"
+    },
+    {
+        "id":35,
+        "name":"HARRY BROOK",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/dc/batter/harry.png",
+        "logo":"Players/logo/foreignplayer.svg"
+    },
+    {
+        "id":36,
+        "name":"RICKY BHUL",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/dc/batter/ricky.png"
+    },
+    {
+        "id":37,
+        "name":"KUMAR KUSHAGRA",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/dc/batter/kumar.png"
+    },
+    {
+        "id":38,
+        "name":"TRISTAN STUBBS",
+        "Specialization":"BATTER",
+        "imgSrc":"Players/dc/batter/stubbs.png",
+        "logo":"Players/logo/foreignplayer.svg"
+    }
+    
+]

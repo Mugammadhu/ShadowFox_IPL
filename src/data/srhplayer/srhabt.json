@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "occupation":"Owner",
+        "name":"Kalanithi Maran",
+        "imgSrc":"about/srhOwner.png",
+        "content":"Kalanithi Maran, an influential figure in the Indian business landscape, is the Chairman and founder of the Sun Group, a conglomerate with diverse interests spanning media, aviation, and telecommunications. With a keen eye for innovation and entrepreneurship, Maran has played a pivotal role in shaping the media industry in India through his flagship venture, Sun TV Network, which has emerged as one of the largest media conglomerates in the country. His strategic vision and leadership have propelled the Sun Group to prominence, solidifying Maran's reputation as a key player in India's corporate arena.",
+        "link":"https://en.wikipedia.org/wiki/Kalanithi_Maran",
+        "linkData":"Kalanithi Maran"
+    },
+    {
+        "id":2,
+        "occupation":"Coach",
+        "name":"Daniel Vettori",
+        "imgSrc":"about/srhcoach.png",
+        "content":"Daniel Vettori, the esteemed former New Zealand cricketer, is celebrated for his outstanding achievements as a left-arm spinner and a shrewd cricketing intellect. Throughout his illustrious career, Vettori's guile and consistency made him a formidable force in both Test and limited-overs cricket. Renowned for his subtle variations and impeccable control, he ranks among the most successful spin bowlers in cricketing history. Beyond his prowess with the ball, Vettori's leadership qualities shone as he captained the New Zealand team, guiding them with astuteness and integrity. Post-retirement, he transitioned seamlessly into coaching, further contributing to the sport's development. Vettori's enduring legacy endears him to fans worldwide, solidifying his status as a cricketing icon.",
+        "link":"https://en.wikipedia.org/wiki/Daniel_Vettori",
+        "linkData":"Daniel Vettori"
+    },
+    {
+        "id":3,
+        "occupation":"Venue",
+        "name":"Rajiv Gandhi Intl. Cricket Stadium",
+        "imgSrc":"about/srhground.jpg",
+        "content":"The Rajiv Gandhi International Cricket Stadium, located in Hyderabad, India, stands as a modern masterpiece in the realm of cricketing infrastructure. Named after the former Prime Minister of India, the stadium boasts state-of-the-art facilities and a seating capacity of over 33,000 spectators. As the home ground for the Sunrisers Hyderabad franchise in the Indian Premier League, it has witnessed numerous thrilling encounters, captivating fans with its vibrant atmosphere and top-notch amenities. With its picturesque surroundings and world-class amenities, the stadium continues to be a proud symbol of Hyderabad's rich cricketing heritage.",
+        "link":"https://en.wikipedia.org/wiki/Rajiv_Gandhi_International_Cricket_Stadium#:~:text=The%20Rajiv%20Gandhi%20International%20Cricket,and%20Hyderabad%20women's%20cricket%20team.",
+        "linkData":"Rajiv Gandhi Stadium"
+    },
+    {
+        "id":4,
+        "occupation":"Captain",
+        "name":"Pat Cummins",
+        "imgSrc":"about/srhcaptain.png",
+        "content":"Pat Cummins, the Australian cricketing sensation, is revered for his lethal pace bowling, gritty batting, and unwavering determination on the field. Renowned for his express pace and ability to generate bounce from any surface, Cummins strikes fear into the hearts of batsmen worldwide. His aggressive yet composed demeanor, coupled with his knack for picking crucial wickets, has established him as one of the premier fast bowlers of his generation. Beyond his bowling prowess, Cummins has showcased his batting prowess with crucial contributions lower down the order. As the vice-captain of the Australian cricket team, he exemplifies leadership and resilience, inspiring teammates and fans alike with his unwavering commitment to the game.",
+        "link":"https://en.wikipedia.org/wiki/Pat_Cummins",
+        "linkData":"Pat Cummins"
+    }
+]

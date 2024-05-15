@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "occupation": "Owner",
+    "name": "Mukesh Ambani",
+    "imgSrc": "about/miOwner.png",
+    "content": "Mukesh Ambani, the chairman and largest shareholder of Reliance Industries Limited, stands as a titan in the realm of global business. His visionary leadership has propelled Reliance into diverse sectors, ranging from petrochemicals and refining to telecommunications and digital services, shaping India's economic landscape. Ambani's strategic foresight, coupled with relentless innovation, has not only transformed Reliance into a conglomerate of immense stature but has also cemented his reputation as one of the most influential and dynamic business magnates worldwide.",
+    "link": "https://en.wikipedia.org/wiki/Mukesh_Ambani",
+    "linkData":"Mukesh Ambani"
+  },
+  {
+    "id": 2,
+    "occupation": "Coach",
+    "name": "Mark Boucher",
+    "imgSrc": "about/micoach.png",
+    "content": "Mark Boucher is a former South African cricketer renowned for his exceptional wicketkeeping skills and gritty batting prowess. Throughout his illustrious career, Boucher's name became synonymous with determination and resilience, as he consistently delivered under pressure. His tenure as the Proteas' wicketkeeper-batsman witnessed numerous records and memorable performances, making him a revered figure in the cricketing world. Post-retirement, Boucher transitioned into coaching, further enriching the sport with his wealth of experience and insight.",
+    "link": "https://en.wikipedia.org/wiki/Mark_Boucher",
+    "linkData":"Mark Boucher"
+  },
+  {
+    "id": 3,
+    "occupation": "Venue",
+    "name": "Wankhede Stadium",
+    "imgSrc": "about/miground.jpg",
+    "content": "Wankhede Stadium, situated in Mumbai, India, stands as a revered temple of cricket and a symbol of the nation's sporting passion. Renowned for its electrifying atmosphere and capacity to host high-stakes matches, Wankhede has witnessed historic cricketing moments, including the 2011 ICC Cricket World Cup final. Named after the distinguished cricket administrator Sheshrao Wankhede, the stadium boasts state-of-the-art facilities and a seating capacity of over 33,000 spectators, providing an unforgettable experience for cricket enthusiasts worldwide.",
+    "link": "https://en.wikipedia.org/wiki/Wankhede_Stadium",
+    "linkData":"Wankhede Stadium"
+  },
+  {
+    "id": 4,
+    "occupation": "Captain",
+    "name": "Hardik Pandya",
+    "imgSrc": "about/micaptain.png",
+    "content": "Hardik Pandya, an explosive all-rounder in the Indian cricket team, has etched his name in the annals of the sport with his dynamic performances. Known for his powerful batting, handy bowling, and athleticism on the field, Pandya has emerged as a key asset in all formats of the game. His ability to turn matches with both bat and ball, coupled with a fearless attitude, has made him a fan favorite and a vital cog in India's cricketing machinery. A player of immense potential and flair, Pandya continues to inspire a new generation of cricketers with his infectious energy and match-winning contributions.",
+    "link": "https://en.wikipedia.org/wiki/Hardik_Pandya",
+    "linkData":"Hardik Pandya"
+  }
+]

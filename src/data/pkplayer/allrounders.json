@@ -1,0 +1,60 @@
+[
+    {
+      "id": 163,
+      "name": "CHRIS WOAKES",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/pk/allRounder/woakes.png",
+      "logo": "Players/logo/foreignplayer.svg"
+    },
+    {
+      "id": 164,
+      "name": "VISHWANATH PRATAP SINGH",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/pk/allRounder/vishwanath.png"
+    },
+    {
+      "id": 165,
+      "name": "ASHUTOSH SHARMA",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/pk/allRounder/ashutosh.png"
+    },
+    {
+      "id": 166,
+      "name": "TANAY THYAGARAJANN",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/pk/allRounder/tanay.png"
+    },
+    {
+      "id": 167,
+      "name": "ATHARVA TAIDE",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/pk/allRounder/atharva.png"
+    },
+    {
+      "id": 168,
+      "name": "RISHI DHAWAN",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/pk/allRounder/rishi.png"
+    },
+    {
+      "id": 169,
+      "name": "SAM CURRAN",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/pk/allRounder/sam.png",
+      "logo": "Players/logo/foreignplayer.svg"
+    },
+    {
+      "id": 170,
+      "name": "SIKANDAR RAZA",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/pk/allRounder/raza.png",
+      "logo": "Players/logo/foreignplayer.svg"
+    },
+    {
+      "id": 171,
+      "name": "SHIVAM SINGH",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/pk/allRounder/shivamsingh.png"
+    }
+  ]
+  

@@ -1,0 +1,67 @@
+[
+    {
+      "id": 136,
+      "name": "HARDIK PANDYA",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/mi/allRounder/hardik.png",
+      "logo":"Players/logo/captain.svg"
+    },
+    {
+      "id": 137,
+      "name": "ARJUN TENDULKAR",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/mi/allRounder/arjunTendul.png"
+    },
+    {
+      "id": 138,
+      "name": "MOHAMMAD NABI",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/mi/allRounder/nabi.png",
+      "logo": "Players/logo/foreignplayer.svg"
+    },
+    {
+      "id": 139,
+      "name": "ROMARIO SHEPHERD",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/mi/allRounder/romario.png",
+      "logo": "Players/logo/foreignplayer.svg"
+    },
+    {
+      "id": 140,
+      "name": "SHAMS MULANI",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/mi/allRounder/mulani.png"
+    },
+    {
+      "id": 141,
+      "name": "NEHAL WADHERA",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/mi/allRounder/wadhera.png"
+    },
+    {
+      "id": 142,
+      "name": "GERALD COETZEE",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/mi/allRounder/coetzee.png",
+      "logo": "Players/logo/foreignplayer.svg"
+    },
+    {
+      "id": 143,
+      "name": "ANSHUL KAMBOJ",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/mi/allRounder/anshul.png"
+    },
+    {
+      "id": 144,
+      "name": "NAMAN DHIR",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/mi/allRounder/naman.png"
+    },
+    {
+      "id": 145,
+      "name": "SHIVALIK SHARMA",
+      "Specialization": "ALL-ROUNDER",
+      "imgSrc": "Players/mi/allRounder/shivalik.png"
+    }
+  ]
+  
