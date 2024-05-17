@@ -16,7 +16,7 @@ export const Card = ({
 }) => {
   const [showLess, setShowLess] = useState(true);
   return (
-    <div className="card">
+    <div className="card homeCard">
       <div
         id={`carouselExampleInterval${id}`}
         className="carousel slide"

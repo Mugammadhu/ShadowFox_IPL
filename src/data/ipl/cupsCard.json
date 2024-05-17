@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "SrcImage": [
+      "Home/rr/rr2008-1.jpg",
+      "Home/rr/rr2008-2.jpg",
+      "Home/rr/rr2008-3.jpg"
+    ],
+    "alt": "RR 2008 Trophy",
+    "title": "RR 2008 Trophy",
+    "description": "The Royals won by 3 wickets in the final played on 1 June 2008,defeated Chennai Super Kings in the final to take the crown. The all-rounder Shane Watson won the man of the tournament award for scoring as many as 472 runs and picking 17 wickets. Shane Warne's captaincy and coaching were praised and well received by everyone, including opposition teams.",
+    "link": "https://youtu.be/SoKMtjtsi0Q?si=X6t3cuCxCtkwpKZk",
+    "more": "https://en.wikipedia.org/wiki/2008_Indian_Premier_League_final#:~:text=Rajasthan%20Royals%20won%20by%203%20wickets&text=The%20Royals%2C%20captained%20by%20Shane,stood%20at%20the%20third%20position."
+  },
+  {
+    "id": 2,
+    "SrcImage": [
+      "Home/decanC/DC2009-1.webp",
+      "Home/decanC/DC2009-2.webp",
+      "Home/decanC/DC2009-3.webp"
+    ],
+    "alt": "DC 2009 Trophy",
+    "title": "DC 2009 Trophy",
+    "description": "The second edition of the Indian Premier League was moved to South Africa due to general election in the country where Deccan Chargers beat Royal Challengers Bangalore in the final to lift the trophy, two teams that had finished at the bottom two the year before. This was also the year when Rohit Sharma made his IPL debut and finished the season with 333 runs, winning the Under-23 Success Player of the Tournament award in the process. Adam Gilchrist led the Chargers from the front, scoring 495 runs and ending second on the list of highest run-getter of the tournament. His Australia teammates Matthew Hayden took the Orange Cap for his brilliant tally of 572 runs. The Purple Cap was won by RP Singh.",
+    "link": "https://youtu.be/Cd9hcL2liAc?si=0Yf02rK4YVlbKrsH",
+    "more": "https://en.wikipedia.org/wiki/2009_Indian_Premier_League"
+  },
+  {
+    "id": 3,
+    "SrcImage": [
+      "Home/csk/csk2010-1.png",
+      "Home/csk/csk2010-3.png",
+      "Home/csk/csk2010-2.png"
+    ],
+    "alt": "CSK 2010 Trophy",
+    "title": "CSK 2010 Trophy",
+    "description": "In 2010, Chennai Super Kings, led by Mahendra Singh Dhoni, clinched the IPL title by defeating Mumbai Indians in the final, winning by 22 runs. This victory established CSK as a dominant force in cricket.",
+    "link": "https://youtu.be/2iyhOKp-byM?si=dmjNiQ82en5D0ylwhttps://youtu.be/wNnIW5NCWhE?si=jZu57_E8r9mZ-DnF",
+    "more": "https://en.wikipedia.org/wiki/Chennai_Super_Kings_in_2010#:~:text=Chennai%20Super%20Kings%20were%20one,22%20runs%20in%20the%20finals."
+  },
+  {
+    "id": 4,
+    "SrcImage": [
+      "Home/csk/csk2011-1.png",
+      "Home/csk/csk2011-2.png",
+      "Home/csk/csk2011-3.png"
+    ],
+    "alt": "CSK 2011 Trophy",
+    "title": "CSK 2011 Trophy",
+    "description": "Chennai Super Kings in 2011 became the first team to win back-to-back IPL titles.they became a two-time IPL winner as Chennai Super Kings defeated Royal Challengers Bangalore in the final",
+    "link": "https://youtu.be/nrlsPbQrDq8?si=Be-V147J4X9SP2lD",
+    "more": "https://en.wikipedia.org/wiki/Chennai_Super_Kings_in_2011"
+  },
+  {
+    "id": 5,
+    "SrcImage": [
+      "Home/kkr/kkr2012-1.jpg",
+      "Home/kkr/kkr2012-2.jpg",
+      "Home/kkr/kkr2012-3.jpg"
+    ],
+    "alt": "KKR 2012 Trophy",
+    "title": "KKR 2012 Trophy",
+    "description": "The 2012 Indian Premier League final was a day/night Twenty20 cricket match on 27 May 2012 at the M. A. Chidambaram Stadium, Chennai, which was played between Chennai Super Kings and Kolkata Knight Riders to determine the winner of the 2012 season of the Indian Premier League, an annual Twenty20 cricket tournament in India.",
+    "link": "https://youtu.be/6MlWdQoQN7s?si=5GaKd2MOKBuf2BMv",
+    "more": "https://en.wikipedia.org/wiki/2012_Indian_Premier_League_final"
+  },
+  {
+    "id": 6,
+    "SrcImage": [
+      "Home/mi/mi2013-1.jpg",
+      "Home/mi/mi2013-2.jpg",
+      "Home/mi/mi2013-3.jpg"
+    ],
+    "alt": "MI 2013 Trophy",
+    "title": "MI 2013 Trophy",
+    "description": "Mumbai Indians beat the Chennai Super Kings at the 2013 Indian Premier League final to win their first IPL title. They also emerged victorious at the 2013 Champions League Twenty20, which was their second CLT20 title. This was the last season Sachin Tendulkar played for the side.",
+    "link": "https://youtu.be/GgiG5hahzvw?si=1CI0eBb2J9bnyUG3",
+    "more": "https://en.wikipedia.org/wiki/2013_Indian_Premier_League_final"
+  },
+  {
+    "id": 7,
+    "SrcImage": [
+      "Home/kkr/kkr2014-1.jpg",
+      "Home/kkr/kkr2014-2.jpg",
+      "Home/kkr/kkr2014-3.jpg"
+    ],
+    "alt": "KKR 2014 Trophy",
+    "title": "KKR 2014 Trophy",
+    "description": "Kolkata Knight Riders defeated Kings XI Punjab by 3 wickets to win the 2014 Indian Premier League in a high intensity final match, which was played in flawless spirit between the top two teams.",
+    "link": "https://youtu.be/nPtIvA45Ju0?si=HYhAm4BzVDAycEtg",
+    "more": "https://en.wikipedia.org/wiki/2014_Indian_Premier_League_final"
+  },
+  {
+    "id": 8,
+    "SrcImage": [
+      "Home/mi/mi2015-1.jpg",
+      "Home/mi/mi2015-2.jpg",
+      "Home/mi/mi2015-3.jpg"
+    ],
+    "alt": "MI 2015 Trophy",
+    "title": "MI 2015 Trophy",
+    "description": " Mumbai Indians became the third team after CSK and KKR to win the title more than once this season. Again, Mumbai Indians' better balance helped them win the trophy. Simmons, Rohit Sharma, Ambati Rayudu and Kieron Pollard lead the batting unit. Lasith Malinga led the bowling.12",
+    "link": "https://youtu.be/Ao2mPZmIgD4?si=sTCZynJxOuXJ41EX",
+    "more": "https://en.wikipedia.org/wiki/2015_Indian_Premier_League_final"
+  },
+  {
+    "id": 9,
+    "SrcImage": [
+      "Home/srh/srh2016-1.jpg",
+      "Home/srh/srh2016-2.jpg",
+      "Home/srh/srh2016-3.jpg"
+    ],
+    "alt": "SRH 2016 Trophy",
+    "title": "SRH 2016 Trophy",
+    "description": " Sunrisers Hyderabad team was successful in winning the final against Royal Challengers Bangalore by just 8 runs. David Warner, as captain, led the team to victory in the season.",
+    "link": "https://youtu.be/hFK0kSaF0CU?si=i9XQ1zZzbMESFIPI",
+    "more": "https://en.wikipedia.org/wiki/2016_Indian_Premier_League_final"
+  },
+  {
+    "id": 10,
+    "SrcImage": [
+      "Home/mi/mi2017-1.jpg",
+      "Home/mi/mi2017-2.jpg",
+      "Home/mi/mi2017-3.jpg"
+    ],
+    "alt": "MI 2017 Trophy",
+    "title": "MI 2017 Trophy",
+    "description": "Rohit Sharma led Mumbai Indians to their third IPL title in the 2017 edition, as they defeated Rising Pune Supergiant in a low-scoring thriller.",
+    "link": "https://youtu.be/iBs9tLlh6lk?si=UDrouOeAXrvUyXYf",
+    "more": "https://en.wikipedia.org/wiki/2017_Indian_Premier_League_final"
+  },
+  {
+    "id": 11,
+    "SrcImage": [
+      "Home/csk/csk2018-1.png",
+      "Home/csk/csk2018-2.png",
+      "Home/csk/csk2018-3.png"
+    ],
+    "alt": "CSK 2018 Trophy",
+    "title": "CSK 2018 Trophy",
+    "description": "Chennai secured their third league title by beating Sunrisers Hyderabad twice in a row. They made history by defeating the same opponent four times in one season.",
+    "link": "https://youtu.be/xRUREYmb_dE?si=W0cahGH_Ejv8HXXm",
+    "more": "https://en.wikipedia.org/wiki/Chennai_Super_Kings_in_2018"
+  },
+  {
+    "id": 12,
+    "SrcImage": [
+      "Home/mi/mi2019-1.jpg",
+      "Home/mi/mi2019-2.jpg",
+      "Home/mi/mi2019-3.jpg"
+    ],
+    "alt": "MI 2019 Trophy",
+    "title": "MI 2019 Trophy",
+    "description": "Rohit Sharma led Mumbai Indians to their fourth Indian Premier League title in 2019. Rohit Sharma led Mumbai Indians to their fourth Indian Premier League title in 2019. They finished top of the table after the league stage, finishing on nine wins in 14 matches.",
+    "link": "https://youtu.be/zqGpItalCs0?si=cOvL6UQD2C1kf7jY",
+    "more": "https://en.wikipedia.org/wiki/2019_Indian_Premier_League_final"
+  },
+  {
+    "id": 13,
+    "SrcImage": [
+      "Home/mi/mi2020-1.jpg",
+      "Home/mi/mi2020-2.jpg",
+      "Home/mi/mi2020-3.jpg"
+    ],
+    "alt": "MI 2020 Trophy",
+    "title": "MI 2020 Trophy",
+    "description": " This time it was the second consecutive and fifth time in total when Mumbai Indians won the IPL title. The final match was played between Mumbai Indians and Delhi Capitals . MI won this match by 5 wickets. MI also won this year's Paytm FairPlay Award.",
+    "link": "https://youtu.be/HhJ0QmJmyXk?si=2KkLvGlufULHx4Xr",
+    "more": "https://en.wikipedia.org/wiki/2020_Indian_Premier_League_final"
+  },
+  {
+    "id": 14,
+    "SrcImage": [
+      "Home/csk/csk2021-1.png",
+      "Home/csk/csk2021-2.png",
+      "Home/csk/csk2021-3.png"
+    ],
+    "alt": "CSK 2021 Trophy",
+    "title": "CSK 2021 Trophy",
+    "description": "On this historic day in 2021, the Chennai Super Kings, led by the iconic MS Dhoni, claimed their fourth Indian Premier League Trophy. With unmatched skill and determination, they overcame the Kolkata Knight Riders in a commanding 27-run victory, solidifying their status as cricketing giants. This triumph echoes their unwavering commitment to excellence, forever etching their name in the annals of cricketing greatness.",
+    "link": "https://youtu.be/wh09kf1-krA?si=kqQYcCB3JkWEnhM-",
+    "more": "https://en.wikipedia.org/wiki/Chennai_Super_Kings_in_2021"
+  },
+  {
+    "id": 15,
+    "SrcImage": [
+      "Home/gujarat/gt2022-1.jpg",
+      "Home/gujarat/gt2022-2.jpg",
+      "Home/gujarat/gt2022-3.jpg"
+    ],
+    "alt": "GT 2022 Trophy",
+    "title": "GT 2022 Trophy",
+    "description": "The final match of Tata IPL 2022 was played between Gujarat Titans (GT) vs Rajasthan Royals (RR) and Gujarat Titans won the final match of IPL 2022 by 7 wickets.",
+    "link": "https://youtu.be/VEcmXpIEN2Y?si=wlaUUstlpDVWOt7W",
+    "more": "https://en.wikipedia.org/wiki/2022_GT_Cup_Championship"
+  },
+  {
+    "id": 16,
+    "SrcImage": [
+      "Home/csk/csk2023-1.png",
+      "Home/csk/csk2023-2.png",
+      "Home/csk/csk2023-3.png"
+    ],
+    "title": "CSK 2023 Trophy",
+    "alt": "CSK 2023 Trophy",
+    "description": "In 2023, CSK won their fifth IPL title, overcoming a rain-interrupted final against Gujarat Titans. Devon Conway's pivotal innings and MS Dhoni's leadership were instrumental in guiding them to victory.",
+    "link": "https://youtu.be/k0IU4YZ8_zk?si=jfYvDwZP4COa4KOE",
+    "more": "https://en.wikipedia.org/wiki/Chennai_Super_Kings_in_2023"
+  }
+]

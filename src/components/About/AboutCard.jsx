@@ -16,10 +16,12 @@ export const AboutCard = ({
       />
       <div className="card-body">
         <h5 className="card-title ">{name}</h5>
-        <h6 className="card-subtitle mb-2 text-body-secondary abtCardSubTitle">{occupation}</h6>
+        <h6 className="card-subtitle mb-2 text-body-secondary abtCardSubTitle">
+          {occupation}
+        </h6>
         <p className="card-text abtCardTitle">
-          {showLess && content.length > 155
-            ? content.slice(0, 155) + "..."
+          {showLess && content.length > 130
+            ? content.slice(0, 130) + "..."
             : content}{" "}
           <button
             onClick={() => {

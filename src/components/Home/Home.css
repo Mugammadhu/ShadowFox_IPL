@@ -50,10 +50,15 @@ video{
     margin-bottom: 50px;
     
 }
-.card-group{
+.HomeCardContainer{
     width: 95%;
    margin-left: 30px;
    margin-top: 10px;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: center;
+   gap: 50px;
 }
 .cardLength1{
     width:350px ;  

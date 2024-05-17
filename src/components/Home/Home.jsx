@@ -2,6 +2,7 @@
 import "./Home.css";
 import { Card } from "./Card";
 import iplhome from "../../data/ipl/iplhome.json";
+import cupsCard from "../../data/ipl/cupsCard.json"
 import { getImageUrl } from "../../utils";
 
 export const Home = () => {
@@ -10,15 +11,16 @@ export const Home = () => {
 
   if (homeData === null && cardData === null) {
     localStorage.setItem("homeData", JSON.stringify(iplhome));
-    localStorage.setItem("cardData", JSON.stringify(null));
-   homeData = JSON.parse(localStorage.getItem("homeData"));
+    localStorage.setItem("cardData", JSON.stringify(cupsCard));
+    homeData = JSON.parse(localStorage.getItem("homeData"));
+    cardData = JSON.parse(localStorage.getItem("cardData"));
   }
 
   if (homeData !== null) {
-    var { icon, team, teamOffPage, noCup, homeVideo,homeAuido} = homeData;
-    
+    var { icon, team, teamOffPage, noCup, homeVideo, homeAuido } = homeData;
   }
- 
+
+  console.log(cardData)
 
   return (
     <div className="Home-container">
@@ -30,18 +32,15 @@ export const Home = () => {
           <h1>Welcome to {team} FanClub </h1>
         </div>
       </div>
-      <audio src={getImageUrl(homeAuido)}  autoPlay loop>
-      </audio>
+      <audio src={getImageUrl(homeAuido)} autoPlay loop></audio>
       <video src={getImageUrl(homeVideo)} muted autoPlay loop></video>
-
-      
 
       {cardData !== null && (
         <div>
           <h1 className="cupTitle">{team} TROPHIES</h1>
           <div className="cups">
             <div
-              className={`card-group ${
+              className={`HomeCardContainer ${
                 cardData.length === 1 && "cardLength1"
               } ${cardData.length === 2 && "cardLength2"}`}
             >
