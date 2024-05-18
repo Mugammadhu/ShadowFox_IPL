@@ -1,3 +1,5 @@
+@import "../../variable.css";
+
 .pointsContainer{
     width: 100%;
     height: 100vh;
@@ -11,11 +13,13 @@
 .pointsTitle{
    font-weight: 700;
    padding-top: 10px;
+   color: var(--text-color);
+   font-size: 50px;
    
 }
 .simg{
     height: 20px;
-    width: 20px;
+    width: 23px;
 }
 .timg{
     height: 26px;
@@ -25,7 +29,14 @@
     width: 900px;
     opacity: 0.8;
 }
-
+.qualified,.eliminated{
+    color: #12fd12;
+    font-size: 25px;
+    font-weight: 700;
+}
+.eliminated{
+    color:#dd292e;
+}
 
 .tableflex{
     display: flex;

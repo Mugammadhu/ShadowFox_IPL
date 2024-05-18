@@ -16,7 +16,7 @@
     margin-right: 25%;
 }
 .contact_us--title{
-    margin-left: -10px;
+    margin-left: 10px;
     color: #4fd6f7;
     font-weight: 800;
 }
@@ -34,7 +34,7 @@
 /*icon colors */
 .iconsection{
     display: flex;
-    gap: 10px;
+    gap: 15px;
 }
 .iconsection div{
     height: 50px;
@@ -82,6 +82,7 @@ color: #7cac4c;
     word-spacing: 4px;
     border-top: 2px dashed #fff;
     padding-top: 15px;
+    padding-bottom: 1px;
 }
 .name{
     color: yellow;

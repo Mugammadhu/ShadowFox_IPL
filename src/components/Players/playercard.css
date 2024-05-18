@@ -19,6 +19,12 @@
 .playertitle{
     font-size: 20px;
 }
+.longName{
+    font-size: 18px;
+}
+.XLongName{
+    font-size: 16px;
+}
 .typeIcon{
     position: absolute;
     right: 50px;

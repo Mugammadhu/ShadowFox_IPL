@@ -1,6 +1,6 @@
 .groundCard{
     width: 330px;
-    height: 350px;
+    height: 360px;
     margin-bottom: 20px;
 }
 .groundCardBody{
@@ -22,7 +22,7 @@
 }
 @media screen and (max-width:830px){
     .groundCard{
-        width: 400px;
+        width: 380px;
         height: 400px;
     }   
 }

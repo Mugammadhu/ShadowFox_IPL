@@ -42,7 +42,7 @@ export const PlayerCard = ({
           alt={name + "image"}
         />
         <div className="card-body">
-          <h3 className="card-title playertitle">{name}</h3>
+          <h3 className={`card-title  ${name.length>16? "longName":"playertitle"} ${name.length>20? "XLongName":"playertitle"}`}>{name}</h3>
           <p className="card-text playertext">{Specialization}</p>
         </div>
       </Link>

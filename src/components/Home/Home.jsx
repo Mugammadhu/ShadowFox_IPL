@@ -36,7 +36,7 @@ export const Home = () => {
       <video src={getImageUrl(homeVideo)} muted autoPlay loop></video>
 
       {cardData !== null && (
-        <div>
+        <div className="cupDiv">
           <h1 className="cupTitle">{team} TROPHIES</h1>
           <div className="cups">
             <div

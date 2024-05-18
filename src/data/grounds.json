@@ -1,7 +1,7 @@
 [
     {
         "id":1,
-        "stadium":"M.A. Chidambaram Chepauk Stadium",
+        "stadium":"M.A. Chidambaram Stadium",
         "place":"Chennai",
         "imgSrc":["grounds/cskground1.jpg","grounds/cskground2.jpg","grounds/cskground3.jpg"],
         "location":"https://maps.app.goo.gl/D8T1UjtAqF3pujpH7"
@@ -29,7 +29,7 @@
     },
     {
         "id":5,
-        "stadium":"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+        "stadium":"Ekana Cricket Stadium",
         "place":"Lucknow",
         "imgSrc":["grounds/lsgground1.jpg","grounds/lsgground2.jpg","grounds/lsgground3.jpg"],
         "location":"https://maps.app.goo.gl/w8fpVRCYm5ZvnSny7"
@@ -43,14 +43,14 @@
     },
     {
         "id":7,
-        "stadium":"PunjabCricket Association's Bindra Stadium",
+        "stadium":"Punjab Bindra Stadium",
         "place":"Mohali,Punjab",
         "imgSrc":["grounds/pk1ground1.jpg","grounds/pk1ground2.jpg","grounds/pk1ground3.jpg"],
         "location":"https://maps.app.goo.gl/R3cicXkGi5R2XJnb6"
     },
     {
         "id":8,
-        "stadium":"Himachal Pradesh Cricket Association Stadium",
+        "stadium":"Himachal Pradesh Stadium",
         "place":"Dharamsala,Himachal Pradesh",
         "imgSrc":["grounds/pk2ground1.jpg","grounds/pk2ground2.jpg","grounds/pk2ground3.jpg"],
         "location":"https://maps.app.goo.gl/igXxtPKFnmKnsTFR8"
@@ -71,7 +71,7 @@
     },
     {
         "id":11,
-        "stadium":"Rajiv Gandhi International Cricket Stadium",
+        "stadium":"Rajiv Gandhi Cricket Stadium",
         "place":"Hyderabad",
         "imgSrc":["grounds/srhground1.jpg","grounds/srhground2.jpg","grounds/srhground3.jpg"],
         "location":"https://maps.app.goo.gl/HfvW4A6Wq7syabz29"
