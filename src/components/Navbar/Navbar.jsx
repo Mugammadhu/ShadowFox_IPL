@@ -63,6 +63,9 @@ export const Navbar = () => {
             <li>
               <Link to={"/table"}>Points Table</Link>
             </li>
+            <li>
+              <Link to={"/matches"}>Matches</Link>
+            </li>
 
           </ul>
         </nav>

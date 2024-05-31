@@ -1,0 +1,124 @@
+.restSquad{
+    width: 100%;
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
+.playerContainers{
+    width: 100%;
+    background-color: #fff ;
+}
+.playerContainer__head{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    position: relative;
+    padding: 10px;
+}
+.playerContainer__left{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    
+}
+.playerContainer__left--img{
+    position: absolute;
+    top: 120px;
+    width: 380px;
+    height: 380px;
+   border: 10px solid #fff;
+   display: flex;
+   justify-content: center;
+}
+.playerContainer__left img{
+    width: 500px;
+    z-index:2;
+    
+}
+.playerContainer__left--name{
+    z-index: 2;
+    color: #fff;
+}
+.playerContainer__left--country{
+    z-index: 2;
+    border: 1px solid #fff;
+    color: #fff;
+    font-size: 25px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+
+.playerTable{
+    width: 580px;
+    height: 200px;
+    text-align: center;
+    background: transparent;
+    border: 3px solid black;
+}
+.playerContainer__right--title{
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.playerTable__td{
+    border: 3px solid black;
+}
+.playerTable__td h5{
+    padding-top: 15px;
+}
+.playerAbout{
+    margin-left:30px;
+    margin-top: 20px;
+}
+.playerAbout__title,.playerStats__batField--title,.playerStats__bowl--title,.restSquad__title{
+    font-weight: 600;
+    font-size: 35px;
+}
+.restSquad__title{
+    padding-top: 10px;
+}
+.playerAbout__description{
+    font-size: 22px;
+    padding-left: 20px;
+    padding-right:20px;
+}
+.playerStats__batField{
+    margin-left:20px;
+    margin-top: 20px;
+}
+
+.playerStats__bowl{
+    margin-left:30px;
+    margin-top: 20px;
+}
+.batTable{
+    
+    width: 94%;
+    min-height: 350px;
+    border: 1px solid #c6c7c8;
+    
+}
+
+
+.batHead{
+    background-color: #1e263d;
+}
+.batHead th{
+    padding: 7px;
+    font-size: 18px;
+    font-weight: 400;
+    padding-left: 25px;
+}
+
+
+.run{
+    background-color: #b7b7bb62;
+}
+.bowltd td{
+    padding-top:2.5%;
+    font-size: 18px;
+    color: #7b8288;
+    padding-left: 20px;
+}

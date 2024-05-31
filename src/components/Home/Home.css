@@ -96,6 +96,19 @@ video{
 .dcNoCup{
     color: yellow;
 }
+.homeCarousel{
+    height: 605px;
+   
+}
+.homeimg2,.homeimg1{
+    height: 605px;
+    width: 100%;
+}
+.homeVideoCarousel{
+    height: 605px;
+    object-fit: cover;
+}
+
 @media screen and (max-width:768px){
    .cups{
     margin-top: 20px;
@@ -127,5 +140,19 @@ video{
 }
 video{
     margin-top: -40%;
+}
+
+.homeVideoCarousel{
+    width: 98%;
+    margin-left: 5px;
+    height: 500px;
+}
+.homeimg2,.homeimg1{
+    height: 290px;
+    width: 98%;
+    margin-left: 5px;
+}
+.homeCarousel{
+    height: 500px;
 }
 }

@@ -14,7 +14,7 @@ min-height: 100vh;
 .playerMenu{
     width: 50px;
     position: fixed;
-    top: 70px;
+    top: 100px;
     right: 30px;
     cursor: pointer; 
 }
@@ -22,8 +22,16 @@ min-height: 100vh;
 .batter-title,.allRounder-title,.bowler-title{
     color: var(--bg-color);
     font-weight: 600;
-    padding-top: 10px;
-   
+    padding-top: 10px;  
+}
+.batter-title{
+    margin-top: 50px;
+}
+.allRounder-title{
+    margin-top: 30px;
+}
+.bowler-title{
+    margin-top: 20px;
 }
 .batter,.allRounder,.bowler{
     margin-top: 20px;
@@ -73,6 +81,23 @@ min-height: 100vh;
 }  
 .openList{
     display: block;
+}
+.searchBox{
+    border-radius: 5px;
+    outline: none;
+    border: 0;
+    padding: 5px;
+    padding-left: 7px;
+    font-size: 19px;
+    margin-left: 17%;
+    position: relative;
+    top: 53px;
+    width: 75%;
+    background-color: rgba(224, 229, 231, 0.959);
+}
+.searchBox::placeholder{
+    font-size: 19px;
+    
 }
 @media screen and (max-width:830px){
     .batter{

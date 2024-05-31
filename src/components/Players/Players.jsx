@@ -1,5 +1,4 @@
-
-import  { useState, useEffect, useMemo } from "react";
+import { useState, useEffect, useMemo } from "react";
 import { PlayerCard } from "./PlayerCard";
 import "./players.css";
 import { getImageUrl } from "../../utils";
@@ -12,8 +11,12 @@ import AllAllRounders from "../../data/allRoundPlayers.json";
 
 export const Players = () => {
   const [openList, setOpenList] = useState(false);
-  const [bgColor, setBgColor] = useState("#a2d2ff"); // Default background color
+  const [bgColor, setBgColor] = useState("#de3163"); // Default background color
   const [txtColor, setTxtColor] = useState("#000"); // Default text color
+  const [searchTerm, setSearchTerm] = useState("");
+  const [bat, setBat] = useState(AllBatters);
+  const [bowl, setBowl] = useState(AllBowlers);
+  const [all, setAll] = useState(AllAllRounders);
 
   useEffect(() => {
     const storedBgColor = localStorage.getItem("bgColor");
@@ -37,6 +40,30 @@ export const Players = () => {
     return storedBowlers ? storedBowlers : AllBowlers;
   }, []);
 
+  // Update the state when player lists change
+  useEffect(() => {
+    setBat(batters);
+    setAll(allRounders);
+    setBowl(bowlers);
+  }, [batters, allRounders, bowlers]);
+
+  const search = (name) => {
+    const searchName = name.toUpperCase();
+    const filteredBatters = batters.filter((batter) =>
+      batter.name.toUpperCase().includes(searchName)
+    );
+    const filteredAllRounders = allRounders.filter((allRounder) =>
+      allRounder.name.toUpperCase().includes(searchName)
+    );
+    const filteredBowlers = bowlers.filter((bowler) =>
+      bowler.name.toUpperCase().includes(searchName)
+    );
+
+    setBat(filteredBatters.length > 0 ? filteredBatters : []);
+    setAll(filteredAllRounders.length > 0 ? filteredAllRounders : []);
+    setBowl(filteredBowlers.length > 0 ? filteredBowlers : []);
+  };
+
   return (
     <main className="playerContainer">
       <div className="container">
@@ -49,25 +76,46 @@ export const Players = () => {
           alt="Toggle Player List"
         />
         <ul
-          style={{ backgroundColor: bgColor}}
+          style={{ backgroundColor: bgColor }}
           className={`playersList ${openList ? "openList" : ""}`}
           onClick={() => setOpenList((prevOpenList) => !prevOpenList)}
         >
-          <li style={{ border:`1.5px solid ${txtColor}`, borderRadius: "5px"}}>
-            <a href="#bat" style={{color: txtColor }}>BATTERS</a>
+          <li
+            style={{ border: `1.5px solid ${txtColor}`, borderRadius: "5px" }}
+          >
+            <a href="#bat" style={{ color: txtColor }}>
+              BATTERS
+            </a>
           </li>
-          <li style={{ border:`1.5px solid ${txtColor}`, borderRadius: "5px" }}>
-            <a href="#all" style={{color: txtColor }}>ALL-ROUNDERS</a>
+          <li
+            style={{ border: `1.5px solid ${txtColor}`, borderRadius: "5px" }}
+          >
+            <a href="#all" style={{ color: txtColor }}>
+              ALL-ROUNDERS
+            </a>
           </li>
-          <li style={{ border: `1.5px solid ${txtColor}`, borderRadius: "5px" }}>
-            <a href="#bowl" style={{color: txtColor }}>BOWLERS</a>
+          <li
+            style={{ border: `1.5px solid ${txtColor}`, borderRadius: "5px" }}
+          >
+            <a href="#bowl" style={{ color: txtColor }}>
+              BOWLERS
+            </a>
           </li>
         </ul>
-
+        <input
+          type="search"
+          className="searchBox"
+          placeholder="Search Player"
+          value={searchTerm}
+          onChange={(e) => {
+            setSearchTerm(e.target.value);
+            search(e.target.value);
+          }}
+        />
         <section id="bat">
-          <h1 className="batter-title">BATTERS</h1>
+          {bat.length>0 && <h1 className="batter-title">BATTERS</h1>}
           <div className="row batter">
-            {batters.map((batter) => (
+            {bat.map((batter) => (
               <PlayerCard
                 key={batter.id}
                 data={batter}
@@ -80,9 +128,9 @@ export const Players = () => {
         </section>
 
         <section id="all">
-          <h1 className="allRounder-title">ALL-ROUNDERS</h1>
+          {all.length>0 && <h1 className="allRounder-title">ALL-ROUNDERS</h1>}
           <div className="row allRounder">
-            {allRounders.map((allrounder) => (
+            {all.map((allrounder) => (
               <PlayerCard
                 key={allrounder.id}
                 data={allrounder}
@@ -95,9 +143,9 @@ export const Players = () => {
         </section>
 
         <section id="bowl">
-          <h1 className="bowler-title">BOWLERS</h1>
+          {bowl.length>0 && <h1 className="bowler-title">BOWLERS</h1>}
           <div className="row bowler">
-            {bowlers.map((bowler) => (
+            {bowl.map((bowler) => (
               <PlayerCard
                 key={bowler.id}
                 data={bowler}

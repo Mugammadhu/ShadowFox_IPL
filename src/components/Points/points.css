@@ -2,7 +2,7 @@
 
 .pointsContainer{
     width: 100%;
-    height: 100vh;
+    min-height: 100vh;
     text-align: center;
     background-image: url("../../assets//Team//bg.webp");
     background-repeat: no-repeat;
@@ -29,15 +29,31 @@
     width: 900px;
     opacity: 0.8;
 }
-.qualified,.eliminated{
+.winner{
+    height: 35px;
+    width: 45px;
+    padding-right: 10px;
+}
+
+.firstsecond,.eliminated{
     color: #12fd12;
     font-size: 25px;
     font-weight: 700;
+    padding-right: 10px;
 }
 .eliminated{
-    color:#dd292e;
+    color:red;
+    padding-right: 10px;
 }
-
+.eliminated4{
+  color: orange;
+  font-size: 25px;
+    font-weight: 700;
+    padding-right: 10px;
+}
+.qualifiedTeams{
+    border-bottom: 2px dashed black;
+}
 .tableflex{
     display: flex;
     justify-content: center;

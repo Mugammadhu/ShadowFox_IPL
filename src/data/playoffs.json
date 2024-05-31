@@ -1,0 +1,50 @@
+[
+{
+    "id":71,
+    "date":"Tue, 21 May",
+    "team1":"SRH",
+    "team1Logo":"Team/srhteam.png",
+    "team1Score":"159 (19.3)",
+    "team2":"KKR",
+    "team2Logo":"Team/kkrteam.png",
+    "team2Score":"164/2 (13.4)",
+    "sortdesc":"KKR won by 8 wickets (38 balls left)",
+    "highlights":"https://www.jiocinema.com/sports/cricket/qualifier-1-kkr-vs-srh-highlights/3977879?utm_source=OneBox&utm_medium=GoogleHighlights&utm_campaign=Cricket_Highlights_TATA_IPL_2024_KKR_vs_SRH",
+    "moreLink":"https://www.google.com/search?q=ipl+shedule&rlz=1C1UEAD_enIN1018IN1019&oq=ipl+sh&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg5MgwIAhAAGBQYhwIYgAQyDAgDEAAYChixAxiABDIMCAQQABgKGLEDGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTgyMGowajeoAgiwAgE&sourceid=chrome&ie=UTF-8#sie=m;/g/11vys05x41;5;/m/03b_lm1;dt;fp;1;;;",
+    "imgSrc":"matches/srhVSkkr.jpg",
+    "winTeam":"team2",
+    "duration":"15:00"
+},
+{
+    "id":72,
+    "date":"Wed, 22 May",
+    "team1":"RCB",
+    "team1Logo":"Team/rcbteam.jpg",
+    "team1Score":"172/8 (20)",
+    "team2":"RR",
+    "team2Logo":"Team/rrteam.png",
+    "team2Score":"174/2 (19)",
+    "sortdesc":"RR won by 4 wickets (6 balls left)",
+    "highlights":"https://www.jiocinema.com/sports/cricket/eliminator-rr-vs-rcb-highlights/3978741?utm_source=Onebox&utm_medium=GoogleHighlights&utm_campaign=Cricket_Highlights_TATA_IPL_2024_RR_vs_RCB",
+    "moreLink":"https://www.google.com/search?q=ipl+shedule&rlz=1C1UEAD_enIN1018IN1019&oq=ipl+sh&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg5MgwIAhAAGBQYhwIYgAQyDAgDEAAYChixAxiABDIMCAQQABgKGLEDGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTgyMGowajeoAgiwAgE&sourceid=chrome&ie=UTF-8#sie=m;/g/11vys0d2dl;5;/m/03b_lm1;dt;fp;1;;;",
+    "imgSrc":"matches/rcbVSrr2.jpg",
+    "winTeam":"team2",
+    "duration":"15:00"
+},
+{
+    "id":73,
+    "date":"Fri, 24 May",
+    "team1":"SRH",
+    "team1Logo":"Team/srhteam.png",
+    "team1Score":"175/9 (20)",
+    "team2":"RR",
+    "team2Logo":"Team/rrteam.png",
+    "team2Score":"139/7 (20)",
+    "sortdesc":"SRH won by 36 runs ",
+    "highlights":"https://www.jiocinema.com/sports/cricket/qualifier-2-srh-vs-rr-highlights/3979625?utm_source=OneBox&utm_medium=GoogleHighlights&utm_campaign=Cricket_Highlights_TATA_IPL_2024_SRH_vs_RR",
+    "moreLink":"https://www.google.com/search?q=ipl+shedule&rlz=1C1UEAD_enIN1018IN1019&oq=ipl+sh&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg5MgwIAhAAGBQYhwIYgAQyDAgDEAAYChixAxiABDIMCAQQABgKGLEDGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTgyMGowajeoAgiwAgE&sourceid=chrome&ie=UTF-8#sie=m;/g/11y3ns06nt;5;/m/03b_lm1;dt;fp;1;;;",
+    "imgSrc":"matches/srhVSrr2.jpg",
+    "winTeam":"team1",
+    "duration":"15:00"
+}
+]

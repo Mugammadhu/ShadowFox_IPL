@@ -15,6 +15,7 @@ import { Route, Routes } from "react-router-dom";
 import { Points } from "./components/Points/Points";
 import { Ground } from "./components/Ground/Ground";
 import { Foot } from "./components/Foot/Foot";
+import { Matches } from "./components/Matches/Matches";
 
 
 function App() {
@@ -46,6 +47,7 @@ function App() {
           <Route index element={<Grounds />} />
           <Route path=":id" element={<Ground />} />
         </Route>
+        <Route path="/matches" element={<Matches/>}/>
         <Route path="*" element={<Home />} />
       </Routes>
       <Foot/>

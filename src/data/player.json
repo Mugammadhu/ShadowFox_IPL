@@ -1,0 +1,805 @@
+[
+  {
+    "id": 1,
+    "name": "RUTURAJ GAIKWAD",
+    "imgSrc": "Players/csk/batter/ruturaj.jpg",
+    "nationality": "Indian",
+    "iplDebut": 2020,
+    "Specialization": "BATTER",
+    "dob": "31 January 1997",
+    "matches": "66",
+    "about": "16 matches, 635 runs and high score of 101* in the 2021 edition of the league, Ruturaj Gaikwad was retained by the CSK ahead of the 2022 edition of the league for INR 6 crore. The opening batter who hails from Pune, Ruturaj Gaikwad has been a consistent performer for his state team Maharashtra. He was the highest run-getter for Maharashtra in the league stage of the Syed Mushtaq Ali Trophy 2018-19. At the IPL 2019 Player Auction, the Chennai Super Kings secured his services at his base price of INR 20 lacs. He has been their most consistent opener and will look to do the same come April and May.",
+    "batField": [
+      {
+        "id": 1,
+        "year": "CAREER",
+        "data": [
+          66,
+          8,
+          2380,
+          "108*",
+          41.75,
+          1739,
+          136.86,
+          2,
+          18,
+          217,
+          91,
+          36,
+          0
+        ]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [14, 3, 583, "108*", 53.0, 413, 141.16, 1, 4, 58, 18, 5, 0]
+      },
+      {
+        "id": 3,
+        "year": 2023,
+        "data": [16, 1, 590, 92, 42.14, 400, 147.5, 0, 4, 46, 30, 17, 0]
+      },
+      {
+        "id": 4,
+        "year": 2022,
+        "data": [14, 0, 368, 99, 26.29, 291, 126, 46, 0, 3, 33, 14, 4, 0]
+      },
+      {
+        "id": 5,
+        "year": 2021,
+        "data": [16, 2, 635, "101*", 45.35, 466, 136.26, 1, 4, 664, 23, 6, 0]
+      },
+      {
+        "id": 6,
+        "year": 2020,
+        "data": [6, 2, 204, 72, 51.0, 169, 120.71, 0, 3, 16, 6, 4, 0]
+      }
+    ],
+    "bowl": null
+  },
+  {
+    "id": 2,
+    "name": "DEVON CONWAY",
+    "imgSrc": "Players/csk/batter/conway.jpg",
+    "nationality": "South African",
+    "iplDebut": 2022,
+    "Specialization": "BATTER",
+    "dob": "08 July 1991",
+    "matches": "23",
+    "about": "The classy and stylist top order batter, Devon Conway was bought by the CSK for his base price of INR 1 crore at the IPL 2022 Mega Auction. Born in South Africa, Devon Conway plays for New Zealand and is known for switching gears while batting and can also keep wickets if required. Conway has played 20 T20I games for New Zealand and has a strike rate of 139 plus. It will be interesting to see how CSK utilise Conway’s services.",
+    "batField": [
+      {
+        "id": 1,
+        "year": "CAREER",
+        "data": [23, 3, 924, "92*", 48.63, 654, 141.28, 0, 9, 99, 30, 8, 0]
+      },
+      {
+        "id": 2,
+        "year": 2023,
+        "data": [16, 2, 672, "92*", 51.69, 481, 139.71, 0, 6, 77, 18, 6, 0]
+      },
+      {
+        "id": 3,
+        "year": 2022,
+        "data": [7, 1, 252, 87, 42.0, 173, 145.66, 0, 3, 22, 12, 2, 0]
+      }
+    ],
+    "bowl": null
+  },
+  {
+    "id": 3,
+    "name": "MS DHONI",
+    "imgSrc": "Players/csk/batter/msd.jpg",
+    "nationality": "Indian",
+    "iplDebut": 2008,
+    "Specialization": "Wicketkeeper Batter",
+    "dob": "07 July 1981",
+    "matches": "264",
+    "about": "MS Dhoni added another feather to his cap in 2021 edition of the league as CSK won their fourth title. Ahead of the 2022 edition of the league, MS Dhoni was one of the four retained players by the franchise and he was retained for a sum of INR 12 crore. A batting powerhouse, MS Dhoni possesses the ability to destroy different bowling attacks on his own. The calmness and composure in his demeanor along with a sharp cricketing brain accounts for a lethal combination on the cricketing field and the glistening silverware in the trophy cabinets at CSK are a testimony to his extraordinary leadership skills. He was the face of Chennai Super Kings for the first eight editions of the league, leading them to two titles (2010 & 2011) and four runner-up finishes. He then became the first player to be drafted by Rising Pune Supergiant in the ninth edition of the league. And, he once again became the first player to be retained by CSK ahead of the IPL Player Auction 2018. The 2018 season of the league had a fairytale ending with another glistening silverware added to the trophy cabinet of the Chennai Super Kings. The 2019 edition of the league too saw the CSK reach the finals of the tournament under MS Dhoni’s leadership. While MS Dhoni has hung up his boots on a 16-year illustrious career for Team India, he was seen donning the CSK colours once again in 2020.",
+    "batField": [
+      {
+        "id": 1,
+        "year": "CAREER",
+        "data": [
+          267,
+          95,
+          5243,
+          "84*",
+          39.13,
+          3812,
+          137.54,
+          0,
+          24,
+          363,
+          252,
+          152,
+          42
+        ]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [14, 8, 161, "37*", 53.67, 73, 220.55, 0, 0, 14, 13, 10, 0]
+      },
+      {
+        "id": 3,
+        "year": 2023,
+        "data": [16, 8, 104, "32*", 26.0, 57, 182.46, 0, 0, 3, 10, 7, 3]
+      },
+      {
+        "id": 4,
+        "year": 2022,
+        "data": [14, 6, 232, "50*", 33.14, 188, 123.4, 0, 1, 21, 10, 9, 0]
+      },
+      {
+        "id": 5,
+        "year": 2021,
+        "data": [16, 4, 114, "18*", 16.28, 107, 106.54, 0, 0, 12, 3, 13, 0]
+      },
+      {
+        "id": 6,
+        "year": 2020,
+        "data": [14, 4, 200, "47*", 25.0, 172, 116.27, 0, 0, 16, 7, 15, 1]
+      },
+      {
+        "id": 7,
+        "year": 2019,
+        "data": [15, 7, 416, "84*", 83.2, 309, 134.62, 0, 3, 22, 23, 11, 5]
+      },
+      {
+        "id": 8,
+        "year": 2018,
+        "data": [16, 9, 455, "79*", 75.83, 302, 150.66, 0, 3, 24, 30, 11, 3]
+      },
+      {
+        "id": 9,
+        "year": 2017,
+        "data": [16, 4, 290, "61*", 26.36, 250, 116.0, 0, 1, 15, 16, 10, 3]
+      },
+      {
+        "id": 10,
+        "year": 2016,
+        "data": [14, 5, 284, "64*", 40.57, 210, 135.23, 0, 1, 18, 14, 8, 4]
+      },
+      {
+        "id": 11,
+        "year": 2015,
+        "data": [17, 5, 372, "53*", 31.0, 305, 121.96, 0, 1, 27, 17, 8, 3]
+      },
+      {
+        "id": 12,
+        "year": 2014,
+        "data": [16, 10, 371, "57*", 74.2, 250, 148.4, 0, 1, 22, 20, 3, 1]
+      },
+      {
+        "id": 13,
+        "year": 2013,
+        "data": [18, 5, 461, "67*", 41.9, 283, 162.89, 0, 4, 32, 25, 15, 2]
+      },
+      {
+        "id": 14,
+        "year": 2012,
+        "data": [9, 5, 358, "51*", 29.83, 278, 128.77, 0, 1, 26, 9, 12, 2]
+      },
+      {
+        "id": 15,
+        "year": 2011,
+        "data": [16, 4, 392, "70*", 43.55, 247, 158.7, 0, 2, 25, 23, 5, 5]
+      },
+      {
+        "id": 16,
+        "year": 2010,
+        "data": [13, 2, 287, "66*", 31.88, 210, 136.66, 0, 2, 26, 8, 5, 6]
+      },
+      {
+        "id": 17,
+        "year": 2009,
+        "data": [14, 5, 332, "58*", 41.5, 261, 127.2, 0, 2, 22, 9, 4, 4]
+      },
+      {
+        "id": 18,
+        "year": 2008,
+        "data": [16, 4, 414, 65, 41.4, 310, 133.54, 0, 2, 38, 15, 6, 0]
+      }
+    ],
+    "bowl": null
+  },
+  {
+    "id": 4,
+    "name": "AJINKYA RAHANE",
+    "imgSrc": "Players/csk/batter/rahane.jpg",
+    "nationality": "Indian",
+    "iplDebut": 2008,
+    "Specialization": "Batter",
+    "dob": "06 June 1988",
+    "matches": "185",
+    "about": "Ajinkya Rahane’s credentials as a batter is well known. An experienced campaigner who has played for Mumbai, India and various IPL franchises in the past, Rahane will be turning up for the Chennai Super Kings this year. Rahane has been a prolific run-scorer at the top-order in the past and he could well be the perfect foil for aggressive opening partners. A senior member who brings in with him a wealth of experience, it will be interesting to see how CSK use him in their batting line-up.",
+    "batField": [
+      {
+        "id": 1,
+        "year": "CAREER",
+        "data": [185,17,4642,"105*",30.14,3761,123.42,2,30,478,103,71,0]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [13,0,242,45,20.17,196,123.47,0,0,23,7,1,0]
+      },
+      {
+        "id": 3,
+        "year": 2023,
+        "data": [14,1,326,"71*",32.60,189,172.49,0,2,24,16,8,0]
+      },
+      {
+        "id": 4,
+        "year": 2022,
+        "data": [7,0,133,44,19.00,128,103.91,0,0,14,4,3,0]
+      },
+      {
+        "id": 5,
+        "year": 2021,
+        "data": [2,0,8,8,8.00,8,100.00,0,0,1,0,0,0]
+      },
+      {
+        "id": 6,
+        "year": 2020,
+        "data": [9,0,113,60,14.12,107,105.60,0,1,12,2,4,0]
+      },
+      {
+        "id": 7,
+        "year": 2019,
+        "data": [14,1,393,"105*",32.75,285,137.89,1,1,45,9,5,0]
+      },
+      {
+        "id": 8,
+        "year": 2018,
+        "data": [15,1,370,"65*",28.46,313,118.21,0,1,39,5,4,0]
+      },
+      {
+        "id": 9,
+        "year": 2017,
+        "data": [16,1,382,60,25.46,323,118.26,0,2,35,9,7,0]
+      },
+      {
+        "id": 10,
+        "year": 2016,
+        "data": [14,3,480,74,43.63,379,126.64,0,6,54,9,7,0]
+      },
+      {
+        "id": 11,
+        "year": 2015,
+        "data": [14,2,540,"91*",49.09,413,130.75,0,4,53,13,3,0]
+      },
+      {
+        "id": 12,
+        "year": 2014,
+        "data": [13,0,339,72,28.25,291,116.49,0,3,38,3,6,0]
+      },
+      {
+        "id": 13,
+        "year": 2013,
+        "data": [18,4,488,"68*",34.85,458,106.55,0,4,42,11,10,0]
+      },
+      {
+        "id": 14,
+        "year": 2012,
+        "data": [16,2,560,"103*",40.00,433,129.33,1,3,73,10,11,0]
+      },
+      {
+        "id": 15,
+        "year": 2011,
+        "data": [10,1,120,52,20.00,98,122.44,0,1,12,2,1,0]
+      },
+      
+      {
+        "id": 16,
+        "year": 2009,
+        "data": [8,1,144,"62*",24.00,123,117.07,0,2,12,3,1,0]
+      },
+      {
+        "id": 17,
+        "year": 2008,
+        "data": [2,0,4,4,2.00,17,23.52,0,0,1,0,0,0]
+      }
+    ],
+    "bowl":[
+      {
+        "id": 1,
+        "year": "CAREER",
+        "data": [181,6,5,1,"1/5",5.00,5.00,6.00,0,0]
+    },
+      {
+        "id": 2,
+        "year": "2009",
+        "data": [8,6,5,1,"1/5",5.00,5.00,6.00,0,0]
+    }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "SHAIK RASHEED",
+    "imgSrc": "Players/csk/batter/rashid.jpg",
+    "nationality": "Indian",
+    "iplDebut":"",
+    "Specialization": "Batter",
+    "dob": "24 September 2004",
+    "matches": "0",
+    "about": "Shaik Rasheed, a right-hand batter from Andhra Pradesh was picked by CSK for his base price of INR 20 lakh at the IPL Player Auction. He was a part of India U-19 team which won the 2022 U19 World Cup in February.Rasheed smashed 50 runs off 84 balls against England in the final of the 2022 U19 World Cup. The 18-year-old batter made his debut for Andhra in Syed Mushtaq Ali Trophy 2022 and scored an unbeaten 37 runs.",
+    "batField":null,
+    "bowl":null
+  },
+  {
+    "id": 6,
+    "name": "SHAMEER RIZVI",
+    "imgSrc": "Players/csk/batter/risvi.jpg",
+    "nationality": "Indian",
+    "iplDebut":2024,
+    "Specialization": "Batter",
+    "dob": "06 December 2003",
+    "matches": 8,
+    "about": "Shameer Rizvi is a rising cricketer and a talented batter for the Chennai Super Kings (CSK) in the Indian Premier League (IPL). Known for his aggressive batting style and ability to handle pressure situations, Rizvi has quickly made a name for himself in the cricketing world. His performances have added significant strength to the CSK lineup, making him a key player to watch. With his impressive skills and consistent performances, Rizvi is poised to become one of the standout stars in the IPL.",
+    "batField":[
+      {
+          "id": 1,
+          "year": "CAREER",
+          "data": [8,1,51,21,12.75,43,118.60,0,0,4,2,4,0]
+        },
+        {
+          "id": 2,
+          "year": 2024,
+          "data": [8,1,51,21,12.75,43,118.60,0,0,4,2,4,0]
+        }],
+    "bowl":null
+  },
+  {
+    "id": 7,
+    "name": "AVANISH RAO ARAVELLY",
+    "imgSrc": "Players/csk/batter/avanish.jpg",
+    "nationality": "Indian",
+    "iplDebut":2023,
+    "Specialization": "Wicketkeeper Batter",
+    "dob": "02 June 2005",
+    "matches": "0",
+    "about": "Avanish Rao Aravelly is an emerging star in the 2024 Indian Premier League (IPL) season, playing as a batter for the Chennai Super Kings (CSK). Known for his elegant stroke play and composure at the crease, Aravelly has quickly become a crucial part of the CSK batting lineup. His ability to build innings and accelerate scoring when needed has garnered praise from teammates and fans alike. As a young talent with a bright future, Aravelly's performances are pivotal to CSK's aspirations for the season, making him one of the most exciting players to watch in the tournament.",
+    "batField":null,
+    "bowl":null
+  },
+  {
+    "id":8 ,
+    "name": "RAVINDRA JADEJA",
+    "imgSrc": "Players/csk/allRounder/jadeja.jpg",
+    "nationality": "Indian",
+    "iplDebut": 2008,
+    "Specialization": "All-rounder",
+    "dob": "06 December 1988",
+    "matches": 240,
+    "about": "Jadeja’s love affair with runs and wickets continued at IPL 2021 and he was the highest paid retention for CSK ahead of the 2022 edition of the league. The outstanding all-rounder was retained for INR 16 crore. Earlier, he became the third retained player by CSK ahead of the IPL 2018 Player Auction. Ravindra Jadeja has always been MS Dhoni’s go-to-man when he needed to break a partnership and the left-armer has delivered the goods on many occasions. His presence gives Dhoni the extra cushion of playing an additional batsman if needed. Jadeja has been an enigma right since his advent in international cricket. He was part of the victorious Indian U-19 cricket team that won the World Cup in Malaysia in 2008. His performance in IPL 2008 helped Rajasthan Royals to title victory and earned him the nickname \"Rockstar\" by his captain Shane Warne. In 2012 IPL player auction, Jadeja was bought by Chennai Super Kings for approx. Rs. 9.8 Crore, making him the most expensive player of the year's auction. Jadeja has represented the Gujarat Lions for two seasons and was back with CSK for the eleventh edition of the league. He has been an integral part of them ever since.",
+    "batField": [
+      {
+        "id": 1,
+        "year": "CAREER",
+        "data": [240,76,2959,"62*",27.40,2281,129.72,0,3,215,107,103,0]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [14,5,267,"57*",44.50,187,142.78,0,1,22,8,6,0]
+      },
+      {
+        "id": 3,
+        "year": 2023,
+        "data": [16,4,190,"25*",23.75,133,142.86,0,0,11,9,9,0]
+      },
+      {
+        "id": 4,
+        "year": 2022,
+        "data": [10,4,116,"26*",19.33,98,118.37,0,0,6,5,7,0]
+      },
+      {
+        "id": 5,
+        "year": 2021,
+        "data": [16,9,227,"62*",75.66,156,145.51,0,1,19,9,13,0]
+      },
+      {
+        "id": 6,
+        "year": 2020,
+        "data": [14,6,232,50,46.40,135,171.85,0,1,22,11,5,0]
+      },
+      {
+        "id": 7,
+        "year": 2019,
+        "data": [16,6,106,"31*",35.33,88,120.45,0,0,7,4,9,0]
+      },
+      {
+        "id": 8,
+        "year": 2018,
+        "data": [16,5,89,"27*",17.80,74,120.27,0,0,3,4,11,0]
+      },
+      {
+        "id": 9,
+        "year": 2017,
+        "data": [12,6,158,28,39.50,113,139.82,0,0,13,4,2,0]
+      },
+      {
+        "id": 10,
+        "year": 2016,
+        "data": [15,6,191,"36*",21.22,178,107.30,0,0,14,4,4,0]
+      },
+      {
+        "id": 11,
+        "year": 2015,
+        "data": [17,5,132,24,18.85,126,104.76,0,0,7,3,13,0]
+      },
+      {
+        "id": 12,
+        "year": 2014,
+        "data": [16,5,146,"36*",29.20,110,132.72,0,0,9,5,4,0]
+      },
+      {
+        "id": 13,
+        "year": 2013,
+        "data": [18,6,201,"38*",25.12,135,148.88,0,0,17,6,6,0]
+      },
+      {
+        "id": 14,
+        "year": 2012,
+        "data": [19,2,191,48,15.91,151,126.49,0,0,13,9,2,0]
+      },
+      {
+        "id": 15,
+        "year": 2011,
+        "data": [14,3,283,47,31.44,228,124.12,0,0,20,14,1,0]
+      },
+      
+      {
+        "id": 16,
+        "year": 2009,
+        "data": [13,2,295,42,26.81,266,110.90,0,0,21,6,4,0]
+      },
+      {
+        "id": 17,
+        "year": 2008,
+        "data": [14,2,135,"36*",19.28,103,131.06,0,0,11,6,7,0]
+      }
+    ],
+    "bowl":[
+    {
+        "id": 1,
+        "year": "CAREER",
+        "data": [240,3829,4864,160,"5/16",30.40,7.62,23.93,3,1]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [14,282,369,8,"3/18",46.13,7.85,35.25,0,0]
+      },
+      {
+        "id": 3,
+        "year": 2023,
+        "data": [16,342,431,20,"3/20",21.55,7.56,17.10,0,0]
+      },
+      {
+        "id": 4,
+        "year": 2022,
+        "data": [10,198,248,5,"3/39",49.60,7.52,39.60,0,0]
+      },
+      {
+        "id": 5,
+        "year": 2021,
+        "data": [16,294,346,13,"3/13",26.61,7.06,22.61,0,0]
+      },
+      {
+        "id": 6,
+        "year": 2020,
+        "data": [14,218,318,6,"2/42",53.00,8.75,36.33,0,0]
+      },
+      {
+        "id": 7,
+        "year": 2019,
+        "data": [16,324,343,15,"3/9",22.86,6.35,21.60,0,0]
+      },
+      {
+        "id": 8,
+        "year": 2018,
+        "data": [16,246,303,11,"3/18",27.54,7.39,22.36,0,0]
+      },
+      {
+        "id": 9,
+        "year": 2017,
+        "data": [12,228,349,5,"2/28",69.80,9.18,45.60,0,0]
+      },
+      {
+        "id": 10,
+        "year": 2016,
+        "data": [15,241,311,8,"2/18",38.87,7.74,30.12,0,0]
+      },
+      {
+        "id": 11,
+        "year": 2015,
+        "data": [17,256,330,11,"4/11",30.00,7.73,23.27,1,0]
+      },
+      {
+        "id": 12,
+        "year": 2014,
+        "data": [16,326,443,19,"4/12",23.31,8.15,17.15,2,0]
+      },
+      {
+        "id": 13,
+        "year": 2013,
+        "data": [18,259,323,13,"3/20",24.84,7.48,19.92,0,0]
+      },
+      {
+        "id": 14,
+        "year": 2012,
+        "data": [19,210,273,12,"5/16",22.75,7.80,17.50,0,1]
+      },
+      {
+        "id": 15,
+        "year": 2011,
+        "data": [14,252,305,8,"2/25",38.12,7.26,31.50,0,0]
+      },
+      
+      {
+        "id": 16,
+        "year": 2009,
+        "data": [13,140,151,6,"3/15",25.16,6.47,23.33,0,0]
+      },
+      {
+        "id": 17,
+        "year": 2008,
+        "data": [14,13,21,0,"0/0","-",9.69,"-",0,0]
+      }
+    ]
+  },
+  {
+    "id":9 ,
+    "name": "MITCHELL SANTNER",
+    "imgSrc": "Players/csk/allRounder/santner.jpg",
+    "nationality": "New Zealander",
+    "iplDebut": 2019,
+    "Specialization": "All-rounder",
+    "dob": "05 February 1992",
+    "matches": 18,
+    "about": "The kiwi all-rounder will once again ply his trade to the CSK at the 2022 edition of the league. A smart spinner and a handy batter, Santner was bought by CSK for INR 1.9 crore at the 2022 Mega Auction. In 2018, Santner was bought by the CSK for just INR 50 lacs, the Kiwi bowler was definitely one of the most economical buys for CSK. Santner made his debut for New Zealand when Daniel Vettori retired from his ranks and in only his first game, Santner impressed the selectors, not with the ball, but with the bat. Since his debut, Santner has been an impressive prospect although he’s had his share of ups and downs in world cricket. Santner is a handy batter lower down the order and an outstanding fielder.",
+    "batField": [
+      {
+        "id": 1,
+        "year": "CAREER",
+        "data": [18,5,70,22,11.67,71,98.59,0,0,4,3,6,0]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [3,0,14,11,4.67,17,82.35,0,0,1,0,1,0]
+      },
+      {
+        "id": 3,
+        "year": 2023,
+        "data": [3,2,2,"1*","-",4,50.00,0,0,0,0,1,0]
+      },
+      {
+        "id": 4,
+        "year": 2022,
+        "data": [6,2,22,11,11.00,27,81.48,0,0,3,0,2,0]
+      },
+      {
+        "id": 5,
+        "year": 2020,
+        "data": [2,0,0,0,0.00,0,0.00,0,0,0,0,1,0]
+      },
+      {
+        "id": 6,
+        "year": 2019,
+        "data": [4,1,32,22,32.00,23,139.13,0,0,0,3,1,0]
+      }
+    ],
+    "bowl":[
+    {
+        "id": 1,
+        "year": "CAREER",
+        "data": [18,366,422,15,"2/13",28.13,6.92,24.40,0,0]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [3,54,64,2,"1/10",32.00,7.11,27.00,0,0]
+      },
+      {
+        "id": 3,
+        "year": 2023,
+        "data": [3,72,81,3,"2/28",27.00,6.75,24.00,0,0]
+      },
+      {
+        "id": 4,
+        "year": 2022,
+        "data": [6,114,130,4,"1/15",32.50,6.84,28.50,0,0]
+      },
+      {
+        "id": 5,
+        "year": 2020,
+        "data": [2,42,53,2,"1/23",26.50,7.57,21.00,0,0]
+      },
+      {
+        "id": 6,
+        "year": 2019,
+        "data": [4,84,94,4,"2/13",23.50,6.71,21.00,0,0]
+      }
+    ]
+  },
+  {
+    "id":10 ,
+    "name": "MOEEN ALI",
+    "imgSrc": "Players/csk/allRounder/ali.jpg",
+    "nationality": "English",
+    "iplDebut": 2018,
+    "Specialization": "All-rounder",
+    "dob": "18 June 1987",
+    "matches": 67,
+    "about": "A stylist batter and one of the sweetest timers of the ball, Moeen Ali was retained by CSK for INR 8 crore ahead of the 2022 Mega Auction. The English all-rounder played 15 matches in 2021 with 357 runs and 6 wickets to his name A versatile left-handed batter and an aggressive off-break bowler, Moeen Ali was bought by Chennai Super Kings for INR 7 crores at the IPL 2021 Player Auction. The left-hander represented RCB for two seasons before he was released by the franchise ahead of the 2021 edition of the league. Moeen Ali has excellent batting skills against spin and the ability to bat at any position can take away the game from the opposition.",
+    "batField": [
+      {
+        "id": 1,
+        "year": "CAREER",
+        "data": [67,6,1162,93,22.78,821,141.53,0,6,95,67,22,0]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [8,0,128,56,25.60,98,130.61,0,1,7,8,2,0]
+      },
+      {
+        "id": 3,
+        "year": 2023,
+        "data": [15,3,124,23,17.71,91,136.26,0,0,12,6,4,0]
+      },
+      {
+        "id": 4,
+        "year": 2022,
+        "data": [10,0,244,93,24.40,177,137.85,0,1,24,11,5,0]
+      },
+      {
+        "id": 5,
+        "year": 2021,
+        "data": [15,1,357,58,25.50,260,137.30,0,1,31,19,7,0]
+      },
+      {
+        "id": 6,
+        "year": 2020,
+        "data": [3,0,12,11,4.00,16,75.00,0,0,1,0,1,0]
+      },
+      {
+        "id": 7,
+        "year": 2019,
+        "data": [11,2,220,66,27.50,133,165.41,0,2,16,17,1,0]
+      },
+      {
+        "id": 8,
+        "year": 2018,
+        "data": [5,0,77,65,19.25,46,167.39,0,1,4,6,2,0]
+      }
+    ],
+    "bowl":[
+    {
+        "id": 1,
+        "year": "CAREER",
+        "data": [67,758,893,35,"4/26",25.51,7.07,21.66,1,0]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [8,48,71,2,"2/23",35.50,8.88,24.00,0,0]
+      },
+      {
+        "id": 3,
+        "year": 2023,
+        "data": [15,156,195,9,"4/26",21.67,7.50,17.33,1,0]
+      },
+      {
+        "id": 4,
+        "year": 2022,
+        "data": [10,143,158,8,"3/13",19.75,6.63,17.88,0,0]
+      },
+      {
+        "id": 5,
+        "year": 2021,
+        "data": [15,152,161,6,"3/7",26.83,6.35,25.33,0,0]
+      },
+      {
+        "id": 6,
+        "year": 2020,
+        "data": [3,30,42,1,"1/21",42.00,8.40,30.00,0,0]
+      },
+      {
+        "id": 7,
+        "year": 2019,
+        "data": [11,150,169,6,"2/18",28.16,6.76,25.00,0,0]
+      },
+      {
+        "id": 8,
+        "year": 2018,
+        "data": [5,79,97,3,"1/13",32.33,7.36,26.33,0,0]
+      }
+    ]
+  },
+  {
+    "id":11 ,
+    "name": "SHIVAM DUBE",
+    "imgSrc": "Players/csk/allRounder/dube.jpg",
+    "nationality": "Indian",
+    "iplDebut": 2019,
+    "Specialization": "All-rounder",
+    "dob": "26 June 1993",
+    "matches": 65,
+    "about": "A powerful middle-order batter and a handy medium pacer, Shivam Dube was bought by CSK for INR 4 crore at the IPL 2022 Mega Auction. What started from his base price 50 lakhs and owing to a lot of interest for this all-rounder in the auction, it went upto INR 4 cr for Dube. The all-rounder who hails from Mumbai has been making headlines for his gritty batting and bowling efforts. Shivam Dube had played junior cricket for his state before making it to the Mumbai senior team. He made his Twenty20 debut for Mumbai in the Syed Mushtaq Ali Trophy in January 2016 and a year later made his one-day debut for the state team. On the eve of the Player Auction prior to IPL 2019, Dube made headlines as he hammered five sixes in five balls off left-arm spinner Swapnil Singh on the final day of Mumbai’s Ranji Trophy match against Baroda. Not surprisingly, he attracted fierce bidding at the auction and was eventually signed up by by the Royal Challengers Bangalore for a fee of INR 5 cr. After playing for Royal Challengers Bangalore over the course of IPL 2019 and IPL 2020, Shivam Dube was brought on board by Rajasthan Royals for INR 4.40 Cr. The Indian all-rounder has a reputation of being a clean hitter of the cricket ball and can be handy with the ball with his medium pace. Dube, who has played 24 IPL games, will be eager to shine bright for the Chennai franchise in the IPL 2022.",
+    "batField": [
+      {
+        "id": 1,
+        "year": "CAREER",
+        "data": [65,11,1502,"95*",30.04,1024,146.68,0,9,86,101,19,0]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [14,3,396,"66*",36.00,244,162.30,0,3,28,28,2,0]
+      },
+      {
+        "id": 3,
+        "year": 2023,
+        "data": [16,3,418,52,38.00,264,158.33,0,3,12,35,6,0]
+      },
+      {
+        "id": 4,
+        "year": 2022,
+        "data": [11,1,289,"95*",28.90,185,156.22,0,2,22,16,6,0]
+      },
+      {
+        "id": 5,
+        "year": 2021,
+        "data": [9,1,230,"64*",28.75,193,119.17,0,1,18,10,2,0]
+      },
+      {
+        "id": 6,
+        "year": 2020,
+        "data": [11,2,129,"27*",18.42,105,122.85,0,0,5,9,2,0]
+      },
+      {
+        "id": 7,
+        "year": 2019,
+        "data": [4,1,40,24,13.33,33,121.21,0,0,1,3,1,0]
+      }
+    ],
+    "bowl":[
+    {
+        "id": 1,
+        "year": "CAREER",
+        "data": [65,112,180,5,"2/15",36.00,9.64,22.40,0,0]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [14,6,14,1,"1/14",14.00,14.00,6.00,0,0]
+      },
+      
+      {
+        "id": 4,
+        "year": 2022,
+        "data": [11,12,36,0,"0/11","-",18.00,"-",0,0]
+      },
+      {
+        "id": 5,
+        "year": 2021,
+        "data": [9,30,49,0,"0/5","-",9.80,"-",0,0]
+      },
+      {
+        "id": 6,
+        "year": 2020,
+        "data": [11,54,73,4,"2/15",18.25,8.11,13.50,0,0]
+      },
+      {
+        "id": 7,
+        "year": 2019,
+        "data": [4,10,8,0,"0/3","-",4.80,"-",0,0]
+      }
+    ]
+  }
+]

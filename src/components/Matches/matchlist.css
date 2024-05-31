@@ -1,0 +1,116 @@
+
+.matchCard{
+    height: 220px;
+    width: 350px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+.matchCard a{
+    color: #70757a;
+}
+.matchCardHead{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px 0px 10px;
+}
+.matchCardBody1{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 10px 0px 10px;
+    align-items: center;
+}
+.matchCardBody2{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 10px 0px 10px;
+    align-items: center;
+}
+.matchCardBody__team{
+    display: flex;
+    gap: 3px;
+}
+#matchTeamName{
+    margin-top: 10px;
+}
+.blackTeam{
+    color: #000;
+    font-size: 20px;
+    margin-top: 5px;
+}
+.grayTeam{
+    color: gray;
+}
+.teamLogo{
+    width:40px;
+    height: 40px;
+    object-fit: contain;
+    
+}
+.matchCardFoot{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 10px 0px 10px;
+    align-items: center;
+}
+.hightlights{
+    position: relative;
+    height: 50px;
+
+}
+.matchDesc{
+    color: #000;
+}
+.matchHightlightsImg{
+    height: 50px;
+    border-radius: 10px;
+    
+}
+.duraion{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 3px;
+    height: 22px;
+    border-radius: 5px;
+    width: 65px;
+}
+.playicon{
+    width: 18px;
+    height: 18px;
+    margin-top:2px;
+    margin-left: 3px;
+
+}
+.matchdurationtime{
+    font-size: 15px;
+    margin-top: 1px;
+}
+
+@media screen and (max-width:830px){
+    .matchCard{
+        height: 220px;
+        width: 320px;
+    }
+}
+
+/*medium devices */
+@media screen and (max-width:768px) {
+    .matchCard{
+        height: 220px;
+        width: 320px;
+    }
+    
+    
+}
+@media screen and (max-width:480px) {
+    .matchCard{
+        height: 220px;
+        width: 270px;
+    }
+    
+    
+}

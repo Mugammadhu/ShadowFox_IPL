@@ -65,34 +65,30 @@ import rcbBowlers from "../../data/rcbplayer/bowlers.json";
 import srhBowlers from "../../data/srhplayer/bowlers.json";
 
 //baseabt
-import cskBaseAbt from "../../data/cskplayer/cskbaseabt.json"
-import dcBaseAbt from "../../data/dcplayer/dcbaseabt.json"
-import gtBaseAbt from "../../data/gtplayer/gtbaseabt.json"
-import kkrBaseAbt from "../../data/kkrplayer/kkrbaseabt.json"
-import lsgBaseAbt from "../../data/lsgplayer/lsgbaseabt.json"
-import miBaseAbt from "../../data/miplayer/mibaseabt.json"
-import pkBaseAbt from "../../data/pkplayer/pkbaseabt.json"
-import rcbBaseAbt from "../../data/rcbplayer/rcbbaseabt.json"
-import rrBaseAbt from "../../data/rrplayer/rrbaseabt.json"
-import srhBaseAbt from "../../data/srhplayer/srhbaseabt.json"
+import cskBaseAbt from "../../data/cskplayer/cskbaseabt.json";
+import dcBaseAbt from "../../data/dcplayer/dcbaseabt.json";
+import gtBaseAbt from "../../data/gtplayer/gtbaseabt.json";
+import kkrBaseAbt from "../../data/kkrplayer/kkrbaseabt.json";
+import lsgBaseAbt from "../../data/lsgplayer/lsgbaseabt.json";
+import miBaseAbt from "../../data/miplayer/mibaseabt.json";
+import pkBaseAbt from "../../data/pkplayer/pkbaseabt.json";
+import rcbBaseAbt from "../../data/rcbplayer/rcbbaseabt.json";
+import rrBaseAbt from "../../data/rrplayer/rrbaseabt.json";
+import srhBaseAbt from "../../data/srhplayer/srhbaseabt.json";
 
 //about
-import cskAbt from "../../data/cskplayer/cskabt.json"
-import dcAbt from "../../data/dcplayer/dcabt.json"
-import gtAbt from "../../data/gtplayer/gtabt.json"
-import kkrAbt from "../../data/kkrplayer/kkrabt.json"
-import lsgAbt from "../../data/lsgplayer/lsgabt.json"
-import miAbt from "../../data/miplayer/miabt.json"
-import pkAbt from "../../data/pkplayer/pkabt.json"
-import rcbAbt from "../../data/rcbplayer/rcbabt.json"
-import rrAbt from "../../data/rrplayer/rrabt.json"
-import srhAbt from "../../data/srhplayer/srhabt.json"
+import cskAbt from "../../data/cskplayer/cskabt.json";
+import dcAbt from "../../data/dcplayer/dcabt.json";
+import gtAbt from "../../data/gtplayer/gtabt.json";
+import kkrAbt from "../../data/kkrplayer/kkrabt.json";
+import lsgAbt from "../../data/lsgplayer/lsgabt.json";
+import miAbt from "../../data/miplayer/miabt.json";
+import pkAbt from "../../data/pkplayer/pkabt.json";
+import rcbAbt from "../../data/rcbplayer/rcbabt.json";
+import rrAbt from "../../data/rrplayer/rrabt.json";
+import srhAbt from "../../data/srhplayer/srhabt.json";
 
 export const Team = () => {
-
-
-  
-
   const { id } = useParams();
   const teamId = Number(id);
 
@@ -105,7 +101,7 @@ export const Team = () => {
     bowlerData,
     bgColor,
     txtColor,
-    homeSquad,
+    defaultHome,
     baseAbout,
     About
   ) => {
@@ -116,12 +112,10 @@ export const Team = () => {
     localStorage.setItem("bowlers", JSON.stringify(bowlerData));
     localStorage.setItem("bgColor", bgColor);
     localStorage.setItem("txtColor", txtColor);
-    localStorage.setItem("homeSquad", homeSquad);
-    localStorage.setItem("baseAbout",JSON.stringify(baseAbout));
-    localStorage.setItem("About",JSON.stringify(About))
+    localStorage.setItem("baseAbout", JSON.stringify(baseAbout));
+    localStorage.setItem("About", JSON.stringify(About));
   };
 
- 
   useEffect(() => {
     switch (teamId) {
       case 1:
@@ -133,7 +127,6 @@ export const Team = () => {
           cskBowlers,
           "#f9cd05",
           "#000",
-          "false",
           cskBaseAbt,
           cskAbt
         );
@@ -147,7 +140,6 @@ export const Team = () => {
           dcBowlers,
           "#2561ae",
           "#FAAD1B",
-          "false",
           dcBaseAbt,
           dcAbt
         );
@@ -161,7 +153,6 @@ export const Team = () => {
           gtBowlers,
           "#1B2133",
           "#DBBE6E",
-          "false",
           gtBaseAbt,
           gtAbt
         );
@@ -175,7 +166,6 @@ export const Team = () => {
           kkrBowlers,
           "#3A225D",
           " #F7D54E",
-          "false",
           kkrBaseAbt,
           kkrAbt
         );
@@ -189,7 +179,6 @@ export const Team = () => {
           lsgBowlers,
           "#0057E2",
           "#FECC00",
-          "false",
           lsgBaseAbt,
           lsgAbt
         );
@@ -203,7 +192,6 @@ export const Team = () => {
           miBowlers,
           "#004B8D",
           "#D1AB3E",
-          "false",
           miBaseAbt,
           miAbt
         );
@@ -217,7 +205,6 @@ export const Team = () => {
           pkBowlers,
           "#DD1F2D",
           "#F2D1A0",
-          "false",
           pkBaseAbt,
           pkAbt
         );
@@ -231,7 +218,6 @@ export const Team = () => {
           rrBowlers,
           "#e73895",
           "#074EA2",
-          "false",
           rrBaseAbt,
           rrAbt
         );
@@ -245,7 +231,6 @@ export const Team = () => {
           rcbBowlers,
           "#E63329",
           "#041DC9",
-          "false",
           rcbBaseAbt,
           rcbAbt
         );
@@ -259,7 +244,6 @@ export const Team = () => {
           srhBowlers,
           "#EE7429",
           "#000",
-          "false",
           srhBaseAbt,
           srhAbt
         );
@@ -270,7 +254,6 @@ export const Team = () => {
   return (
     <>
       <Navigate to="/" />
-     
     </>
   );
 };

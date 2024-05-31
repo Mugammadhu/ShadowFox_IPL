@@ -89,11 +89,11 @@
     background-color: var(--text-color);
     border-radius: 10px;
     position: absolute;
-    margin-top: 485px;
+    margin-top: 570px;
     margin-left: 55%;
     padding-top: 5px;
     padding-bottom: 10px;
-    height: 400px;
+    min-height: 400px;
   }
   .isOpen{
     display: flex;
