@@ -32,8 +32,7 @@
 }
 .playerContainer__left img{
     width: 500px;
-    z-index:2;
-    
+    z-index:2;  
 }
 .playerContainer__left--name{
     z-index: 2;
@@ -121,4 +120,52 @@
     font-size: 18px;
     color: #7b8288;
     padding-left: 20px;
+}
+
+@media screen and (max-width:375px){
+    
+    .playerContainer__head{
+        flex-direction: column;
+        width: 100%;
+
+    }
+    .playerContainer__left--img{
+        width: 260px;
+        height: 260px;
+       border: 8px solid #fff;
+       left: 58px;
+    }
+    .playerContainer__left img{
+        width: 380px;
+        z-index:2;  
+    }
+    .playerContainer__left--name{
+        font-size: 25px;
+        margin-top: 5px;
+    }
+    .playerContainer__left--country{
+        font-size: 20px;
+    }
+    .playerTable{
+        width: 305px;
+        height: 150px;
+    }
+    .playerContainer__right--title{
+        font-size: 28px;
+    }
+    
+    .playerTable__td h5{
+        padding-top: 10px;
+    }
+    .playerAbout{
+        margin-left:15px;
+        margin-top: 15px;
+    }
+    .playerAbout__description{
+        font-size: 19px;
+    }
+    .playerAbout__title,.playerStats__batField--title,.playerStats__bowl--title,.restSquad__title{
+        font-weight: 600;
+        font-size: 25px;
+    }
 }
