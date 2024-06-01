@@ -14,6 +14,9 @@ import { TableCard } from "./TableCard";
 import { BowlTable } from "./BowlTable";
 
 export const Player = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   const { id } = useParams();
   const playerId = Number(id);
   const data = player.find((player) => player.id === playerId);
@@ -107,61 +110,65 @@ export const Player = () => {
         <p className="playerAbout__description">{about}</p>
       </div>
       <div className="playerStats mb-2">
-       {batField && <div className="playerStats__batField">
-          <h2 className="playerStats__batField--title">
-            Batting & Fielding Stats
-          </h2>
-          <div className="table-responsive">
-          <table className="table table-borderless batTable mx-auto table-hover">
-            <thead className="batHead text-light border-bottom">
-              <th>YEAR</th>
-              <th>MAT</th>
-              <th>NO</th>
-              <th className="run">RUNS</th>
-              <th>HS</th>
-              <th>AVG</th>
-              <th>BF</th>
-              <th>SR</th>
-              <th>100</th>
-              <th>50</th>
-              <th>4S</th>
-              <th>6S</th>
-              <th>CT</th>
-              <th>ST</th>
-            </thead>
-            <tbody className="table-light bowltd">
-              {batField.map((batfil) => (
-                <TableCard batfil={batfil} key={batfil.id} />
-              ))}
-            </tbody>
-          </table>
+        {batField && (
+          <div className="playerStats__batField">
+            <h2 className="playerStats__batField--title">
+              Batting & Fielding Stats
+            </h2>
+            <div className="table-responsive">
+              <table className="table table-borderless batTable mx-auto table-hover">
+                <thead className="batHead text-light border-bottom">
+                  <th>YEAR</th>
+                  <th>MAT</th>
+                  <th>NO</th>
+                  <th className="run">RUNS</th>
+                  <th>HS</th>
+                  <th>AVG</th>
+                  <th>BF</th>
+                  <th>SR</th>
+                  <th>100</th>
+                  <th>50</th>
+                  <th>4S</th>
+                  <th>6S</th>
+                  <th>CT</th>
+                  <th>ST</th>
+                </thead>
+                <tbody className="table-light bowltd">
+                  {batField.map((batfil) => (
+                    <TableCard batfil={batfil} key={batfil.id} />
+                  ))}
+                </tbody>
+              </table>
+            </div>
           </div>
-        </div>}
-        {bowl && <div className="playerStats__bowl">
-          <h2 className="playerStats__bowl--title">Bowling</h2>
-          <div className="table-responsive">
-           <table className="table table-borderless batTable mx-auto table-hover">
-            <thead className="batHead text-light border-bottom">
-              <th>YEAR</th>
-              <th>MAT</th>
-              <th>BALLS</th>
-              <th className="run">RUNS</th>
-              <th>WKTS</th>
-              <th>BBM</th>
-              <th>AVE</th>
-              <th>ECON</th>
-              <th>SR</th>
-              <th>4W</th>
-              <th>5W</th>
-            </thead>
-            <tbody className="table-light bowltd">
-              {bowl.map((bowl) => (
-                <BowlTable bowl={bowl} key={bowl.id} />
-              ))}
-            </tbody>
-          </table>
+        )}
+        {bowl && (
+          <div className="playerStats__bowl">
+            <h2 className="playerStats__bowl--title">Bowling</h2>
+            <div className="table-responsive">
+              <table className="table table-borderless batTable mx-auto table-hover">
+                <thead className="batHead text-light border-bottom">
+                  <th>YEAR</th>
+                  <th>MAT</th>
+                  <th>BALLS</th>
+                  <th className="run">RUNS</th>
+                  <th>WKTS</th>
+                  <th>BBM</th>
+                  <th>AVE</th>
+                  <th>ECON</th>
+                  <th>SR</th>
+                  <th>4W</th>
+                  <th>5W</th>
+                </thead>
+                <tbody className="table-light bowltd">
+                  {bowl.map((bowl) => (
+                    <BowlTable bowl={bowl} key={bowl.id} />
+                  ))}
+                </tbody>
+              </table>
+            </div>
           </div>
-        </div>}
+        )}
       </div>
 
       <div className="restSquad" style={{ backgroundColor: txtColor }}>

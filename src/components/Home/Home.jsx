@@ -29,9 +29,9 @@ export const Home = () => {
   return (
     <div className="Home-container">
       <div className="home_head">
-        <a href={teamOffPage} target="_blank">
+        {icon && <a href={teamOffPage} target="_blank">
           <img src={getImageUrl(icon)} alt="team logo" />
-        </a>
+        </a>}
         <div className="homeTitle">
           <h1>Welcome to {team} FanClub </h1>
         </div>

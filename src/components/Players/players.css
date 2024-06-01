@@ -45,7 +45,7 @@ min-height: 100vh;
 .playersList{
     display: none;
     position: fixed;
-    top: 130px;
+    top: 160px;
     right: 10px;
     z-index: 1;
     list-style: none;

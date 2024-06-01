@@ -7,9 +7,14 @@ import { Link } from "react-router-dom";
 
 
 export const PlayerCard = ({
+
+  
   data: { id, name, Specialization, imgSrc, logo, tlogo },
   typeIcon, bgColor,txtColor
-}) => {
+}
+) => {
+
+
  
   return (
     

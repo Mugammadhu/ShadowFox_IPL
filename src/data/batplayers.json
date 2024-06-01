@@ -28,20 +28,6 @@
     "imgSrc": "Players/rcb/batter/patidar.png"
   },
   {
-    "id": 28,
-    "name": "DAVID WARNER",
-    "Specialization": "BATTER",
-    "imgSrc": "Players/dc/batter/warner.png",
-    "logo": "Players/logo/foreignplayer.svg"
-  },
-  {
-    "id": 155,
-    "name": "SHIKHAR DHAWAN",
-    "Specialization": "BATTER",
-    "imgSrc": "Players/pk/batter/dhawan.png",
-    "logo": "Players/logo/captain.svg"
-  },
-  {
     "id": 156,
     "name": "JITESH SHARMA",
     "Specialization": "Wk KEEPER-BATTER",
@@ -71,6 +57,13 @@
     "tlogo": "Players/logo/WicketKeeper.png"
   },
   {
+    "id": 155,
+    "name": "SHIKHAR DHAWAN",
+    "Specialization": "BATTER",
+    "imgSrc": "Players/pk/batter/dhawan.png",
+    "logo": "Players/logo/captain.svg"
+  },
+  {
     "id": 233,
     "name": "ANMOLPREET SINGH",
     "Specialization": "BATTER",
@@ -84,6 +77,13 @@
     "imgSrc": "Players/pk/batter/bairstow.png",
     "logo": "Players/logo/foreignplayer.svg",
     "tlogo": "Players/logo/WicketKeeper.png"
+  },
+  {
+    "id": 28,
+    "name": "DAVID WARNER",
+    "Specialization": "BATTER",
+    "imgSrc": "Players/dc/batter/warner.png",
+    "logo": "Players/logo/foreignplayer.svg"
   },
   {
     "id": 158,

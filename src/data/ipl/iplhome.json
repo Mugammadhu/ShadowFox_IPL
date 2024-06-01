@@ -1,7 +1,7 @@
 {
-  "icon": "Navbar/ipllogo.png",
+  "icon":null,
   "team": "IPL",
-  "teamOffPage": "https://www.iplt20.com/",
+  "teamOffPage":null,
   "noCup":null,
   "homeVideo": "Navbar/iplIntro.mp4"
   

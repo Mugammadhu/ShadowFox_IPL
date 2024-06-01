@@ -801,5 +801,1008 @@
         "data": [4,10,8,0,"0/3","-",4.80,"-",0,0]
       }
     ]
+  },
+  {
+    "id": 12,
+    "name": "Nishant Sindhu",
+    "imgSrc": "Players/csk/allRounder/sindhu.jpg",
+    "nationality": "Indian",
+    "iplDebut":"",
+    "Specialization": "All-rounder",
+    "dob": "09 April 2004",
+    "matches": "0",
+    "about": "A young all-rounder from Rohtak, Nishant was instrumental in India’s U19 World Cup 2022 triumph with a fighting half-century in the Finals. Nishant was picked by the CSK for INR 60 lakhs in the IPL Player Auction 2023. Soon after the U19 Triumph, the 18-year-old all-rounder was picked in the Haryana Ranji team, wherein he made his debut against Kerala. The young gun will be looking forward to don the CSK colours and imbibe the plethora of experience and knowledge from the change room. ",
+    "batField":null,
+    "bowl":null
+  },
+  {
+    "id": 13,
+    "name": "AJAY MANDAL",
+    "imgSrc": "Players/csk/allRounder/ajay.jpg",
+    "nationality": "Indian",
+    "iplDebut":"",
+    "Specialization": "All-rounder",
+    "dob": "25 February 1996",
+    "matches": "0",
+    "about": "An all-rounder born in Madhya Pradesh, Ajay Mandal made his first class debut for Chhattisgarh in 2016. Ajay was picked by the CSK for his base price of INR 20 lakhs at the IPL 2023 Player Auction. Mandal has a record of scoring the maximum runs (241*) by an Indian batter at No.8 in domestic cricket. He is all set to join the CSK camp for the 16th edition of IPL.",
+    "batField":null,
+    "bowl":null
+  },
+  {
+    "id": 14,
+    "name": "RACHIN RAVINDRA",
+    "imgSrc": "Players/csk/allRounder/rachin.jpg",
+    "nationality": "IndianNew Zealander",
+    "iplDebut":"2024",
+    "Specialization": "All-rounder",
+    "dob": "18 November 1999",
+    "matches": "10",
+    "about": "Rachin Ravindra is a promising New Zealand cricketer known for his all-round abilities as a left-handed batsman and left-arm orthodox spinner. Born on November 18, 1999, Ravindra has quickly made a name for himself with his solid technique and versatility on the field. He has represented New Zealand in various formats, showcasing his potential with both bat and ball. Ravindra's performances in domestic cricket and international appearances have highlighted his capability to contribute significantly in key moments, making him a valuable asset to the New Zealand cricket team and a player with a bright future ahead.",
+    "batField": [
+      {
+        "id": 1,
+        "year": "CAREER",
+        "data": [10,0,222,61,22.20,138,160.87,0,1,22,12,8,0]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [10,0,222,61,22.20,138,160.87,0,1,22,12,8,0]
+      }],
+    "bowl": [
+      {
+        "id": 1,
+        "year": "CAREER",
+        "data": [10,12,7,0,"0/3","-",3.50,"-",0,0]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [10,12,7,0,"0/3","-",3.50,"-",0,0]
+      }]
+  },
+  {
+    "id": 15,
+    "name": "DARYL MITCHELL",
+    "imgSrc": "Players/csk/allRounder/mitchell.jpg",
+    "nationality": "IndianNew Zealander",
+    "iplDebut":"2022",
+    "Specialization": "All-rounder",
+    "dob": "20 May 1991",
+    "matches": "15",
+    "about": "Daryl Mitchell is a dynamic New Zealand cricketer renowned for his versatility and impactful performances in all formats of the game. Born on May 20, 1991, he is a right-handed batsman and a right-arm medium pace bowler. Mitchell's tenacity and skill have earned him a reputation as a reliable all-rounder, capable of anchoring the innings or accelerating the scoring rate as needed. His notable contributions include crucial innings in Test and One Day International matches, where his composure under pressure has often turned the tide in New Zealand's favor. Mitchell's dedication and consistent performances have solidified his place as a key player in the New Zealand national team.",
+    "batField": [
+      {
+        "id": 1,
+        "year": "CAREER",
+        "data": [15,2,351,63,27.00,267,131.46,0,2,28,10,11,0]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [13,2,318,63,28.91,223,142.60,0,2,27,10,9,0]
+      },
+      {
+        "id": 3,
+        "year": 2022,
+        "data": [2,0,33,17,16.50,44,75.00,0,0,1,0,2,0]
+      }
+    ],
+    "bowl": [
+      {
+        "id": 1,
+        "year": "CAREER",
+        "data": [15,48,97,1,"1/18",97.00,12.13,48.00,0,0]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [13,36,70,1,"1/18",70.00,11.67,36.00,0,0]
+      }
+      ,
+      {
+        "id": 3,
+        "year": 2022,
+        "data": [2,12,27,0,"0/7","-",13.50,"-",0,0]
+      }
+    ]
+  },
+  {
+    "id":16,
+    "name": "SHARDUL THAKUR",
+    "imgSrc": "Players/csk/allRounder/thakur.jpg",
+    "nationality": "Indian",
+    "iplDebut":2015 ,
+    "Specialization": "All-rounder",
+    "dob": "16 October 1991",
+    "matches": 95,
+    "about": "He has a knack to take wickets and possesses an ability to score important runs. Shardul Thakur, who was one of the highlights in the Chennai Super Kings’ victory in the last season’s final, will be donning the Delhi Capitals’ colours this season after the franchise had him on board for INR 10.75 Crore. Shardul, who represents Mumbai in domestic cricket, has been one of the most consistent performers for Team India in recent times and he will be keen to leave his mark in the TATA IPL 2022.",
+    "batField": [
+      {
+        "id": 1,
+        "year": "CAREER",
+        "data": [95,12,307,68,12.28,221,138.91,0,1,27,13,32,0]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [9,2,21,17,21.00,17,123.53,0,0,2,1,4,0]
+      },
+      {
+        "id": 3,
+        "year": 2023,
+        "data": [11,2,113,68,14.13,70,161.43,0,1,13,4,4,0]
+      },
+      {
+        "id": 4,
+        "year": 2022,
+        "data": [14,2,120,"29*",15.00,87,137.93,0,0,7,7,7,0]
+      },
+      {
+        "id": 5,
+        "year": 2021,
+        "data": [16,2,5,"3*",2.50,5,100.00,0,0,0,0,2,0]
+      },
+      {
+        "id": 6,
+        "year": 2020,
+        "data": [9,1,12,11,12.00,21,57.14,0,0,0,0,2,0]
+      },
+      {
+        "id": 7,
+        "year": 2019,
+        "data": [10,1,14,"12*",7.00,7,200.00,0,0,1,1,5,0]
+      },
+      {
+        "id": 8,
+        "year": 2018,
+        "data": [13,1,15,"15*",0.00,5,300.00,0,0,3,0,4,0]
+      },
+      {
+        "id": 9,
+        "year": 2017,
+        "data": [12,0,0,"0*",0.00,3,0.00,0,0,0,0,4,0]
+      },
+      {
+        "id": 10,
+        "year": 2015,
+        "data": [1,1,7,"7*",0.00,6,116.66,0,0,1,0,0,0]
+      }
+    ],
+    "bowl":[
+    {
+        "id": 1,
+        "year": "CAREER",
+        "data": [95,1866,2869,94,"4/36",30.52,9.23,19.85,1,0]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [9,190,309,5,"2/61",61.80,9.76,38.00,0,0]
+      },
+      {
+        "id": 3,
+        "year": 2023,
+        "data": [11,126,220,7,"2/23",31.43,10.48,18.00,0,0]
+      },
+      {
+        "id": 4,
+        "year": 2022,
+        "data": [14,290,473,15,"4/36",31.53,9.79,19.33,1,0]
+      },
+      {
+        "id": 5,
+        "year": 2021,
+        "data": [16,359,527,21,"3/28",25.09,8.80,17.09,0,0]
+      },
+      {
+        "id": 6,
+        "year": 2020,
+        "data": [9,194,275,10,"2/28",27.50,8.50,19.40,0,0]
+      },
+      {
+        "id": 7,
+        "year": 2019,
+        "data": [10,180,281,8,"2/18",35.12,9.36,22.50,0,0]
+      },
+      {
+        "id": 8,
+        "year": 2018,
+        "data": [13,280,431,16,"2/18",26.93,9.23,17.50,0,0]
+      },
+      {
+        "id": 9,
+        "year": 2017,
+        "data": [12,229,315,11,"3/19",28.63,8.25,20.81,0,0]
+      },
+      {
+        "id": 10,
+        "year": 2015,
+        "data": [1,18,38,1,"1/38",38.00,12.66,18.00,0,0]
+      }
+
+    ]
+  },
+  {
+    "id":17,
+    "name": "RICHARD GLEESON",
+    "imgSrc": "Players/csk/bowl/gleeson.jpg",
+    "nationality": "English",
+    "iplDebut":2024,
+    "Specialization": "Bowler",
+    "dob": "02 December 1987",
+    "matches": 2,
+    "about": "The English fast bowler, Gleeson, was added to the CSK squad of IPL 2024 as a replacement of injured Devon Conway. The right arm pacer has represented England in six T20Is and has nine wickets to his name. Additionally, Gleeson has played 90 T20s and picked 101 T20 wickets.",
+    "batField":[
+      {
+          "id": 1,
+          "year": "CAREER",
+          "data": [2,1,2,"2*","-",2,100.00,0,0,0,0,0,0]
+        },
+        {
+          "id": 2,
+          "year": 2024,
+          "data": [2,1,2,"2*","-",2,100.00,0,0,0,0,0,0]
+        }],
+    "bowl":[
+      {
+          "id": 1,
+          "year": "CAREER",
+          "data": [2,47,71,1,"1/30",71.00,9.06,47.00,0,0]
+        },
+        {
+          "id": 2,
+          "year": 2024,
+          "data": [2,47,71,1,"1/30",71.00,9.06,47.00,0,0]
+        }]
+  },
+  {
+    "id":18,
+    "name": "RAJVARDHAN HANGARGEKAR",
+    "imgSrc": "Players/csk/bowl/rajvardhan.jpg",
+    "nationality": "English",
+    "iplDebut":2023,
+    "Specialization": "Bowler",
+    "dob": "10 November 2002",
+    "matches": 2,
+    "about": "19 year old Rajvardhan was part of the recently concluded U19 Cricket World Cup that Team India won. The fiery fast bowler and a power hitter who can also be used as a finisher, Rajvardhan saw quite an interest at the auction room and was finally snapped by the CSK for INR 1.5 crore. It will be interesting to see how MS Dhoni utilizes this youngster’s services.",
+    "batField":[
+      {
+          "id": 1,
+          "year": "CAREER",
+          "data": [2,0,0,0,"-","-","-",0,0,0,0,0,0]
+        },
+        {
+          "id": 2,
+          "year": 2024,
+          "data": [2,0,0,0,"-","-","-",0,0,0,0,0,0]
+        }],
+    "bowl":[
+      {
+          "id": 1,
+          "year": "CAREER",
+          "data": [2,36,60,3,"3/36",20.00,10.00,12.00,0,0]
+        },
+        {
+          "id": 2,
+          "year": 2024,
+          "data": [2,36,60,3,"3/36",20.00,10.00,12.00,0,0]
+        }]
+  },
+  {
+    "id":19,
+    "name": "DEEPAK CHAHAR",
+    "imgSrc": "Players/csk/bowl/chakar.png",
+    "nationality": "Indian",
+    "iplDebut":2016 ,
+    "Specialization": "Bowler",
+    "dob": "07 August 1992",
+    "matches": 81,
+    "about": "CSK boy, Deepak Chahar is back with CSK for the 2022 edition of the league. It turned out to be fierce bidding war for the swing bowler, with SRH and Delhi Capitals starting the bids for Deepak and later were joined by RR and CSK for the same. It was as if the CSK had decided to get their man back into the ranks and finally succeeded in the same with a price of INR 14 crore. The Agra-born medium pacer, Deepak Chahar was a part of the Rajasthan Royals squad in 2012, donned the RPS jersey for two seasons and was bought by the Chennai Super Kings in the eleventh edition of the league. Chahar has risen through the ranks and his ability to swing the new ball both ways with control is what makes him a lot more lethal at the top. Chahar also possesses the ability to hit handy runs lower down the order and his current exploits, a match winning knock against Sri Lanka and a 34 ball 54 against South Africa has been the talk of the town. Ahead of the 2018 season, Deepak was picked by the Chennai Super Kings and medium-pacer had a breakthrough 2018 IPL season taking 10 wickets in 12 matches. He was then subsequently rewarded with an India call-up in limited-overs cricket.",
+    "batField": [
+      {
+        "id": 1,
+        "year": "CAREER",
+        "data": [81,6,80,39,11.43,59,135.59,0,0,2,6,13,0]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [8,0,0,0,"-","-","-",0,0,0,0,0,0]
+      },
+      {
+        "id": 2,
+        "year": 2023,
+        "data": [10,1,1,"1*","-",2,50.00,0,0,0,0,1,0]
+      },
+      {
+        "id": 3,
+        "year": 2021,
+        "data": [15,2,1,"1*",0.00,1,100.00,0,0,0,0,5,0]
+      },
+      {
+        "id": 4,
+        "year": 2020,
+        "data": [14,2,7,"5*",7.00,12,58.33,0,0,0,0,3,0]
+      },
+      {
+        "id": 5,
+        "year": 2019,
+        "data": [17,0,7,7,3.50,9,77.77,0,0,1,0,2,0]
+      },
+      {
+        "id": 6,
+        "year": 2018,
+        "data": [12,1,50,39,16.66,29,172.41,0,0,1,4,1,0]
+      },
+      {
+        "id": 7,
+        "year": 2017,
+        "data": [3,0,14,14,14.00,6,233.33,0,0,0,2,0,0]
+      },
+      {
+        "id": 8,
+        "year": 2016,
+        "data": [2,0,0,0,0.00,0,0.00,0,0,0,0,1,0]
+      }
+    ],
+    "bowl":[
+    {
+        "id": 1,
+        "year": "CAREER",
+        "data": [81,1669,2221,77,"4/13",28.84,7.98,21.68,2,0]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [8,141,202,5,"2/28",40.40,8.60,28.20,0,0]
+      },
+      {
+        "id": 3,
+        "year": 2023,
+        "data": [10,204,297,13,"3/22",22.85,8.74,15.69,0,0]
+      },
+      {
+        "id": 4,
+        "year": 2021,
+        "data": [15,324,451,14,"4/13",32.21,8.35,23.14,2,0]
+      },
+      {
+        "id": 5,
+        "year": 2020,
+        "data": [14,312,396,12,"2/18",33.00,7.61,26.00,0,0]
+      },
+      {
+        "id": 6,
+        "year": 2019,
+        "data": [17,387,482,22,"3/20",21.90,7.47,17.59,0,0]
+      },
+      {
+        "id": 7,
+        "year": 2018,
+        "data": [12,229,278,10,"3/15",27.80,7.28,22.90,0,0]
+      },
+      {
+        "id": 8,
+        "year": 2017,
+        "data": [3,42,74,1,"1/35",74.00,10.57,42.00,0,0]
+      },
+      {
+        "id": 9,
+        "year": 2016,
+        "data": [2,30,41,0,"0/13","-",8.20,"-",0,0]
+      }
+
+    ]
+  },
+  {
+    "id": 20,
+    "name": "MAHEESH THEEKSHANA",
+    "imgSrc": "Players/csk/bowl/theekshana.jpg",
+    "nationality": "Sri Lankan",
+    "iplDebut":"2022",
+    "Specialization": "Bowler",
+    "dob": "01 August 2000",
+    "matches": "27",
+    "about": "Mystery spinner from Sri Lanka makes his way in IPL 2022 as the Chennai Super Kings bought him for INR 70 lakhs at the 2022 Mega Auction. KKR and CSK both showed interest in the 21-year-old youngster, but it was the CSK who bagged him into their camp. With 15 T20I matches to his name, it will be interesting to see how he is utilized here for the IPL.",
+    "batField": [
+      {
+        "id": 1,
+        "year": "CAREER",
+        "data": [27,1,7,"7*",7.00,7,100.00,0,0,0,1,4,0]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [5,0,0,0,"-","-","-",0,0,0,0,1,0]
+      },
+      {
+        "id": 3,
+        "year": 2023,
+        "data": [13,0,0,0,"-","","-",0,0,0,0,3,0]
+      },
+      {
+        "id": 3,
+        "year": 2022,
+        "data": [9,1,7,"7*",7.00,7,100.00,0,0,0,1,0,0]
+      }
+    ],
+    "bowl": [
+      {
+        "id": 1,
+        "year": "CAREER",
+        "data": [27,624,797,25,"4/33",31.88,7.66,24.96,1,0]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [5,120,144,2,"1/27",72.00,7.20,60.00,0,0]
+      }
+      ,
+      {
+        "id": 3,
+        "year": 2023,
+        "data": [13,294,392,11,"2/23",35.64,8.00,26.73,0,0]
+      },
+      {
+        "id": 3,
+        "year": 2022,
+        "data": [9,210,261,12,"4/33",21.75,7.46,17.50,1,0]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "MUKESH CHOUDHARY",
+    "imgSrc": "Players/csk/bowl/mukesh.jpg",
+    "nationality": "Indian",
+    "iplDebut":"2022",
+    "Specialization": "Bowler",
+    "dob": "06 July 1996",
+    "matches": "14",
+    "about": "Leading wicket-taker for Maharashtra in Vijay Hazare Trophy 2021-22, Mukesh Choudhary was bought by CSK for his base price of INR 20 lakhs at the IPL 2022 Mega Auction. This will be Mukesh’s dream come true moment as he is all set to enter the IPL fold and share the dressing room with the big guns at CSK",
+    "batField": [
+      {
+        "id": 1,
+        "year": "CAREER",
+        "data": [14,1,6,4,6.00,6,100.00,0,0,1,0,3,0]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [1,0,0,0,"-","-","-",0,0,0,0,0,0]
+      },
+      {
+        "id": 3,
+        "year": 2022,
+        "data": [13,1,6,4,6.00,6,100.00,0,0,1,0,3,0]
+      }
+    ],
+    "bowl": [
+      {
+        "id": 1,
+        "year": "CAREER",
+        "data": [14,279,451,16,"4/46",28.19,9.70,17.44,1,0]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [1,6,27,0,"0/27","-",27.00,"-",0,0]
+      }
+      ,
+      {
+        "id": 3,
+        "year": 2022,
+        "data": [13,273,424,16,"4/46",26.50,9.32,17.06,1,0]
+      }
+    ]
+  },
+  {
+    "id":22,
+    "name": "MUSTAFIZUR RAHMAN",
+    "imgSrc": "Players/csk/bowl/mustafizur.jpg",
+    "nationality": "Bangladeshi",
+    "iplDebut":2016 ,
+    "Specialization": "Bowler",
+    "dob": "06 September 1995",
+    "matches":57,
+    "about": "Mustafizur Rahman is a left-arm pace bowler who came to Dhaka in 2012 to try his luck at a fast-bowler’s camp, after he had impressed in an Under-17 tournament in his hometown Satkhira. He was admitted to the Bangladesh Cricket Board's pace foundation and soon caught the coaches' attention to make the Bangladesh Under-19 side for the 2014 World Cup. He initially lacked pace, but built it up through the 2014-15 first-class season, when he took 26 wickets. An international call up came soon and Mustafizur impressed straightaway making some of the best in the business look tentative against him. He enjoyed great success against India in the Asia Cup in 2016 and caught the eye worldwide for his ability to generate good pace and for his deceptive slower one. The IPL 2016 was his first stint with the IPL and he was known for his lethal yorker to KKR all-rounder Andre Russell. He was impressive for SRH last year and would be looking to do well in the 2017 edition as well. RR acquired Mustafizur's services after bringing him on the board for INR 1 Cr. The left-arm pacer from Bangladesh has thus far played five IPL seasons and has 46 IPL wickets to his name and he will be looking to add a few more wickets to his tally as the Delhi Capitals look to clinch the title in TATA IPL 2023.",
+    "batField": [
+      {
+        "id": 1,
+        "year": "CAREER",
+        "data": [57,8,13,"8*",13.00,23,56.52,0,0,0,1,7,0]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [9,0,0,0,"-","-","-",0,0,0,0,1,0]
+      },
+      {
+        "id": 3,
+        "year": 2023,
+        "data": [2,1,1,"1*","-",1,100.00,0,0,0,0,0,0]
+      },
+      {
+        "id": 4,
+        "year": 2022,
+        "data": [8,1,3,"3*","-",5,60.00,0,0,0,0,1,0]
+      },
+      {
+        "id": 5,
+        "year": 2021,
+        "data": [14,5,8,"8*",0.00,14,57.14,0,0,0,1,1,0]
+      },
+      {
+        "id": 6,
+        "year": 2018,
+        "data": [7,1,1,1,1.00,3,33.33,0,0,0,0,2,0]
+      },
+      {
+        "id": 7,
+        "year": 2017,
+        "data": [1,0,0,0,0.00,0,0.00,0,0,0,0,0,0]
+      },
+      {
+        "id": 8,
+        "year": 2016,
+        "data": [16,0,0,0,0.00,0,0.00,0,0,0,0,2,0]
+      }
+      
+    ],
+    "bowl":[
+    {
+        "id": 1,
+        "year": "CAREER",
+        "data": [57,1298,1762,61,"4/29",28.89,8.14,21.28,1,0]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [9,206,318,14,"4/29",22.71,9.26,14.71,1,0]
+      },
+      {
+        "id": 3,
+        "year": 2023,
+        "data": [2,42,79,1,"1/38",79.00,11.29,42.00,0,0]
+      },
+      {
+        "id": 4,
+        "year": 2022,
+        "data": [8,192,244,8,"3/18",30.50,7.63,24.00,0,0]
+      },
+      {
+        "id": 5,
+        "year": 2021,
+        "data": [14,311,436,14,"3/20",31.14,8.41,22.21,0,0]
+      },
+      {
+        "id": 6,
+        "year": 2018,
+        "data": [7,165,230,7,"3/24",32.85,8.36,23.57,0,0]
+      },
+      {
+        "id": 7,
+        "year": 2017,
+        "data": [1,16,34,0,"0/34","-",12.75,"-",0,0]
+      },
+      {
+        "id": 8,
+        "year": 2016,
+        "data": [16,366,421,17,"3/16",24.76,6.90,21.52,0,0]
+      }
+    ]
+  },
+  {
+    "id":23,
+    "name": "PRASHANT SOLANKI",
+    "imgSrc": "Players/csk/bowl/prashanth.jpg",
+    "nationality": "Indian",
+    "iplDebut":2022,
+    "Specialization": "Bowler",
+    "dob": "15 October 1992",
+    "matches": 2,
+    "about": "A debut at the IPL auction for Prashant Solanki and it indeed was one to remember for the 22 year old who hails from Mumbai. It started from his base price of 20 lakhs with RR and CSK, both bidding fiercely for the youngster and in the end, it was CSK who bagged him for INR 1.20 crore. The right-arm leggie from Mumbai is an interesting prospect for the CSK camp.    ",
+    "batField":[
+      {
+          "id": 1,
+          "year": "CAREER",
+          "data": [2,0,0,0,"-","-","-",0,0,0,0,0,0]
+        },
+        {
+          "id": 2,
+          "year": 2022,
+          "data": [2,0,0,0,"-","-","-",0,0,0,0,0,0]
+        }],
+    "bowl":[
+      {
+          "id": 1,
+          "year": "CAREER",
+          "data": [2,36,38,2,"2/20",19.00,6.33,18.00,0,0]
+        },
+        {
+          "id": 2,
+          "year": 2024,
+          "data": [2,36,38,2,"2/20",19.00,6.33,18.00,0,0]
+        }]
+  },
+  {
+    "id":24,
+    "name": "SIMARJEET SINGH",
+    "imgSrc": "Players/csk/bowl/simarjeet.jpg",
+    "nationality": "Indian",
+    "iplDebut":2022,
+    "Specialization": "Bowler",
+    "dob": "17 January 1998",
+    "matches": 10,
+    "about": "The tall, skiddy pacer who was a net bowler with the Delhi Capitals was bought by Chennai Super Kings for his base price of INR 20 lakhs at the IPL 2022 Mega Auction.",
+    "batField":[
+      {
+          "id": 1,
+          "year": "CAREER",
+          "data": [10,2,7,"3*",7.00,8,87.50,0,0,0,0,3,0]
+        },
+        {
+          "id": 2,
+          "year": 2024,
+          "data": [4,0,0,0,"-","-","-",0,0,0,0,2,0]
+        },
+        {
+          "id": 3,
+          "year": 2022,
+          "data": [6,2,7,"3*",7.00,8,87.50,0,0,0,0,1,0]
+        }
+      ],
+    "bowl":[
+      {
+          "id": 1,
+          "year": "CAREER",
+          "data": [10,180,259,9,"3/26",28.78,8.63,20.00,0,0]
+        },
+        {
+          "id": 2,
+          "year": 2024,
+          "data": [4,72,121,5,"3/26",24.20,10.08,14.40,0,0]
+        },
+        {
+          "id": 3,
+          "year": 2022,
+          "data": [6,108,138,4,"2/27",34.50,7.67,27.00,0,0]
+        }
+      ]
+  },
+  {
+    "id":25,
+    "name": "TUSHAR DESHPANDE",
+    "imgSrc": "Players/csk/bowl/deshpande.jpg",
+    "nationality": "Indian",
+    "iplDebut":2020,
+    "Specialization": "Bowler",
+    "dob": "15 May 1995",
+    "matches": 36,
+    "about": "The Mumbai lad, Tushar Deshpande was picked by the CSK for his base price of INR 20 lakhs at the IPL 2022 Mega Auction. Tushar made his FC debut in 2016 and has been performing in the domestic circuit. Earlier, Tushar has represented the Delhi Capitals and has played 5 games in the IPL. This season, Tushar is all set to join the yellow army.",
+    "batField":[
+      {
+          "id": 1,
+          "year": "CAREER",
+          "data": [36,3,21,"20*",21.00,14,150.00,0,0,2,1,6,0]
+        },
+        {
+          "id": 2,
+          "year": 2024,
+          "data": [13,1,0,"0*","-",1,0.00,0,0,0,0,2,0]
+        },
+        {
+          "id": 3,
+          "year": 2023,
+          "data": [16,1,0,"0*","-",1,0.00,0,0,0,0,2,0]
+        },
+        {
+          "id": 4,
+          "year": 2022,
+          "data": [2,0,0,0,"-","-","-",0,0,0,0,1,0]
+        },
+        {
+          "id": 5,
+          "year": 2020,
+          "data": [5,1,21,"20*",21.00,12,175.00,0,0,2,1,1,0]
+        }
+      ],
+    "bowl":[
+      {
+          "id": 1,
+          "year": "CAREER",
+          "data": [36,773,1243,42,"4/27",29.60,9.65,18.40,1,0]
+        },
+        {
+          "id": 2,
+          "year": 2024,
+          "data": [13,288,424,17,"4/27",24.94,8.83,16.94,1,0]
+        },
+        {
+          "id": 3,
+          "year": 2023,
+          "data": [16,341,564,21,"3/45",26.86,9.92,16.24,0,0]
+        },
+        {
+          "id": 4,
+          "year": 2022,
+          "data": [2,42,63,1,"1/40",63.00,9.00,42.00,0,0]
+        },
+        {
+          "id": 5,
+          "year": 2020,
+          "data": [5,102,192,3,"2/37",64.00,11.29,34.00,0,0]
+        }
+      ]
+  },
+  {
+    "id":26,
+    "name": "MATHEESHA PATHIRANA",
+    "imgSrc": "Players/csk/bowl/patheerana.jpg",
+    "nationality": "Sri Lankan",
+    "iplDebut":2022,
+    "Specialization": "Bowler",
+    "dob": "18 December 2002",
+    "matches": 20,
+    "about": "Matheesha Pathirana was roped in by the Chennai Super Kings in IPL 2022 as a player replacement for the injured Adam Milne. Born on 18 December 2002 in Kandy, Sri Lanka, the 19-year-old right-arm medium pacer and right-handed batter featured in Sri Lanka's U19 World Cup squads in 2020 and 2022. It will be interesting to see how the young talented pacer will be utilized in CSK's plans for the 2022 edition of the tournament.",
+    "batField":[
+      {
+          "id": 1,
+          "year": "CAREER",
+          "data": [20,0,0,0,"-","-","-",0,0,0,0,6,0]
+        },
+        {
+          "id": 2,
+          "year": 2024,
+          "data": [6,0,0,0,"-","-","-",0,0,0,0,1,0]
+        },
+        {
+          "id": 3,
+          "year": 2023,
+          "data": [12,0,0,0,"-","-","-",0,0,0,0,4,0]
+        },
+        {
+          "id": 4,
+          "year": 2022,
+          "data": [2,0,0,0,"-","-","-",0,0,0,0,1,0]
+        }
+      ],
+    "bowl":[
+      {
+          "id": 1,
+          "year": "CAREER",
+          "data": [20,451,592,34,"4/28",17.41,7.88,13.26,1,0]
+        },
+        {
+          "id": 2,
+          "year": 2024,
+          "data": [6,132,169,13,"4/28",13.00,7.68,10.15,1,0]
+        },
+        {
+          "id": 3,
+          "year": 2023,
+          "data": [12,278,371,19,"3/15",19.53,8.01,14.63,0,0]
+        },
+        {
+          "id": 4,
+          "year": 2022,
+          "data": [2,41,52,2,"2/24",26.00,7.61,20.50,0,0]
+        }
+      ]
+  },
+
+
+  {
+    "id":202,
+    "name": "FAF DU PLESSIS",
+    "imgSrc": "Players/rcb/batter/faf.png",
+    "nationality": "South African",
+    "iplDebut":2012 ,
+    "Specialization": "Batter",
+    "dob": "13 July 1984",
+    "matches": 145,
+    "about": "On March 12, 2022 the former RCB Skipper, Virat Kohli announced that he would be passing on the baton tow Faf du Plessis, who will be the new Captain for the RCB. It will be an all new setup, change in team colours for Faf du Plessis who will be representing the RCB the 2022 edition of the league. The veteran batter from South Africa was bought by the RCB for INR 7 crore at the IPL 2022 Mega Auction. Faf du Plessis started his IPL journey with the CSK and has played for them ever since. The right-handed batter played an all-important knock in the Finals of the 2021 edition of the league, scoring 86 runs off 59 deliveries, thereby winning the Player of the Match for the same. In 2018, Punjab Kings bought Faf for INR 1.6cr, but but CSK trumped them by using their RTM card and it sure was a bargain for them. While the classy and composed batsman did not get many outings in the RPS squad where he was picked up in the IPL player draft, du Plessis had consistent performances for CSK wherein he went on to have a very successful debut season scoring 398 runs. He impressed with a half-century on his ODI debut, against India and soon enough, found himself in South Africa’s squad for the 2011 World Cup. With a century on Test debut against Australia, du Plessis has shed the tag of a limited-overs specialist. Although batting remains his area of prowess, du Plessis can come up with a few handy leg-spinners when required. To boot that, he is a livewire in the field, hence, making him a perfect T20 package for any captain.",
+    "batField": [
+      {
+        "id": 1,
+        "year": "CAREER",
+        "data": [145,11,4571,96,35.99,3352,136.37,0,37,421,166,81,0]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [15,0,438,64,29.20,271,161.62,0,4,47,21,8,0]
+      },
+      {
+        "id": 2,
+        "year": 2023,
+        "data": [14,1,730,84,56.15,475,153.68,0,8,60,36,3,0]
+      },
+      {
+        "id": 3,
+        "year": 2022,
+        "data": [16,1,468,96,31.20,367,127.52,0,3,49,13,4,0]
+      },
+      {
+        "id": 4,
+        "year": 2021,
+        "data": [16,2,633,"95*",45.21,458,138.20,0,6,60,23,12,0]
+      },
+      {
+        "id": 5,
+        "year": 2020,
+        "data": [13,2,449,"87*",40.81,319,140.75,0,4,42,14,12,0]
+      },
+      {
+        "id": 6,
+        "year": 2019,
+        "data": [12,1,396,96,36.00,321,123.36,0,3,36,15,12,0]
+      },
+      {
+        "id": 7,
+        "year": 2018,
+        "data": [6,1,162,"67*",32.40,129,125.58,0,1,17,6,1,0]
+      },
+      {
+        "id": 8,
+        "year": 2017,
+        "data": [2,0,8,8,8.00,7,114.28,0,0,1,0,0,0]
+      },
+      {
+        "id": 8,
+        "year": 2016,
+        "data": [6,0,206,69,34.33,162,127.16,0,2,17,9,4,0]
+      },
+      {
+        "id": 9,
+        "year": 2015,
+        "data": [17,2,380,55,29.23,304,125.00,0,1,37,5,8,0]
+      },
+      {
+        "id": 10,
+        "year": 2014,
+        "data": [15,1,303,"54*",27.54,235,128.93,0,2,26,7,13,0]
+      },
+      {
+        "id": 11,
+        "year": 2012,
+        "data": [13,0,398,73,33.16,304,130.92,0,3,29,17,4,0]
+      }
+    ],
+    "bowl":[
+    {
+        "id": 1,
+        "year": "CAREER",
+        "data": [145,6,16,0,"0/16","-",16.00,"-",0,0]
+      },
+      {
+        "id": 2,
+        "year": 2024,
+        "data": [13,6,16,0,"0/16","-",16.00,"-",0,0]
+      }
+
+    ]
+  },
+  {
+    "id":203,
+    "name": "RAJAT PATIDAR",
+    "imgSrc": "Players/rcb/batter/patidar.png",
+    "nationality": "Indian",
+    "iplDebut":2021,
+    "Specialization": "Batter",
+    "dob": "01 June 1993",
+    "matches": 27,
+    "about": "Born in Indore, Madhya Pradesh, Rajat Patidar joined RCB in IPL 2022 as a replacement of the injured Luvnith Sisodia for the price of INR 20 Lakh. The right-handed batter, who represents Madhya Pradesh in domestic cricket, has scored 861 runs in 31 T20 games where he has featured for the side, with 7 half-centuries and a high score of 96. Rajat previously represented RCB in IPL 2021 and scored 71 runs in the four games he played in the season. The 28-year old batter, on the back of his domestic experience, can strengthen the RCB middle-order and play a pivotal role in the team’s longevity and success in the tournament.",
+    "batField":[
+      {
+          "id": 1,
+          "year": "CAREER",
+          "data": [27,1,799,"112*",34.74,503,158.85,1,7,51,54,8,0]
+        },
+        {
+          "id": 2,
+          "year": 2024,
+          "data": [15,0,395,55,30.38,223,177.13,0,5,21,33,3,0]
+        },
+        {
+          "id": 3,
+          "year": 2022,
+          "data": [8,1,333,"112*",55.50,218,152.75,1,2,27,18,4,0]
+        },
+        {
+          "id": 4,
+          "year": 2021,
+          "data": [4,0,71,31,17.75,62,114.51,0,0,3,3,1,0]
+        }
+      ],
+    "bowl":null
+  },
+
+
+
+  {
+    "id":156,
+    "name": "JITESH SHARMA",
+    "imgSrc": "Players/pk/batter/jitesh.png",
+    "nationality": "Indian",
+    "iplDebut":2022,
+    "Specialization": "Wicketkeeper Batter",
+    "dob": "22 October 1993",
+    "matches": 40,
+    "about": "The Vidarbha wicketkeeper-batter has thus far played 54 T20s and scored 1329 runs with the strike rate of 141.83. He was bought by the PBKS for INR 20 Lac.",
+    "batField":[
+      {
+          "id": 1,
+          "year": "CAREER",
+          "data": [40,4,730,"49*",22.81,483,151.14,0,0,53,45,25,4]
+        },
+        {
+          "id": 2,
+          "year": 2024,
+          "data": [14,1,187,"32*",17.00,142,131.69,0,0,9,12,13,0]
+        },
+        {
+          "id": 3,
+          "year": 2023,
+          "data": [14,1,309,"49*",23.77,198,156.06,0,0,22,21,3,2]
+        },
+        {
+          "id": 4,
+          "year": 2022,
+          "data": [12,2,234,44,29.25,143,163.64,0,0,22,12,9,2]
+        }
+      ],
+    "bowl":null
+  },
+
+
+  {
+    "id":230,
+    "name": "GLENN PHILLIPS",
+    "imgSrc": "Players/srh/batter/glenn.png",
+    "nationality": "New Zealander",
+    "iplDebut":2021,
+    "Specialization": "Wicketkeeper Batter",
+    "dob": "06 December 1996",
+    "matches": 8,
+    "about": "The New Zealand wicketkeeper-batsman joined Rajasthan Royals in 2021 as a replacement for Jofra Archer. Phillips, played just 3 matches in that edition of the IPL and was mostly known for his superman-like fielding efforts on the field. He has thus far played 35 T20Is and has 645 runs against his name with the help of one hundred and two half-centuries.",
+    "batField":[
+      {
+          "id": 1,
+          "year": "CAREER",
+          "data": [8,1,65,25,9.29,55,118.18,0,0,3,6,3,0]
+        },
+        {
+          "id": 2,
+          "year": 2023,
+          "data": [5,0,39,25,7.80,22,177.27,0,0,2,4,2,0]
+        },
+        {
+          "id": 3,
+          "year": 2021,
+          "data": [3,1,26,"14*",13.00,33,78.78,0,0,1,2,1,0]
+        }
+      ],
+    "bowl":[
+      {
+          "id": 1,
+          "year": "CAREER",
+          "data": [8,30,40,2,"1/10",20.00,8.00,15.00,0,0]
+        },
+        {
+          "id": 2,
+          "year": 2023,
+          "data": [5,18,20,1,"1/10",20.00,6.67,18.00,0,0]
+        },
+        {
+          "id": 3,
+          "year": 2021,
+          "data": [3,12,20,1,"1/17",20.00,10.00,12.00,0,0]
+        }
+      ]
   }
+  
+
+
 ]

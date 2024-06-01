@@ -2,8 +2,12 @@ import { useParams } from "react-router-dom";
 import ground from "../../data/ground.json";
 import "./ground.css";
 import { getImageUrl } from "../../utils";
+import { useEffect } from "react";
 
 export const Ground = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   const { id } = useParams();
   const GroundId = Number(id);
 

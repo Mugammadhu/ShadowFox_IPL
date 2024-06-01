@@ -16,6 +16,19 @@
         "description":"Kolkata Knight Riders defeated Kings XI Punjab by 3 wickets to win the 2014 Indian Premier League in a high intensity final match, which was played in flawless spirit between the top two teams.",
         "link":"https://youtu.be/nPtIvA45Ju0?si=HYhAm4BzVDAycEtg",
         "more":"https://en.wikipedia.org/wiki/2014_Indian_Premier_League_final"
-    }
+    },
+    {
+        "id": 17,
+        "SrcImage": [
+          "Home/kkr/kkr2024-1.jpg",
+          "Home/kkr/kkr2024-2.jpg",
+          "Home/kkr/kkr2024-3.jpg"
+        ],
+        "title": "KKR 2024 Trophy",
+        "alt": "KKR 2024 Trophy",
+        "description": "Kolkata Knight Riders (KKR) secured their third IPL title by defeating Sunrisers Hyderabad (SRH) in a thrilling final of the 2024 IPL season. KKR posted a formidable total of 208/7, powered by Andre Russell's explosive 64 off 25 balls and Phil Salt's steady 54 off 40. Despite Heinrich Klaasen's valiant 63 off 29 for SRH, KKR's Harshit Rana held his nerve in the final over, taking crucial wickets and ensuring a 4-run victory for KKR. This win ended a decade-long title drought for KKR, who had earlier dominated SRH in Qualifier 1, continuing the trend of Qualifier 1 winners clinching the trophy​.",
+        "link": "https://www.jiocinema.com/sports/cricket/final-kkr-vs-srh-highlights/3980221?utm_source=Onebox&utm_medium=GoogleHighlights&utm_campaign=Cricket_Highlights_TATA_IPL_2024_KKR_vs_SRH",
+        "more": "https://en.wikipedia.org/wiki/2024_Kolkata_Knight_Riders_season"
+      }
 
 ]
