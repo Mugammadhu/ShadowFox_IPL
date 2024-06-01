@@ -71,8 +71,8 @@
 }
 
 
-@media screen and (max-width:830px){
-  main{
-        
-  }
+@media screen and (max-width:375px){
+    .pointsTitle{
+        font-size:30px;
+    }
 }

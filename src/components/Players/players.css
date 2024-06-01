@@ -107,5 +107,7 @@ min-height: 100vh;
         z-index: 1;
         right: 10px;
     }
-    
+    .searchBox{
+        margin-left: 12%;
+    }
 }
