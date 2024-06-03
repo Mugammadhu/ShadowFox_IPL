@@ -101,7 +101,6 @@ export const Team = () => {
     bowlerData,
     bgColor,
     txtColor,
-    defaultHome,
     baseAbout,
     About
   ) => {

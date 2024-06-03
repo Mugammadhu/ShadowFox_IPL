@@ -1,34 +1,26 @@
 import "./about.css";
 import { getImageUrl } from "../../utils";
 import iplBaseAbt from "../../data/ipl/iplbaseabt.json";
-import iplAbt from "../../data/ipl/iplabt.json"
+import iplAbt from "../../data/ipl/iplabt.json";
 import { AboutCard } from "./AboutCard";
 
 export const About = () => {
+  let baseAbout = JSON.parse(localStorage.getItem("baseAbout"));
+  let About = JSON.parse(localStorage.getItem("About"));
+
+  if (baseAbout === null && About === null) {
+    localStorage.setItem("baseAbout", JSON.stringify(iplBaseAbt));
+    localStorage.setItem("About", JSON.stringify(iplAbt));
+    baseAbout = JSON.parse(localStorage.getItem("baseAbout"));
+    About = JSON.parse(localStorage.getItem("About"));
 
 
-  let baseAbout= JSON.parse(localStorage.getItem("baseAbout"));
-  let About= JSON.parse(localStorage.getItem("About"));
-  console.log(baseAbout)
-  console.log(About)
-
-  if(baseAbout===null && About===null){
-    localStorage.setItem("baseAbout",JSON.stringify(iplBaseAbt));
-    localStorage.setItem("About",JSON.stringify(iplAbt))
-    baseAbout= JSON.parse(localStorage.getItem("baseAbout"));
-    About= JSON.parse(localStorage.getItem("About"));
   }
 
-  if(baseAbout !== null  && About !== null){
-    var{imgSrc,team,about,history1,history2,history3}=baseAbout;
+  if (baseAbout !== null && About !== null) {
+    var { imgSrc, team, about, history1, history2, history3 } = baseAbout;
+
   }
-  
-
-  console.log(baseAbout)
-  console.log(About)
-
-
- 
 
   return (
     <main className="abt_container">
@@ -38,9 +30,7 @@ export const About = () => {
           <img src={getImageUrl(imgSrc)} alt={`${team} image`} />
         </div>
         <div className="abt_team--para">
-          <p>
-          {about}
-          </p>
+          <p>{about}</p>
         </div>
       </div>
       <div className="history">
@@ -52,7 +42,9 @@ export const About = () => {
         </ul>
       </div>
       <div className="member">
-        {About.map((abt)=> <AboutCard key={abt.id} abt={abt}/>)}
+        {About.map((abt) => (
+          <AboutCard key={abt.id} abt={abt} />
+        ))}
       </div>
     </main>
   );
